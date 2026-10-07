@@ -285,7 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627916",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.916Z",
-	"dcterms:modified": "2023-07-06T20:36:27.916Z",
+	"dcterms:modified": "2026-10-07T19:35:44.151Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -317,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q360798",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers081",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -326,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -364,7 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627916",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.916Z",
-	"dcterms:modified": "2023-07-06T20:36:27.916Z",
+	"dcterms:modified": "2026-10-07T19:35:50.782Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -396,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q109860",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -405,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -443,7 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627917",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.917Z",
-	"dcterms:modified": "2023-07-06T20:36:27.917Z",
+	"dcterms:modified": "2026-10-07T19:35:57.092Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -475,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q209118",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers068",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -484,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -522,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627917",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.917Z",
-	"dcterms:modified": "2023-07-06T20:36:27.917Z",
+	"dcterms:modified": "2026-10-07T19:36:03.341Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -554,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q316881",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers044",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -563,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -601,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627918",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.918Z",
-	"dcterms:modified": "2023-07-06T20:36:27.918Z",
+	"dcterms:modified": "2026-10-07T19:36:09.346Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -633,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q109860",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -642,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1801,17 +1861,17 @@
                   <head type="sujets">Histoire.</head>
                   <div type="questions">
                      <list>
-                        <item>— Donnez quelques détails sur <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073" key="Dagobert Ier">Dagobert</persName> et sur saint <persName type="historique" ref="https://www.wikidata.org/wiki/Q360798">Eloi</persName>, son ministre.</item>
+                        <item>— Donnez quelques détails sur <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073" key="Dagobert Ier">Dagobert</persName> et sur saint <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers081" key="Éloi de Noyon">Eloi</persName>, son ministre.</item>
                      </list>
                   </div>
                   <div type="réponses">
-                     <p><persName type="historique" ref="https://www.wikidata.org/wiki/Q109860">Dagobert</persName>, roi des Francs, gouverna
-                        d'abord l'Austrasie au nom de son père <persName type="historique" ref="https://www.wikidata.org/wiki/Q209118">Clotaire II</persName>. Il lui succéda en 631, et
+                     <p><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073" key="Dagobert Ier">Dagobert</persName>, roi des Francs, gouverna
+                        d'abord l'Austrasie au nom de son père <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers068" key="Clotaire II">Clotaire II</persName>. Il lui succéda en 631, et
                         posséda de plus la Neustrie. Le reste de la
                            France, connu sous le nom
                            d'Aquitaine, ne lui advint qu'après la mort de son
-                        frère <persName type="historique" ref="https://www.wikidata.org/wiki/Q316881">Charibert</persName>.</p>
-                     <p><persName type="historique" ref="https://www.wikidata.org/wiki/Q109860">Dagobert</persName> fut un roi magnifique : la
+                        frère <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers044" key="Charibert II">Charibert</persName>.</p>
+                     <p><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073" key="Dagobert Ier">Dagobert</persName> fut un roi magnifique : la
                         splendeur de sa cour frappa à tel point les populations barbares, que le
                         souvenir de son règne est resté vivant dans la mémoire du peuple. Il eut une
                         conduite peu exemplaire, et il crut obtenir le pardon de ses fautes par des
