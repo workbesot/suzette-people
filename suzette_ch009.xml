@@ -194,7 +194,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20230706163258618",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:32:58.618Z",
-	"dcterms:modified": "2023-07-06T20:32:58.618Z",
+	"dcterms:modified": "2026-10-07T19:33:31.808Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -226,7 +226,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q1401",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers256",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -235,7 +235,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -273,7 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20240228144230626",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-28T19:42:30.626Z",
-	"dcterms:modified": "2024-02-28T19:42:30.626Z",
+	"dcterms:modified": "2026-10-07T19:33:59.021Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -305,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q64390",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers179",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -314,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -984,7 +1008,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20240228144441787",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-28T19:44:41.787Z",
-	"dcterms:modified": "2024-02-28T19:44:41.787Z",
+	"dcterms:modified": "2026-10-07T19:33:50.688Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1016,7 +1040,98 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q8958",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers180",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20261007153338626",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-07T19:33:38.626Z",
+	"dcterms:modified": "2026-10-07T19:33:41.897Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20261007153338626#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20261007153338626#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1192,7 +1307,7 @@
                      	les meilleurs ou les plus instruits ; le fruit des études d'une vie entière
                         s'y peut recueillir en quelques heures. Ils sont à l'âme ce que les aliments
                         sont au corps.</p>
-                     <p>Un auteur célèbre, <persName type="historique" ref="https://www.wikidata.org/wiki/Q1401">Pétrarque</persName>, parlait
+                     <p>Un auteur célèbre, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers256" key="Pétrarque">Pétrarque</persName>, parlait
                         ainsi des livres : « Ce sont des amis dont la société m'est fort agréable,
                         des amis de tous les pays et de tous les temps. Les uns me racontent les
                         événements des siècles passés ; d'autres me révèlent les secrets de la
@@ -1202,7 +1317,7 @@
                         sur la route de la science et satisfont à tous les besoins de mon esprit. » </p>
                      <p>(Donner ici le résumé d'un livre qu'on aura lu. Voir, page 407, le
                            <title>COURS DE COMPOSITION</title> (degré supérieur, Maître), par
-                           <persName type="historique">E. LAPORTE</persName>.) </p>
+                           <persName key="E. LaPorte" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076">E. LAPORTE</persName>.) </p>
                   </div>
                </div>
                
@@ -1230,11 +1345,11 @@
                         cases, et il les dispose sur un cadre ayant les dimensions d'une feuille de
                         papier. (Voir, pour la suite, la légende de la gravure de la page 30.) </p>
                      <p>L'<term>imprimerie</term> fut découverte en
-                           1434, à Strasbourg, par <persName type="historique"><persName key="Jean Gutenberg" ref="https://www.wikidata.org/wiki/Q8958" ana="allemande">Jean Gutenberg</persName></persName>,
+                           1434, à Strasbourg, par <persName type="historique"><persName key="Johannes Gutenberg" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers180" ana="allemande">Jean Gutenberg</persName></persName>,
                            né à Mayence en 1400 : c'était alors un riche
                         bourgeois. Ruiné par les frais de sa découverte, il
                            retourna à Mayence vers 1444 et, en 1450, s'y
-                        associa avec <persName ref="https://www.wikidata.org/wiki/Q64390" ana="allemande" key="Jean Fust" role="imprimeur">Jean Fust</persName>. Tous deux
+                        associa avec <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers179" ana="allemande" key="Johann Fust" role="imprimeur">Jean Fust</persName>. Tous deux
                         publièrent la Bible : mais dès que <persName ref="https://www.wikidata.org/wiki/Q64390" ana="allemande" key="Jean Fust">Fust</persName> connut les procédés de l'art nouveau, il poursuivit
                         <persName ref="https://www.wikidata.org/wiki/Q8958" ana="allemande" key="Jean Gutenberg">Gutenberg</persName> afin d'obtenir le
                         remboursement des avances qu'il lui avait faites, puis l'abandonna sans
