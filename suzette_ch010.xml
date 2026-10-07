@@ -740,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627918",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.918Z",
-	"dcterms:modified": "2023-07-06T20:36:27.918Z",
+	"dcterms:modified": "2026-10-07T19:36:17.607Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -772,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q360798",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers081",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -781,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -819,7 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch010.xml?person_annotation_20230706163627919",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:36:27.919Z",
-	"dcterms:modified": "2023-07-06T20:36:27.919Z",
+	"dcterms:modified": "2026-10-07T19:36:24.751Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -851,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q109860",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -860,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1879,8 +1903,8 @@
                            l'abbaye de Saint-Denis, où dorénavant furent
                         inhumés les rois.</p>
                      <p>Entouré d'habiles ministres, parmi lesquels nous citerons l'orfèvre saint
-                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q360798">Eloi</persName> (588-659), qui devint évêque
-                        de Noyon, <persName type="historique" ref="https://www.wikidata.org/wiki/Q109860">Dagobert</persName> maintint son autorité sur les peuples tributaires.
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers081" key="Éloi de Noyon">Eloi</persName> (588-659), qui devint évêque
+                        de Noyon, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers073" key="Dagobert Ier">Dagobert</persName> maintint son autorité sur les peuples tributaires.
                         On lui reproche le massacre de dix mille Bulgares, qui avaient demandé et
                         obtenu asile dans le royaume. Il mourut prématurément en 638, après un règne
                         de dix ans.</p>
