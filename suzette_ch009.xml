@@ -376,7 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20240228144449343",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-28T19:44:49.343Z",
-	"dcterms:modified": "2024-02-28T19:44:49.343Z",
+	"dcterms:modified": "2026-10-07T19:34:06.184Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -408,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q64390",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers179",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -417,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -455,7 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20240228144505283",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-28T19:45:05.283Z",
-	"dcterms:modified": "2024-02-28T19:45:05.283Z",
+	"dcterms:modified": "2026-10-07T19:34:11.414Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -487,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q8958",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers180",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -496,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -534,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch009.xml?person_annotation_20240228144602716",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-28T19:46:02.716Z",
-	"dcterms:modified": "2024-02-28T19:46:02.716Z",
+	"dcterms:modified": "2026-10-07T19:34:20.797Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -566,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q62560",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers269",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -575,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1350,10 +1386,10 @@
                         bourgeois. Ruiné par les frais de sa découverte, il
                            retourna à Mayence vers 1444 et, en 1450, s'y
                         associa avec <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers179" ana="allemande" key="Johann Fust" role="imprimeur">Jean Fust</persName>. Tous deux
-                        publièrent la Bible : mais dès que <persName ref="https://www.wikidata.org/wiki/Q64390" ana="allemande" key="Jean Fust">Fust</persName> connut les procédés de l'art nouveau, il poursuivit
-                        <persName ref="https://www.wikidata.org/wiki/Q8958" ana="allemande" key="Jean Gutenberg">Gutenberg</persName> afin d'obtenir le
+                        publièrent la Bible : mais dès que <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers179" ana="allemande" key="Johann Fust">Fust</persName> connut les procédés de l'art nouveau, il poursuivit
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers180" ana="allemande" key="Johannes Gutenberg">Gutenberg</persName> afin d'obtenir le
                         remboursement des avances qu'il lui avait faites, puis l'abandonna sans
-                        ressources pour s'adjoindre <persName ref="https://www.wikidata.org/wiki/Q62560" ana="allemande" key="Pierre Schæffer" role="imprimeur">Pierre
+                        ressources pour s'adjoindre <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers269" ana="allemande" key="Pierre Schæffer" role="imprimeur">Pierre
                            Schæffer</persName>. Le malheureux inventeur parvint néanmoins
                         à fonder une imprimerie qu'il posséda jusqu'à la fin de sa vie (1468). </p>
                      <p>Une fois composés en lettres métalliques, les livres peuvent être reproduits
