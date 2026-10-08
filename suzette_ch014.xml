@@ -649,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.065Z",
-	"dcterms:modified": "2023-07-06T20:42:27.065Z",
+	"dcterms:modified": "2026-10-08T14:55:11.769Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -681,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q230898",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers106",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -690,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -728,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.065Z",
-	"dcterms:modified": "2023-07-06T20:42:27.065Z",
+	"dcterms:modified": "2026-10-08T14:55:18.636Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -760,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q243118",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers061",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -769,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -807,7 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227066",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.066Z",
-	"dcterms:modified": "2023-07-06T20:42:27.066Z",
+	"dcterms:modified": "2026-10-08T14:55:25.201Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -839,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q230639",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers039",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -848,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1902,6 +1938,83 @@
 	]
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20261008105540936",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-08T14:55:40.936Z",
+	"dcterms:modified": "2026-10-08T14:55:40.936Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20261008105540936#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20261008105540936#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
@@ -2074,9 +2187,9 @@
                         sœur <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers115" key="Galswinthe">Galswinthe</persName>, femme de l'odieux
                         <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers061" key="Chilpéric Ier">Chilpéric</persName>, elle décida son mari à
                         la guerre ; mais il ne tarda pas à tomber victime d'un assassin dépêché par
-                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q230898">Frédégonde</persName>, seconde femme de
-                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q243118">Chilpéric</persName>.</p>
-                     <p>Orgueilleuse et violente, <persName type="historique" ref="https://www.wikidata.org/wiki/Q230639">Brunehaut</persName>
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers106" key="Frédégonde">Frédégonde</persName>, seconde femme de
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers061" key="Chilpéric Ier">Chilpéric</persName>.</p>
+                     <p>Orgueilleuse et violente, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers039" key="Brunehaut">Brunehaut</persName>
                         poursuivit la guerre pendant la minorité de ses fils. Plus tard, elle tenta
                         d'abaisser la puissance des grands seigneurs pour affermir la couronne de
                         ses petits-fils ; mais elle ne réussit point dans son entreprise. Méprisée
