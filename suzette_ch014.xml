@@ -285,7 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.063Z",
-	"dcterms:modified": "2023-07-06T20:42:27.063Z",
+	"dcterms:modified": "2026-10-08T14:54:37.455Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -317,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q233534",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers115",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -326,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -364,7 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227064",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.064Z",
-	"dcterms:modified": "2023-07-06T20:42:27.064Z",
+	"dcterms:modified": "2026-10-08T14:54:44.055Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -396,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q230639",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers039",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -405,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -443,7 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227064",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.064Z",
-	"dcterms:modified": "2023-07-06T20:42:27.064Z",
+	"dcterms:modified": "2026-10-08T14:54:56.554Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -475,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q233534",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers115",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -484,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -522,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.065Z",
-	"dcterms:modified": "2023-07-06T20:42:27.065Z",
+	"dcterms:modified": "2026-10-08T14:55:03.914Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -554,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q243118",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers061",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -563,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1798,6 +1846,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20240223145045176",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-23T19:50:45.176Z",
+	"dcterms:modified": "2026-10-08T14:54:49.846Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1829,7 +1878,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q309946",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers285",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1838,7 +1887,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -2000,18 +2061,18 @@
                   <div type="questions">
                      <list>
                         <item> — Que savez-vous de <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers039" key="Brunehaut">Brunehaut</persName>?</item>
-                        <item>— Que savez-vous de sa sœur <persName type="historique" ref="https://www.wikidata.org/wiki/Q233534">Galswinthe</persName>? </item>
+                        <item>— Que savez-vous de sa sœur <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers115" key="Galswinthe">Galswinthe</persName>? </item>
                         <item>— Quelles autres femmes célèbres sont citées avant elles dans
                            l’histoire de notre pays?</item>
                         <item>— Donnez quelques détails sur chacune d'elles.</item>
                      </list>
                   </div>
                   <div type="réponses">
-                     <p><persName type="historique" ref="https://www.wikidata.org/wiki/Q230639">Brunehaut</persName>, fille d'un roi des
-                        Wisigoths d'Espagne, épousa en 566 <persName type="historique"><persName key="Sigebert" ref="https://www.wikidata.org/wiki/Q309946">Sigebert</persName></persName>, roi
+                     <p><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers039" key="Brunehaut">Brunehaut</persName>, fille d'un roi des
+                        Wisigoths d'Espagne, épousa en 566 <persName type="historique"><persName key="Sigebert Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers285">Sigebert</persName></persName>, roi
                            d'Austrasie. Pour venger le lâche assassinat de sa
-                        sœur <persName type="historique" ref="https://www.wikidata.org/wiki/Q233534">Galswinthe</persName>, femme de l'odieux
-                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q243118">Chilpéric</persName>, elle décida son mari à
+                        sœur <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers115" key="Galswinthe">Galswinthe</persName>, femme de l'odieux
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers061" key="Chilpéric Ier">Chilpéric</persName>, elle décida son mari à
                         la guerre ; mais il ne tarda pas à tomber victime d'un assassin dépêché par
                         <persName type="historique" ref="https://www.wikidata.org/wiki/Q230898">Frédégonde</persName>, seconde femme de
                         <persName type="historique" ref="https://www.wikidata.org/wiki/Q243118">Chilpéric</persName>.</p>
