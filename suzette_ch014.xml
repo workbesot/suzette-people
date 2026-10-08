@@ -1195,7 +1195,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227067",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.067Z",
-	"dcterms:modified": "2023-07-06T20:42:27.067Z",
+	"dcterms:modified": "2026-10-08T14:57:03.285Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1227,7 +1227,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q232365",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers069",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1236,7 +1236,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1274,7 +1286,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch014.xml?person_annotation_20230706164227067",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:42:27.067Z",
-	"dcterms:modified": "2023-07-06T20:42:27.067Z",
+	"dcterms:modified": "2026-10-08T14:57:12.618Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1306,7 +1318,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q82339",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers070",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1315,7 +1327,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2556,7 +2580,7 @@
                         dévouement envers <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers194" key="Julius Sabinus">Sabinus</persName>, son époux
                         ; — <term><persName key="Blandine" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers038">Blandine</persName></term>, qui périt à Lyon, martyre de sa foi ; —
                         <term><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers118" key="Geneviève de Paris">sainte Geneviève</persName></term>,
-                        qui releva le courage des Parisiens, lors de l'invasion d'<persName key="Attila" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers029">Attila</persName> ; — <term><persName type="historique" ref="https://www.wikidata.org/wiki/Q232365">Clotilde</persName></term>, femme de <persName type="historique" ref="https://www.wikidata.org/wiki/Q82339">Clovis</persName>, à qui l'on attribue la conversion de son époux.</p>
+                        qui releva le courage des Parisiens, lors de l'invasion d'<persName key="Attila" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers029">Attila</persName> ; — <term><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers069" key="Clotilde">Clotilde</persName></term>, femme de <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers070" key="Clovis Ier">Clovis</persName>, à qui l'on attribue la conversion de son époux.</p>
                   </div>
                </div>
                <div type="industrie" xml:id="sujind_014">
