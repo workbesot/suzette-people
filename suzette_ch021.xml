@@ -194,7 +194,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch021.xml?person_annotation_20230706164832599",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:48:32.599Z",
-	"dcterms:modified": "2023-07-06T20:48:32.599Z",
+	"dcterms:modified": "2026-10-08T15:17:05.568Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -226,7 +226,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q597422",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers246",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -235,7 +235,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1753,7 +1765,7 @@
                      prévoyait-il pour la ferme de son père ?</item>
                   <item>— Que disait un professeur de son école sur l'utilité du travail manuel
                      ?</item>
-                  <item>— Qu'est-ce qu'<persName type="historique" ref="https://www.wikidata.org/wiki/Q597422">Olivier de Serres</persName>
+                  <item>— Qu'est-ce qu'<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers246" key="Olivier de Serres">Olivier de Serres</persName>
                      ?</item>
                   <item>— Quels détails <persName type="fictif" key="jacques">Jacques</persName>
                      donnait-il sur le directeur de l'école d'agriculture ?</item>
