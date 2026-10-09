@@ -100,10 +100,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20230706164515525",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20261008110305194",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-07-06T20:45:15.525Z",
-	"dcterms:modified": "2026-10-08T15:03:05.194Z",
+	"dcterms:created": "2026-10-08T15:03:05.194Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -114,7 +113,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20230706164515525#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20261008110305194#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml",
@@ -128,7 +127,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20230706164515525#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20261008110305194#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[13]/persName"
 		}
@@ -144,19 +143,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -191,10 +178,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20230706164515528",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20261008110320056",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-07-06T20:45:15.528Z",
-	"dcterms:modified": "2026-10-08T15:03:20.056Z",
+	"dcterms:created": "2026-10-08T15:03:20.056Z",
+	"dcterms:modified": "2026-10-09T19:34:38.592Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -205,7 +192,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20230706164515528#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20261008110320056#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml",
@@ -219,7 +206,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20230706164515528#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch018.xml?person_annotation_20261008110320056#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[13]/persName[2]"
 		}
@@ -237,6 +224,16 @@
 		"schema:softwareVersion": "4.3.2"
 	},
 	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		},
 		{
 			"dcterms:contributor": {
 				"@id": "https://github.com/workbesot",
@@ -1119,7 +1116,7 @@
                   </figure>
                   <pb type="page" n="67" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_067.jpg"/>
                   <fw>LAINE ET COTON. 67</fw> transférée à Saint-Denis par
-                  <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers050" key="Charles le Bald">Charles le Chauve</persName>.</p>
+                  <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers050" key="Charles le Chauve">Charles le Chauve</persName>.</p>
                <p>Beaucaire, Provins,
                      Troyes, Saint-Quentin, « ville
                   drapante », appelaient à elles tous les acheteurs du monde. Aujourd'hui, les
