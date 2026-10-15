@@ -194,6 +194,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch045.xml?person_annotation_20240304111638893",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T16:16:38.893Z",
+	"dcterms:modified": "2026-10-15T18:15:49.557Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -234,7 +235,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -272,6 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch045.xml?person_annotation_20240304111702003",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T16:17:02.003Z",
+	"dcterms:modified": "2026-10-15T18:15:57.347Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -303,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -312,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -438,7 +464,7 @@
                         tombassent épuisés de fatigue et de misère.</p>
                      <p>L'épisode le plus terrible de la retraite de Russie
                         est le passage de la Bérésina. L'ennemi avait détruit le pont ;
-                        <persName ref="https://www.wikidata.org/wiki/Q517" key="Napoleon">Napoléon</persName> on fit élever à la hâte
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" key="Napoléon Ier">Napoléon</persName> on fit élever à la hâte
                         deux autres sur chevalets par les pontonniers, qui, plongés dans l'eau
                         glacée pendant deux jours et deux nuits, périrent presque tous. Une partie
                         de l'armée put gagner l'autre rive; mais les traînards et la multitude qui
