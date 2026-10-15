@@ -285,6 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch059.xml?person_annotation_20240229130750447",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T18:07:50.447Z",
+	"dcterms:modified": "2026-10-15T18:30:36.379Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -316,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q48373",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -325,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -363,6 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch059.xml?person_annotation_20240229130836875",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T18:08:36.875Z",
+	"dcterms:modified": "2026-10-15T18:30:46.629Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -394,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q48373",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -403,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -441,6 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch059.xml?person_annotation_20240229130931395",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T18:09:31.395Z",
+	"dcterms:modified": "2026-10-15T18:30:57.811Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -472,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q48373",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -481,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -610,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch059.xml?person_annotation_20240229135001133",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T18:50:01.133Z",
-	"dcterms:modified": "2024-02-29T18:50:01.133Z",
+	"dcterms:modified": "2026-10-15T18:31:04.051Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -642,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q319834",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers268",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -651,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -886,14 +937,14 @@
                   <div type="questions">
                      <list>
                         <item>— TRAVAIL ET PERSÉVÉRANCE.</item>
-                        <item> — Racontez l'histoire de <persName type="historique" ref="https://www.wikidata.org/wiki/Q48373"><persName key="David Livingstone" ref="http://www.wikidata.org/entity/Q48373" ana="britannique" role="explorateur">Livingstone</persName></persName>.</item>
+                        <item> — Racontez l'histoire de <persName type="historique" ref="https://www.wikidata.org/wiki/Q48373"><persName key="David Livingstone" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074" ana="britannique" role="explorateur">Livingstone</persName></persName>.</item>
                         <item>— Pourquoi éprouvez-vous du respect et de l'admiration pour ce grand
                            homme ? </item>
                         <item>— Quel Français l'a imité au Gabon ? </item>
                      </list>
                   </div>
                   <div type="réponses">
-                     <p>Le grand explorateur <persName type="historique"><term><persName key="David Livingstone" ref="http://www.wikidata.org/entity/Q48373" ana="britannique" role="explorateur">Livingstone</persName></term></persName> (1813-1873) naquit en
+                     <p>Le grand explorateur <persName type="historique"><term><persName key="David Livingstone" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074" ana="britannique" role="explorateur">Livingstone</persName></term></persName> (1813-1873) naquit en
                            Écosse, d'une pauvre famille d'ouvriers tisseurs.
                         Dès son enfance, il fut assujetti au rude travail d'une filature ; mais,
                         animé du désir de s'instruire, il profitait de toutes les occasions et de
@@ -916,11 +967,11 @@
                         excessives qu'il lui avait fallu supporter dans ses dernières
                         explorations.</p>
                      <p>L'Angleterre a rendu hommage au dévouement de
-                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q48373"><persName key="David Livingstone" ref="http://www.wikidata.org/entity/Q48373" ana="britannique" role="explorateur">Livingstone</persName></persName> en donnant à ses
+                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q48373"><persName key="David Livingstone" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074" ana="britannique" role="explorateur">Livingstone</persName></persName> en donnant à ses
                         restes une sépulture dans la basilique de
                         Westminster, parmi les monuments funèbres des rois et
                         des grands hommes.</p>
-                     <p>Le Français <persName type="historique" ref="https://www.wikidata.org/wiki/Q319834"><persName key="Pierre Savorgnan de Brazza" ref="http://www.wikidata.org/entity/Q319834" ana="française">de Brazza</persName></persName> a
+                     <p>Le Français <persName type="historique" ref="https://www.wikidata.org/wiki/Q319834"><persName key="Pierre Savorgnan de Brazza" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers268" ana="française">de Brazza</persName></persName> a
                         pénétré de la même manière dans la région équatoriale de
                            l'Afrique baignée par l' et appelée le
                            Gabon. Il y a conquis, par l'ascendant d'une
