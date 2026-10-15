@@ -286,7 +286,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch030.xml?person_annotation_20240303103852372",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-03T15:38:52.372Z",
-	"dcterms:modified": "2024-03-03T15:38:52.372Z",
+	"dcterms:modified": "2026-10-15T18:02:17.522Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -327,7 +327,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -365,7 +377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch030.xml?person_annotation_20240229110427479",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T16:04:27.479Z",
-	"dcterms:modified": "2024-02-29T16:04:27.479Z",
+	"dcterms:modified": "2026-10-15T18:02:24.144Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -397,7 +409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q45859",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers146",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -406,7 +418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -444,7 +468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch030.xml?person_annotation_20230706165839032",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T20:58:39.032Z",
-	"dcterms:modified": "2023-07-06T20:58:39.032Z",
+	"dcterms:modified": "2026-10-15T18:02:37.928Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -476,7 +500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q5868869",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers105",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -485,7 +509,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -523,7 +559,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch030.xml?person_annotation_20240303120635704",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-03T17:06:35.704Z",
-	"dcterms:modified": "2024-03-03T17:06:35.704Z",
+	"dcterms:modified": "2026-10-15T18:02:48.631Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -555,7 +591,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q3388890",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers111",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -564,7 +600,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -602,7 +650,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch030.xml?person_annotation_20240303103817872",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-03T15:38:17.872Z",
-	"dcterms:modified": "2024-03-03T15:38:17.872Z",
+	"dcterms:modified": "2026-10-15T18:02:54.009Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -634,7 +682,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q7322",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -643,7 +691,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1482,6 +1542,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch030.xml?person_annotation_20240229105419641",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T15:54:19.641Z",
+	"dcterms:modified": "2026-10-15T18:02:29.994Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1513,7 +1574,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q12860",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers090",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1522,7 +1583,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -1664,12 +1737,12 @@
 								négligée. L'empereur d'Allemagne n'avait ni
 								flotte, ni ports, ni argent. <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062" key="Christophe Colomb">Colomb</persName> n'espéra qu'en la cour
 									d'Espagne. Après huit ans de
-								sollicitations, la reine <persName ref="https://www.wikidata.org/wiki/Q45859" ana="espagnole" key="Isabella I de Castile" role="reine">Isabelle</persName> et
-								le roi <persName type="historique"><persName key="Ferdinand II of Aragon" ref="http://www.wikidata.org/entity/Q12860">Ferdinand</persName></persName> consentiront à  lui prêter
+								sollicitations, la reine <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers146" ana="espagnole" key="Isabelle la Catholique" role="reine">Isabelle</persName> et
+								le roi <persName type="historique"><persName key="Ferdinand II d'Aragon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers090">Ferdinand</persName></persName> consentiront à  lui prêter
 								leur appui ; mais la cour d'Espagne était pauvre ; il fallut que le
-								prieur <persName type="historique" ref="https://www.wikidata.org/wiki/Q5868869">Pérez</persName> et
-								deux négociants, nommés <persName ref="https://www.wikidata.org/wiki/Q3388890" key="Penzone brothers">Penzone</persName>, avançassent 17,000
-								ducats pour faire l'armement. <persName ref="https://www.wikidata.org/wiki/Q7322" key="Christoph Colomb">Colomb</persName> partit enfin de Palos, en  Andalousie, avec trois petits
+								prieur <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers105" key="Fray Juan Pérez">Pérez</persName> et
+								deux négociants, nommés <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers111" key="Frères Pinzón">Penzone</persName>, avançassent 17,000
+								ducats pour faire l'armement. <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062" key="Christophe Colomb">Colomb</persName> partit enfin de Palos, en  Andalousie, avec trois petits
 								vaisseaux dont un seul était ponté, le 3 août 1492. Trois mois
 								après, le 12 octobre, il découvrit la première terre de
 										l'Amérique : c'était l'une des îles
