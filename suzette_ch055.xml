@@ -1547,7 +1547,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch055.xml?person_annotation_20240229115650310",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T16:56:50.310Z",
-	"dcterms:modified": "2024-02-29T16:56:50.310Z",
+	"dcterms:modified": "2026-10-15T18:27:25.928Z",
 	"dcterms:creator": {
 		"@id": "2",
 		"@type": [
@@ -1579,7 +1579,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q921705",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers010",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1588,7 +1588,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2201,7 +2213,7 @@
                         <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074" ana="britannique" key="David Livingstone" role="explorateur">Livingstone</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers279" ana="britannique" key="Richard Francis Burton" role="explorateur">Burton</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers181" ana="britannique" key="John Hanning Speke" role="explorateur">Speke</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers153" ana="britannique" key="James Augustus Grant" role="explorateur">Grant</persName>,
                         <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers299" ana="britannique" key="Samuel Baker" role="explorateur">Baker</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers005" ana="allemande" key="Adolf Adolf Overweg" role="explorateur">Overweg</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers155" ana="britannique" key="James Richardson" role="explorateur">Richardson</persName>,
                         <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers129" ana="allemande" key="Heinrich Barth" role="explorateur">Barth</persName>, <persName ref="https://www.wikidata.org/wiki/Q60549" ana="allemande" key="Gustav Nachtigall" role="explorateur">Nachtigall</persName>, l'illustre <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers140" ana="britannique" key="Henry Morton Stanley" role="explorateur">Stanley</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers291" ana="britannique" key="Verney Lovett Cameron" role="explorateur">Cameron</persName> et
-                        <persName ref="https://www.wikidata.org/wiki/Q921705" ana="portugaise" key="Alexandre de Serpa Pinto" role="explorateur">Serpa-Pinto</persName>.</p>
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers010" ana="portugaise" key="Alexandre de Serpa Pinto" role="explorateur">Serpa-Pinto</persName>.</p>
                   </div>
                </div>
             </div>
