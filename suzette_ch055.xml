@@ -467,7 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch055.xml?person_annotation_20230706102735105",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-06T14:27:35.105Z",
-	"dcterms:modified": "2023-07-06T14:27:35.105Z",
+	"dcterms:modified": "2026-10-15T18:26:06.975Z",
 	"dcterms:creator": {
 		"@id": "2",
 		"@type": [
@@ -499,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q2062504",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers254",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -508,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -546,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch055.xml?person_annotation_20240229111632902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T16:16:32.902Z",
-	"dcterms:modified": "2024-02-29T16:16:32.902Z",
+	"dcterms:modified": "2026-10-15T18:26:13.124Z",
 	"dcterms:creator": {
 		"@id": "2",
 		"@type": [
@@ -578,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q48373",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -587,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -625,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch055.xml?person_annotation_20240229111751546",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T16:17:51.546Z",
-	"dcterms:modified": "2024-02-29T16:17:51.546Z",
+	"dcterms:modified": "2026-10-15T18:26:20.257Z",
 	"dcterms:creator": {
 		"@id": "2",
 		"@type": [
@@ -657,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q125057",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers279",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -666,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -704,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch055.xml?person_annotation_20240229111832594",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T16:18:32.594Z",
-	"dcterms:modified": "2024-02-29T16:18:32.594Z",
+	"dcterms:modified": "2026-10-15T18:26:30.525Z",
 	"dcterms:creator": {
 		"@id": "2",
 		"@type": [
@@ -736,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q125084",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers181",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -745,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -783,7 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch055.xml?person_annotation_20240229111926209",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T16:19:26.209Z",
-	"dcterms:modified": "2024-02-29T16:19:26.209Z",
+	"dcterms:modified": "2026-10-15T18:26:35.486Z",
 	"dcterms:creator": {
 		"@id": "2",
 		"@type": [
@@ -815,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q1351052",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers153",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -824,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2065,8 +2125,8 @@
                         où ils ont trouvé des contrées fertiles, des lacs immenses, de grands
                         fleuves et de hautes montagnes. Parmi ces explorateurs, nous citerons les
                         Français <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers276" key="René Caillié">Caillié</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers086" key="Eugène Mage">Mage</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers132" key="Henri Duveyrier">Duveyrier</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers125" key="Guillaume Lejean">Lejean</persName>,
-                        <persName type="historique" ref="https://www.wikidata.org/wiki/Q2062504">Soleillet</persName>, et les étrangers
-                        <persName ref="https://www.wikidata.org/wiki/Q48373" ana="britannique" key="David Livingstone" role="explorateur">Livingstone</persName>, <persName ref="https://www.wikidata.org/wiki/Q125057" ana="britannique" key="Richard Francis Burton" role="explorateur">Burton</persName>, <persName ref="https://www.wikidata.org/wiki/Q125084" ana="britannique" key="John Hanning Speke" role="explorateur">Speke</persName>, <persName ref="https://www.wikidata.org/wiki/Q1351052" ana="britannique" key="James Augustus Grant" role="explorateur">Grant</persName>,
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers254" key="Paul Soleillet">Soleillet</persName>, et les étrangers
+                        <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074" ana="britannique" key="David Livingstone" role="explorateur">Livingstone</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers279" ana="britannique" key="Richard Francis Burton" role="explorateur">Burton</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers181" ana="britannique" key="John Hanning Speke" role="explorateur">Speke</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers153" ana="britannique" key="James Augustus Grant" role="explorateur">Grant</persName>,
                         <persName ref="https://www.wikidata.org/wiki/Q431034" ana="britannique" key="Florence Baker" role="explorateur">Baker</persName>, <persName ref="https://www.wikidata.org/wiki/Q67622" ana="allemande" key="Adolf Overweg" role="explorateur">Overweg</persName>, <persName ref="https://www.wikidata.org/wiki/Q182568" ana="britannique" key="James Richardson" role="explorateur">Richardson</persName>,
                         <persName ref="https://www.wikidata.org/wiki/Q60141" ana="allemande" key="Heinrich Barth" role="explorateur">Barth</persName>, <persName ref="https://www.wikidata.org/wiki/Q60549" ana="allemande" key="Gustav Nachtigall" role="explorateur">Nachtigall</persName>, l'illustre <persName ref="https://www.wikidata.org/wiki/Q171421" ana="britannique" key="Henry Morton Stanley" role="explorateur">Stanley</persName>, <persName ref="https://www.wikidata.org/wiki/Q919145" ana="britannique" key="Verney Lovett Cameron" role="explorateur">Cameron</persName> et
                         <persName ref="https://www.wikidata.org/wiki/Q921705" ana="portugaise" key="Alexandre de Serpa Pinto" role="explorateur">Serpa-Pinto</persName>.</p>
