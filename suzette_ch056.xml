@@ -100,10 +100,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml?person_annotation_20240303115728388",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml?person_annotation_20261006141422994",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-03T16:57:28.388Z",
-	"dcterms:modified": "2026-10-06T18:14:22.994Z",
+	"dcterms:created": "2026-10-06T18:14:22.994Z",
+	"dcterms:modified": "2026-10-15T18:28:06.314Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -114,7 +114,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml?person_annotation_20240303115728388#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml?person_annotation_20261006141422994#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml",
@@ -128,7 +128,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml?person_annotation_20240303115728388#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch056.xml?person_annotation_20261006141422994#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div/div[2]/p[4]/persName"
 		}
@@ -146,6 +146,16 @@
 		"schema:softwareVersion": "4.3.2"
 	},
 	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		},
 		{
 			"dcterms:contributor": {
 				"@id": "https://github.com/workbesot",
