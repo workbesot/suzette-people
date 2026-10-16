@@ -831,7 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162624944",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:26:24.944Z",
-	"dcterms:modified": "2024-04-03T20:26:24.944Z",
+	"dcterms:modified": "2026-10-16T15:00:46.904Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -863,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q8053",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers149",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -872,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -910,7 +922,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162713537",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:27:13.537Z",
-	"dcterms:modified": "2024-04-03T20:27:13.537Z",
+	"dcterms:modified": "2026-10-16T15:00:55.248Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -942,7 +954,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -951,7 +963,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -1100,14 +1124,14 @@
                         1670, <persName type="historique"><persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName></persName> acheta un vaste
                         terrain dans la plaine de Grenelle et, en 1674,
                         l'édifice actuel de l'Hôtel des Invalides fut
-                        commencé d'après les dessins de <persName key="Libéral Bruand" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers200">Bruant</persName> et de <persName key="Jules Hardouin-Mansart" ref="http://www.wikidata.org/entity/Q8053">Mansart</persName> ;
+                        commencé d'après les dessins de <persName key="Libéral Bruand" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers200">Bruant</persName> et de <persName key="Jacques Hardouin-Mansart de Sagonne" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers149">Mansart</persName> ;
                         il fut complètement achevé en 1704, En 1813, le nombre des invalides se
                         montait à 26,000.</p>
                      <p>Aujourd'hui, l'État paye aux soldats blessés et mutilès des pensions
                         suffisantes, ce qui permet de diminuer notablement le nombre de ceux qu'il
                         entretient aux Invalides.</p>
                      <p>Le pont d'Iéna, l'un des plus beaux de la capitale,
-                        rappelle une brillante victoire gagnée, le 14 octobre 1806, par <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517">Napoléon Ier</persName> sur l'armée prussienne ; après
+                        rappelle une brillante victoire gagnée, le 14 octobre 1806, par <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240">Napoléon Ier</persName> sur l'armée prussienne ; après
                         quelques heures d'un combat acharné, pendant lequel les deux tiers à peine
                         de l'armée française avaient donné, les ennemis s'enfuirent en pleine
                         déroute, laissant 12,000 morts ou blessés sur le champ de bataille et, entre
