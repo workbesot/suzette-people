@@ -1651,6 +1651,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142105241",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:21:05.241Z",
+	"dcterms:modified": "2026-10-16T13:49:06.474Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1682,7 +1683,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q67622",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers005",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1691,7 +1692,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3745,7 +3758,7 @@
 							<p>3° Pour la région centrale située au sud du Sahara :
 									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers276" ana="française" key="René Caillié" role="explorateur">René
 									Caillié</persName>, 1828, Tombouctou ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers129" ana="allemande" key="Heinrich Barth" role="explorateur">Barth</persName>,
-									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers155" ana="britannique" key="James Richardson" role="explorateur">Richardson</persName>, <persName ref="https://www.wikidata.org/wiki/Q67622" ana="allemande" key="Adolf Overweg" role="explorateur">Overweg</persName>,
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers155" ana="britannique" key="James Richardson" role="explorateur">Richardson</persName>, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers005" ana="allemande" key="Adolf Adolf Overweg" role="explorateur">Overweg</persName>,
 								1850-55, Tripoli,
 									Bornou, lac
 									Tchad, Tombouctou, Bilma ;
