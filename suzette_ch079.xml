@@ -377,6 +377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002090534697",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:05:34.697Z",
+	"dcterms:modified": "2026-10-16T14:51:06.327Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -408,7 +409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q143046",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers084",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -417,7 +418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -455,6 +468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002090555922",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:05:55.922Z",
+	"dcterms:modified": "2026-10-16T14:51:00.440Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -486,7 +500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7721",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers241",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -495,7 +509,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -533,6 +559,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002090610427",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:06:10.427Z",
+	"dcterms:modified": "2026-10-16T14:50:54.075Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -564,7 +591,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7771",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers219",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -573,7 +600,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -611,6 +650,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002090620297",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:06:20.297Z",
+	"dcterms:modified": "2026-10-16T14:50:47.497Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -642,7 +682,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7738",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -651,7 +691,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -689,6 +741,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002090637787",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:06:37.787Z",
+	"dcterms:modified": "2026-10-16T14:50:39.031Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -720,7 +773,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q346",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers283",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -729,7 +782,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2788,14 +2853,14 @@
 								gauche de la Seine. Bâti sur l'emplacement d'un château
 								qui existait déjà sous la domination romaine, il servit presque
 								constamment de résidence aux rois de France, de <persName key="Eudes" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085">Eudes</persName> à <persName key="François Fénelon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers095">François
-									Ier</persName>, et de siège au parlement depuis <persName key="Louis IX of France" ref="http://www.wikidata.org/entity/Q346">saint
+									Ier</persName>, et de siège au parlement depuis <persName key="Saint-Louis" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers283">saint
 								Louis</persName>. Ce roi fit reconstruire en partie le palais, mais
 								il ne reste guère de cette époque que la tour de l'horloge et les
 								tours voisines. L'édifice a été considerablement agrandi sous les
-								règnes de <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV</persName>,
-								de <persName key="Louis-Philippe I" ref="http://www.wikidata.org/entity/Q7771">Louis-Philippe</persName> et de <persName key="Napoleon III" ref="http://www.wikidata.org/entity/Q7721">Napoléon
+								règnes de <persName key="Louis XV" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213">Louis XV</persName>,
+								de <persName key="Louis-Philippe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers219">Louis-Philippe</persName> et de <persName key="Napoléon III" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers241">Napoléon
 									III</persName>.</p>
-							<p>(Pour <persName key="Étienne Marcel" ref="http://www.wikidata.org/entity/Q143046">Etienne
+							<p>(Pour <persName key="Étienne Marcel" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers084">Etienne
 									Marcel</persName>, voir le traité d'histoire en usage à
 								l'école.)</p>
 							<p>(Mème remarque pour les pirates normands.)</p>
