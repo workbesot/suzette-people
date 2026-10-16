@@ -376,7 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20230926163814952",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-26T20:38:14.952Z",
-	"dcterms:modified": "2023-09-26T20:38:14.952Z",
+	"dcterms:modified": "2026-10-16T14:36:40.313Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -408,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2279426",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers047",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -417,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1433,7 +1445,7 @@
                         en formaient des magasins immenses, pour vendre cette denrée à un prix
                         exorbitant lorsqu'ils avaient ainsi produit la disette. <persName key="Louis XV" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213">Louis XV</persName> fit une avance de dix millions à
                         cette entreprise abominable, et il se « vantait à tout le monde du lucre
-                        infâme qu'il faisait sur ses sujets. » (<persName key="Jean Charles Dominique de Lacretelle" ref="http://www.wikidata.org/entity/Q2279426">LACRETELLE</persName>, Hist. de France.)</p>
+                        infâme qu'il faisait sur ses sujets. » (<persName key="Charles de Lacretelle" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers047">LACRETELLE</persName>, Hist. de France.)</p>
                      <p>Alors la famine ne quitta plus les campagnes ; elle redoubla en 1740, 1741,
                         1742, 1715, 1767, 1768, 1775, 1776, 1784 et, enfin, en 1789.</p>
                      <p>Le <persName key="Marc Pierre de Voyer de Paulmy d'Argenson" ref="http://www.wikidata.org/entity/Q1363436">comte d'Argenson</persName> écrivait en 1740
