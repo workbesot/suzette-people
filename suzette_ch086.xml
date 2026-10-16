@@ -1121,7 +1121,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006151005742",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:10:05.742Z",
-	"dcterms:modified": "2023-10-06T19:10:05.742Z",
+	"dcterms:modified": "2026-10-16T15:15:24.374Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1153,7 +1153,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q535",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers294",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1162,7 +1162,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1200,7 +1212,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006151020287",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:10:20.287Z",
-	"dcterms:modified": "2023-10-06T19:10:20.287Z",
+	"dcterms:modified": "2026-10-16T15:15:30.283Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1232,7 +1244,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q171969",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers121",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1241,7 +1253,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1279,7 +1303,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006151049616",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:10:49.616Z",
-	"dcterms:modified": "2023-10-06T19:10:49.616Z",
+	"dcterms:modified": "2026-10-16T15:15:36.546Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1311,7 +1335,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q207660",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers282",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1320,7 +1344,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1358,7 +1394,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006151108971",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:11:08.971Z",
-	"dcterms:modified": "2023-10-06T19:11:08.971Z",
+	"dcterms:modified": "2026-10-16T15:15:41.670Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1390,7 +1426,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q355643",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers274",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1399,7 +1435,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1437,7 +1485,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006151150171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:11:50.171Z",
-	"dcterms:modified": "2023-10-06T19:11:50.171Z",
+	"dcterms:modified": "2026-10-16T15:15:54.297Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1469,7 +1517,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q1096347",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers066",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1478,7 +1526,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -4026,8 +4086,8 @@
                            Salins, Dôle,
                            Lons-le-Saunier, Vesoul,
                            Gray, Lure,
-                           Fougerolles. Elle a donné naissance au <persName key="Antoine Perrenot de Granvelle" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers022">cardinal Granvelle</persName>, ministre de <persName key="Charles Quint" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers053">Charles-Quint</persName>, à <persName key="Victor Hugo" ref="http://www.wikidata.org/entity/Q535">Victor Hugo</persName>, à <persName key="Georges Cuvier" ref="http://www.wikidata.org/entity/Q171969">Cuvier</persName>,
-                        à <persName key="Claude Joseph Rouget de Lisle" ref="http://www.wikidata.org/entity/Q207660">Rouget de Lisle</persName>, à <persName key="Jean-Charles Pichegru" ref="http://www.wikidata.org/entity/Q355643">Pichegru</persName>, à <persName key="Claude Lecourbe" ref="http://www.wikidata.org/entity/Q1096347">Lecourbe</persName>.</p>
+                           Fougerolles. Elle a donné naissance au <persName key="Antoine Perrenot de Granvelle" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers022">cardinal Granvelle</persName>, ministre de <persName key="Charles Quint" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers053">Charles-Quint</persName>, à <persName key="Victor Hugo" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers294">Victor Hugo</persName>, à <persName key="Georges Cuvier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers121">Cuvier</persName>,
+                        à <persName key="Rouget de Lisle" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers282">Rouget de Lisle</persName>, à <persName key="Jean-Charles Pichegru" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers274">Pichegru</persName>, à <persName key="Claude Jacques Lecourbe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers066">Lecourbe</persName>.</p>
                      <p>La Franche-Comté produit d'excellents pâturages où
                         l'on élève beaucoup de bétail et où l'on fabrique des fromages. Les salines
                         de Lons le-Saunier et de
