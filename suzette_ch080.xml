@@ -468,7 +468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163102308",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:31:02.308Z",
-	"dcterms:modified": "2024-03-05T21:31:02.308Z",
+	"dcterms:modified": "2026-10-16T14:56:25.872Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -500,7 +500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q347699",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers067",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -509,7 +509,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1815,7 +1827,7 @@
 									Lescot</persName>, un nouveau palais que continuèrent ses
 								successeurs, de <persName key="Henri II" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers134">Henri II</persName>
 								à <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName>,
-								sous lequel fut élevée la célèbre colonnade due à <persName key="Claude Perrault" ref="http://www.wikidata.org/entity/Q347699">Perrault</persName>. Il fut réuni aux Tuileries par <persName key="Napoleon III" ref="http://www.wikidata.org/entity/Q7721">Napoléon
+								sous lequel fut élevée la célèbre colonnade due à <persName key="Claude Perrault" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers067">Perrault</persName>. Il fut réuni aux Tuileries par <persName key="Napoleon III" ref="http://www.wikidata.org/entity/Q7721">Napoléon
 									III</persName>. Ce palais a été témoin des événements des
 								guerres de religion, de l'assassinat du <persName key="Concino Concini" ref="http://www.wikidata.org/entity/Q442205">maréchal
 									d'Ancre</persName>, des troubles de la Fronde.</p>
