@@ -989,7 +989,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130151063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-10-16T17:01:51.063Z",
-	"dcterms:modified": "2026-10-16T17:01:51.063Z",
+	"dcterms:modified": "2026-10-16T17:01:56.873Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -1193,7 +1193,7 @@ des arts et métiers. Et devinez ce que j'ai vu dans le musée du
                         volent et les écrits restent, » dit le proverbe ; d'où il résulte qu'on doit
                         apporter un soin tout particulier à sa correspondance.</p>
                      <p>(CVoir, pour les autres points, le <title>COURS DE COMPOSITION FRANÇAISE
-                           (Degré élémentaire et moyen), par <persName type="historique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076" key="E. LaPorte">E.
+                           (Degré élémentaire et moyen), par <persName key="E. LaPorte" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076">E.
                               LAPORTE</persName>, Partie de l'élève</title>, pp. 64, 70 et 145.
                         )</p>
                   </div>
