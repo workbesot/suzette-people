@@ -467,7 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195230802",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:52:30.802Z",
-	"dcterms:modified": "2024-03-01T00:52:30.802Z",
+	"dcterms:modified": "2026-10-16T16:38:04.315Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -499,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q81000",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers280",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -508,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -546,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195315296",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:53:15.296Z",
-	"dcterms:modified": "2024-03-01T00:53:15.296Z",
+	"dcterms:modified": "2026-10-16T16:38:13.484Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -578,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -587,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -625,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195407097",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:54:07.097Z",
-	"dcterms:modified": "2024-03-01T00:54:07.097Z",
+	"dcterms:modified": "2026-10-16T16:38:18.130Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -657,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -666,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -704,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195507544",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:55:07.544Z",
-	"dcterms:modified": "2024-03-01T00:55:07.544Z",
+	"dcterms:modified": "2026-10-16T16:38:30.166Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -736,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -745,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2127,16 +2175,16 @@
                   guerre étrangère, ni les grandes batailles perdues, ni l'envahissement de la
                      France par l'Anglais, n'abattirent sa passion de fêtes
                   et de toilette.</p>
-               <p>Sa fille <persName ana="française" key="Isabelle de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers145" role="reine">Isabelle</persName>, mariée à <persName ana="britannique" key="Richard II of England" ref="http://www.wikidata.org/entity/Q81000" role="roi">Richard II d'Angleterre</persName>, voyait le trône de son
+               <p>Sa fille <persName ana="française" key="Isabelle de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers145" role="reine">Isabelle</persName>, mariée à <persName ana="britannique" key="Richard II" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers280" role="roi">Richard II d'Angleterre</persName>, voyait le trône de son
                   mari crouler sous des intrigues*<note type="annotation">Intrigue. Manière secrète
                      d'agir , qu'on emploie pour faire réussir ou manquer une affaire.</note> de
-                  famille et sous les révoltes populaires ; <persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau</persName> avait sous les yeux les grandes misères de
+                  famille et sous les révoltes populaires ; <persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau</persName> avait sous les yeux les grandes misères de
                      France. Et pendant ce temps quel était son grand souci ?
                   D'envoyer à sa fille des poupées — des poupées habillées à la dernière mode
                   parisienne, pour la tenir au courant de l'élégance du jour. Une poupée suivait
                   l'autre ; et ces deux dames étaient ravies ; rien ne les troublait.</p>
                <p>Le livre parlait aussi des corsets de cette époque. A <pb type="page" n="330" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_330.jpg"/>
-                  <fw>330 SUZETTE.</fw> cette <persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau</persName> est
+                  <fw>330 SUZETTE.</fw> cette <persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau</persName> est
                   attribuée l'introduction en France, et même l'invention de
                   ce corset si funeste aux jeunes filles. Les demoiselles, en effet, s'imaginant que
                   la beauté de la taille consiste uniquement dans sa finesse, se serrent jusqu'à
@@ -2167,7 +2215,7 @@
                   <item>— Donnez une idée des coiffures du quatorzième et du quinzième
                      siècle.</item>
                   <item>— Quelle coiffure admira-t-on encore ? </item>
-                  <item>— Que direz-vous de la coquetterie de la reine <persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau de Bavière</persName> ? </item>
+                  <item>— Que direz-vous de la coquetterie de la reine <persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau de Bavière</persName> ? </item>
                   <item>— Quel était son souci ainsi que celui de sa fille mariée en
                         Angleterre ? </item>
                   <item>— A qui attribue-t-on l'invention des corsets ? </item>
