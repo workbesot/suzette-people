@@ -103,7 +103,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20230926163513683",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-26T20:35:13.683Z",
-	"dcterms:modified": "2023-09-26T20:35:13.683Z",
+	"dcterms:modified": "2026-10-16T14:36:18.675Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -135,7 +135,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q463728",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers201",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -144,7 +144,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -182,7 +194,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20230926163553209",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-26T20:35:53.209Z",
-	"dcterms:modified": "2023-09-26T20:35:53.209Z",
+	"dcterms:modified": "2026-10-16T14:36:25.380Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -214,7 +226,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q439144",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers016",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -223,7 +235,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -261,7 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20230926163640862",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-26T20:36:40.862Z",
-	"dcterms:modified": "2023-09-26T20:36:40.862Z",
+	"dcterms:modified": "2026-10-16T14:36:31.082Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -293,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7738",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -302,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -902,7 +938,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20240328110900886",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T15:09:00.886Z",
-	"dcterms:modified": "2026-10-16T14:35:06.986Z",
+	"dcterms:modified": "2026-10-16T14:35:13.454Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -993,7 +1029,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20240328110916570",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T15:09:16.570Z",
-	"dcterms:modified": "2024-03-28T15:09:16.570Z",
+	"dcterms:modified": "2026-10-16T14:36:02.273Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1025,7 +1061,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q221303",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1034,7 +1070,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1072,7 +1120,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20240328110928102",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T15:09:28.102Z",
-	"dcterms:modified": "2024-03-28T15:09:28.102Z",
+	"dcterms:modified": "2026-10-16T14:36:10.260Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1104,7 +1152,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q221303",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1113,7 +1161,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1356,22 +1416,22 @@
                   <head type="sujets">Histoire.</head>
                   <div type="questions">
                      <list>
-                        <item>— <persName key="Anne Robert Jacques Turgot" ref="http://www.wikidata.org/entity/Q221303">TURGOT</persName>. </item>
+                        <item>— <persName key="Anne Robert Jacques Turgot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020">TURGOT</persName>. </item>
                         <item>— Dire quelques mots de la misère des paysans au dix-huitième siècle. </item>
                         <item>— Causes de cette misère.</item>
-                        <item>— Que fit <persName key="Anne Robert Jacques Turgot" ref="http://www.wikidata.org/entity/Q221303">Turgot</persName> pour la
+                        <item>— Que fit <persName key="Anne Robert Jacques Turgot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020">Turgot</persName> pour la
                            soulager : 1° quand il était intendant du Limousin
                            ; — 2° quand il fut ministre ?</item>
                      </list>
                   </div>
                   <div type="réponses">
-                     <p>En 1725, le célèbre <persName key="Louis de Rouvroy, duc de Saint-Simon" ref="http://www.wikidata.org/entity/Q463728">Saint-Simon</persName> écrit
-                        au <persName key="André-Hercule de Fleury" ref="http://www.wikidata.org/entity/Q439144">cardinal Fleury</persName> a que les pauvres
+                     <p>En 1725, le célèbre <persName key="Louis de Rouvroy de Saint-Simon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers201">Saint-Simon</persName> écrit
+                        au <persName key="André Hercule de Fleury" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers016">cardinal Fleury</persName> a que les pauvres
                         gens de Normandie mangent de l'herbe, et que le
                         royaume se tourne en un vaste hôpital de mourants et de désespérés. On vit
                         alors se former une association de financiers qui achetaient tous les blés ;
                         en formaient des magasins immenses, pour vendre cette denrée à un prix
-                        exorbitant lorsqu'ils avaient ainsi produit la disette. <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV</persName> fit une avance de dix millions à
+                        exorbitant lorsqu'ils avaient ainsi produit la disette. <persName key="Louis XV" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213">Louis XV</persName> fit une avance de dix millions à
                         cette entreprise abominable, et il se « vantait à tout le monde du lucre
                         infâme qu'il faisait sur ses sujets. » (<persName key="Jean Charles Dominique de Lacretelle" ref="http://www.wikidata.org/entity/Q2279426">LACRETELLE</persName>, Hist. de France.)</p>
                      <p>Alors la famine ne quitta plus les campagnes ; elle redoubla en 1740, 1741,
