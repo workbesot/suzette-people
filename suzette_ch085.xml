@@ -1195,6 +1195,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229152334841",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:23:34.841Z",
+	"dcterms:modified": "2026-10-16T15:09:50.125Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1226,7 +1227,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q171480",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers185",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1235,7 +1236,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1273,6 +1286,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229152423121",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:24:23.121Z",
+	"dcterms:modified": "2026-10-16T15:10:05.837Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1304,7 +1318,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q456122",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers009",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1313,7 +1327,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1351,6 +1377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229152449674",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:24:49.674Z",
+	"dcterms:modified": "2026-10-16T15:10:18.093Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1382,7 +1409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1391,7 +1418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3068,15 +3107,15 @@
                         frère de <persName key="Maximilien de Robespierre" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers236" ana="française" role="homme d'état">Robespierre</persName>, il fut
                         cependant choisi par le Directoire pour combattre l'insurrection royaliste
                         du 13 vendémiaire (5 oct. 1795). </p>
-                     <p>Le 2 mars 1796, après avoir épousé <persName key="Joséphine de Beauharnais" ref="http://www.wikidata.org/entity/Q171480" ana="française" role="impératrice">Joséphine de
-                           la Tascherie</persName>, veuve du <persName key="Alexandre de Beauharnais" ref="http://www.wikidata.org/entity/Q456122" ana="française" role="homme de guerre">général de
+                     <p>Le 2 mars 1796, après avoir épousé <persName key="Joséphine de Beauharnais" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers185" ana="française" role="impératrice">Joséphine de
+                           la Tascherie</persName>, veuve du <persName key="Alexandre de Beauharnais" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers009" ana="française" role="homme de guerre">général de
                            Beauharnais</persName>, il fut mis à la tête de l'armée d'Italie ; il s'y
                         couvrit de gloire dans les immortelles batailles de
                            Montenotte, Castiglione,
                            Arcole, Rivoli, qui eurent
                         pour résultat d'expulser les Autrichiens de la péninsule.</p>
                      <p>Afin d'atteindre les Anglais dans leurs colonies de
-                           l'Hindoustan, le Directoire confia à <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">Bonaparte</persName> le commandement d'une armée
+                           l'Hindoustan, le Directoire confia à <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Bonaparte</persName> le commandement d'une armée
                         destinée à faire la conquête de l'Egypte. Il partit
                         le 19 mai 1798 et, après avoir brisé la puissance des mamelouks, il devint
                         le maître de cette riche contrée. Il l'abandonna à la suite des fâcheuses
