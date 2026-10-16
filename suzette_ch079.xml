@@ -1001,6 +1001,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091349868",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:13:49.868Z",
+	"dcterms:modified": "2026-10-16T14:49:37.607Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1032,7 +1033,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q143046",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers084",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1041,7 +1042,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1079,6 +1092,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091414271",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:14:14.271Z",
+	"dcterms:modified": "2026-10-16T14:49:30.072Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1110,7 +1124,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q38022",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers283",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1119,7 +1133,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1157,6 +1183,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091435477",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:14:35.477Z",
+	"dcterms:modified": "2026-10-16T14:49:20.340Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1188,7 +1215,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q711295",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers087",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1197,7 +1224,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2437,7 +2476,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20240402140045205",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-02T18:00:45.205Z",
-	"dcterms:modified": "2024-04-02T18:00:45.205Z",
+	"dcterms:modified": "2026-10-16T14:49:49.689Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2469,7 +2508,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q346",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers283",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2478,7 +2517,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -2600,7 +2651,7 @@
 								Cité ? </item>
 						<item>— Que savez-vous des origines de Paris ; — des
 							Normands ? </item>
-						<item>— Dites quelques mots du grand siège où se distinguèrent <persName key="Eudes" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085">Eudes</persName> et l'évêque <persName key="Gozlin, Count of Bidgau" ref="http://www.wikidata.org/entity/Q711295">Gozlin</persName>.
+						<item>— Dites quelques mots du grand siège où se distinguèrent <persName key="Eudes" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085">Eudes</persName> et l'évêque <persName key="Évêque Gozlin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers087">Gozlin</persName>.
 						</item>
 					</list>
 				</div>
@@ -2644,12 +2695,12 @@
 								<item>— Qu'est-ce qui caractérise les monuments dits gothiques ? </item>
 								<item>— Quels sont les plus beaux ? </item>
 								<item>— Citer les plus remarquables cathédrales de France.</item>
-								<item>— Que savez-vous de <persName key="St. Louis" ref="http://www.wikidata.org/entity/Q38022">saint
+								<item>— Que savez-vous de <persName key="Saint-Louis" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers283">saint
 										Louis</persName> et de la Sainte-Chapelle ? </item>
 								<item>— Qui a fondé le Palais de
 										Justice de Paris ;
 									qui l'a agrandi ? </item>
-								<item>— A quelle époque vivait <persName key="Étienne Marcel" ref="http://www.wikidata.org/entity/Q143046">Etienne
+								<item>— A quelle époque vivait <persName key="Étienne Marcel" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers084">Etienne
 										Marcel</persName> ? Racontez la part qu'il prit aux
 									événements de son siècle.</item>
 								<item>— Que savez-vous des pirates normands ?</item>
@@ -2685,7 +2736,7 @@
 								de Strasbourg (avant 1870). Les églises de Saint-Ouen à Rouen,
 								de Vézelay, de Caen
 								sont aussi admirables.</p>
-							<p><persName key="Louis IX of France" ref="http://www.wikidata.org/entity/Q346">Saint
+							<p><persName key="Saint-Louis" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers283">Saint
 								Louis</persName>, qui régna de 1226 à 1270, fonda la Sainte-Chapelle. Elle fut construite de 1242 à 1247
 								par <persName key="Pierre de Montreuil" ref="http://www.wikidata.org/entity/Q1314747">Pierre de
 									Montereau</persName>, et se compose de deux chapelles
