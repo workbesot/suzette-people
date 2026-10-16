@@ -741,6 +741,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch061.xml?person_annotation_20240229133047781",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T18:30:47.781Z",
+	"dcterms:modified": "2026-10-16T13:38:39.129Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -772,7 +773,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q431034",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers092",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -781,7 +782,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -819,7 +832,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch061.xml?person_annotation_20231116145854327",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-11-16T19:58:54.327Z",
-	"dcterms:modified": "2023-11-16T19:58:54.327Z",
+	"dcterms:modified": "2026-10-16T13:38:45.301Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -851,7 +864,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q78873",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers143",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -860,7 +873,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1217,8 +1242,8 @@
 								méritent tous nos hommages.</p>
 							<p>Une Française, <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers225" ana="française" key="Marie d' Ujfalvy" role="explorateur">Mme
 									d'Ujfalvy</persName>, et deux Anglaises, Mmes <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers019" ana="britannique" key="Anne Blunt" role="explorateur">Blount</persName> et
-									<persName ref="https://www.wikidata.org/wiki/Q431034" ana="britannique" key="Florence Baker" role="explorateur">Baker</persName>, l'ont récemment imitée. Une Autrichienne, Mme
-									<persName type="historique" ref="https://www.wikidata.org/wiki/Q78873">Ida
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers092" ana="britannique" key="Florence Baker" role="explorateur">Baker</persName>, l'ont récemment imitée. Une Autrichienne, Mme
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers143" key="Ida Pfeiffer">Ida
 									Pfeiffer</persName>, a fait davantage ; elle a entrepris seule
 								plusieurs voyages dans les régions les moins connues de
 										l'Afrique, de l'Asie et de l'Océanie.</p>
