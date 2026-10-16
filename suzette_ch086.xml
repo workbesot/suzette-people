@@ -574,7 +574,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20230712104213284",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-07-12T14:42:13.284Z",
-	"dcterms:modified": "2023-07-12T14:42:13.284Z",
+	"dcterms:modified": "2026-10-16T15:14:13.380Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -606,7 +606,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7226",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers174",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -616,6 +616,18 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
 	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	],
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
@@ -3786,7 +3798,7 @@
                         métal ou sur de la toile. — Un <term>portrait</term> est l'image d'une
                         personne, faite avec le pinceau, le burin, le crayon, le ciseau. — Une
                            <term>scène d'histoire</term> est la représentation d'un fait historique,
-                        comme l'entrée de <persName cert="high" key="Joan of Arc" ref="http://www.wikidata.org/entity/Q7226">Jeanne d'Arc</persName> à
+                        comme l'entrée de <persName cert="high" key="Jeanne d'Arc" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers174">Jeanne d'Arc</persName> à
                            Orléans, les cuirassiers de
                            Reichshoffen, la vieille garde à
                            Waterloo (on voit ces tableaux dans nos musées de
