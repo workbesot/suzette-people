@@ -649,6 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229151410225",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:14:10.225Z",
+	"dcterms:modified": "2026-10-16T15:08:39.037Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -680,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -689,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -727,6 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229151508933",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:15:08.933Z",
+	"dcterms:modified": "2026-10-16T15:08:53.764Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -758,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -767,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -805,6 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229151940855",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:19:40.855Z",
+	"dcterms:modified": "2026-10-16T15:09:00.455Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -836,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -845,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2949,7 +2988,7 @@
                      ? </item>
                   <item>— Racontez l'expérience qu'il tenta sur l'Hudson. </item>
                   <item>— Que fit un homme moins timide que les autres ? </item>
-                  <item>— Quel accueil reçut enfin la découverte de <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine" role="inventeur">Fulton</persName> ? </item>
+                  <item>— Quel accueil reçut enfin la découverte de <persName key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281" ana="américaine" role="inventeur">Fulton</persName> ? </item>
                   <item>— Quels services rend aujourd'hui la navigation à vapeur ?</item>
                </list>
             </div>
@@ -2961,7 +3000,7 @@
                   <head type="sujets">Histoire.</head>
                   <div type="questions">
                      <list>
-                        <item>— <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">BONAPARTE</persName>. </item>
+                        <item>— <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">BONAPARTE</persName>. </item>
                         <item>— Dire où il naquit, fit ses études et débuta dans la carrière
                            militaire. </item>
                         <item>— Services qu'il rendit au siège de Toulon.</item>
@@ -2972,7 +3011,7 @@
                      </list>
                   </div>
                   <div type="réponses">
-                     <p><persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">Bonaparte Napoléon</persName> naquit le 15 août
+                     <p><persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Bonaparte Napoléon</persName> naquit le 15 août
                         1769, à Ajaccio, de <persName key="Carlo Bonaparte" ref="http://www.wikidata.org/entity/Q151869" ana="française" role="juge">Charles Bonaparte</persName> et de <persName key="Maria-Letizia Bonaparte" ref="http://www.wikidata.org/entity/Q151995" ana="française" role="aristocrate">Letizia
                            Ramolino</persName>, à l'époque de la réunion de la
                            Corse à la France. Après
