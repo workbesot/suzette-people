@@ -2105,7 +2105,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202756056",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:27:56.056Z",
-	"dcterms:modified": "2026-10-16T16:43:29.492Z",
+	"dcterms:modified": "2026-10-16T16:47:45.234Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2196,7 +2196,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202827335",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:28:27.335Z",
-	"dcterms:modified": "2026-10-16T16:44:19.474Z",
+	"dcterms:modified": "2026-10-16T16:48:01.599Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
