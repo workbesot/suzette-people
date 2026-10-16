@@ -688,7 +688,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch072.xml?person_annotation_20231002171818148",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T21:18:18.148Z",
-	"dcterms:modified": "2023-10-02T21:18:18.148Z",
+	"dcterms:modified": "2026-10-16T14:30:31.194Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -720,7 +720,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q26702",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers026",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -729,7 +729,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -767,7 +779,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch072.xml?person_annotation_20231002172059838",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T21:20:59.838Z",
-	"dcterms:modified": "2023-10-02T21:20:59.838Z",
+	"dcterms:modified": "2026-10-16T14:30:46.530Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -799,7 +811,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q32500",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers053",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -808,7 +820,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -846,7 +870,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch072.xml?person_annotation_20231002172404028",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T21:24:04.028Z",
-	"dcterms:modified": "2023-10-02T21:24:04.028Z",
+	"dcterms:modified": "2026-10-16T14:30:55.904Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -878,7 +902,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q157098",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers260",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -887,7 +911,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1399,6 +1435,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch072.xml?person_annotation_20240329153630563",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-29T19:36:30.563Z",
+	"dcterms:modified": "2026-10-16T14:30:37.630Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1430,7 +1467,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q332586",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers006",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1439,7 +1476,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -1579,11 +1628,11 @@
                         que celles des Normands ; plus tard, ils les protégeaient dans les guerres
                         de seigneur à seigneur. Ils existèrent jusqu'au dix-septième siècle ; ils
                         n'étaient plus, à cette époque, que la terreur des paysans et le repaire de
-                        quelques brigands féodaux qui bravaient la loi et le roi. <persName key="Armand-Jean du Plessis, duc de Richelieu" ref="http://www.wikidata.org/entity/Q26702">Richelieu</persName> ordonna de faire disparaître ces
-                        derniers vestiges de l'ancien régime. (D'après <persName key="Pierre Adolphe Chéruel" ref="http://www.wikidata.org/entity/Q332586">CHÉRUEL</persName>.)</p>
-                     <p><persName key="Charles V" ref="http://www.wikidata.org/entity/Q32500">Charles-Quint</persName> (1509-1558), empereur
+                        quelques brigands féodaux qui bravaient la loi et le roi. <persName key="Armand Jean du Plessis de Richelieu" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers026">Richelieu</persName> ordonna de faire disparaître ces
+                        derniers vestiges de l'ancien régime. (D'après <persName key="Adolphe Chéruel" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers006">CHÉRUEL</persName>.)</p>
+                     <p><persName key="Charles Quint" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers053">Charles-Quint</persName> (1509-1558), empereur
                            d'Allemagne, roi d'Espagne,
-                        souverain des Pays-Bas, était le fils de <persName key="Philip I of Castile" ref="http://www.wikidata.org/entity/Q157098">Philippe le Beau</persName>, archiduc
+                        souverain des Pays-Bas, était le fils de <persName key="Philippe Ier de Castille" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers260">Philippe le Beau</persName>, archiduc
                            d'Autriche, et de <persName key="Juana I of Castile" ref="http://www.wikidata.org/entity/Q171136">Jeanne la Folle</persName>, fille de <persName key="Ferdinand II of Aragon" ref="http://www.wikidata.org/entity/Q12860">Ferdinand</persName>, roi d'Espagne. Il y eut des
                         guerres nombreuses entre lui et les rois de France
                         <persName key="Francis I of France" ref="http://www.wikidata.org/entity/Q129857">François Ier</persName> et <persName key="Henry II of France" ref="http://www.wikidata.org/entity/Q132545">Henri II</persName>. Il possédait les
