@@ -1377,7 +1377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200619413",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:06:19.413Z",
-	"dcterms:modified": "2024-03-01T01:06:19.413Z",
+	"dcterms:modified": "2026-10-16T16:40:36.093Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1409,7 +1409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q727658",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers247",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1418,7 +1418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1456,7 +1468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201022379",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:10:22.379Z",
-	"dcterms:modified": "2024-03-01T01:10:22.379Z",
+	"dcterms:modified": "2026-10-16T16:40:49.157Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1488,7 +1500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q454013",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers165",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1497,7 +1509,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2352,8 +2376,8 @@
                   </div>
                   <div type="réponses">
                      <p><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers261" key="Pierre de Craon le Grand" ana="française" role="aristocrate">Pierre de Craon</persName>, chassé de la cour de
-                           France par le <persName ana="française" key="Olivier de Clisson" ref="http://www.wikidata.org/entity/Q727658" role="homme de guerre">connétable de Clisson</persName>, tenta de l'assassiner avec une troupe
-                        de brigands (14 juin 1392) Il vint se réfugier ensuite auprès du <persName ana="française" key="John V" ref="http://www.wikidata.org/entity/Q454013" role="aristocrate">duc de Bretagne</persName>, qui refusa de le livrer au
+                           France par le <persName ana="française" key="Olivier V de Clisson" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers247" role="homme de guerre">connétable de Clisson</persName>, tenta de l'assassiner avec une troupe
+                        de brigands (14 juin 1392) Il vint se réfugier ensuite auprès du <persName ana="française" key="Jean V de Bretagne" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers165" role="aristocrate">duc de Bretagne</persName>, qui refusa de le livrer au
                         roi. Bien que malade, <persName ana="française" key="Charles VI of France" ref="http://www.wikidata.org/entity/Q160349" role="roi">Charles VI </persName>se
                         mit en marche avec une armée au plus fort de l'été de cette même année. Le 5
                         août 1392, comme il traversait la , un homme sortit des broussailles et,
