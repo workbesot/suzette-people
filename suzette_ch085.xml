@@ -103,6 +103,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229150444672",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:04:44.672Z",
+	"dcterms:modified": "2026-10-16T15:07:20.034Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -134,7 +135,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -143,7 +144,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -181,6 +194,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229150743339",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:07:43.339Z",
+	"dcterms:modified": "2026-10-16T15:07:27.152Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -212,7 +226,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -221,7 +235,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -259,6 +285,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229150905425",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:09:05.425Z",
+	"dcterms:modified": "2026-10-16T15:07:43.777Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -290,7 +317,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q106208",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers075",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -299,7 +326,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1860,6 +1899,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240405152101364",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-05T19:21:01.364Z",
+	"dcterms:modified": "2026-10-16T15:06:42.813Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -1891,7 +1931,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1900,7 +1940,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2017,6 +2069,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240405152247118",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-05T19:22:47.118Z",
+	"dcterms:modified": "2026-10-16T15:07:35.390Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -2048,7 +2101,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2057,7 +2110,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2803,15 +2868,15 @@
                   triomphe de la Révolution française le fait accourir à
                      Paris comme au pays de lumière et de générosité.
                      <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Bonaparte</persName>, premier consul, auquel il
-                  offre sa découverte, lui donne quelque espérance, et <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine" role="inventeur">Fulton</persName> fait naviguer sur la  un bateau à vapeur en présence de l'Académie des
+                  offre sa découverte, lui donne quelque espérance, et <persName key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281" ana="américaine" role="inventeur">Fulton</persName> fait naviguer sur la  un bateau à vapeur en présence de l'Académie des
                      sciences*<note type="annotation">— Académie des sciences. Compagnie de savants
                      choisis qui se réunissent pour s'occuper des sciences.</note>
                </p>
-               <p>Mais <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">Bonaparte</persName>, devenu empereur, a
+               <p>Mais <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Bonaparte</persName>, devenu empereur, a
                   maintenant bien d'autres soucis en tête que celui d'une admirable et féconde
                   découverte ; c'est la guerre qui l'intéresse : il tourne le dos au véritable
                   génie.</p>
-               <p><persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496">Fulton</persName> regagne
+               <p><persName key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281">Fulton</persName> regagne
                      l'Amérique. A force de courage et de temps, — car ses
                   expériences l'ont ruiné, — il réussit à construire un nouveau bateau et le lance
                   sur l'Hudson*<note type="annotation">. Fleuve du N.-E. des
@@ -2823,7 +2888,7 @@
                   trajet de New-York à Albany.</p>
                <p>Cependant, à son retour d'Albany, un téméraire se trouve
                   qui ose affronter les rires et la nouveauté. Il tend pour son passage 6 dollars
-                  (30 francs). <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine" role="inventeur">Fulton</persName> garde un moment dans sa
+                  (30 francs). <persName key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281" ana="américaine" role="inventeur">Fulton</persName> garde un moment dans sa
                   main ces pièces d'argent ; ses yeux se mouillent :</p>
                <p>Voilà, dit-il doucement, le premier salaire de tant d'efforts et de tant de
                   souffrances ! </p>
@@ -2837,7 +2902,7 @@
             <div type="questionnaire">
                <head>Questionnaire.</head>
                <list>
-                  <item>— Combien s'est-il écoulé d'années avant que l'idée de <persName key="Denis Papin" ref="http://www.wikidata.org/entity/Q106208" ana="française" role="inventeur">Papin</persName> fût de nouveau réalisée ? </item>
+                  <item>— Combien s'est-il écoulé d'années avant que l'idée de <persName key="Denis Papin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers075" ana="française" role="inventeur">Papin</persName> fût de nouveau réalisée ? </item>
                   <item>— Racontez ce que vous savez de <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine" role="inventeur">Fulton</persName> et de son expérience sur la . </item>
                   <item>— Pourquoi <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">Bonaparte</persName>
                      n'encouragea-t-il pas <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine">Fulton</persName> ? </item>
