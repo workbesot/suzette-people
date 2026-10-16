@@ -1014,6 +1014,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229141543291",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:15:43.291Z",
+	"dcterms:modified": "2026-10-16T13:48:22.834Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1045,7 +1046,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q1373527",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers086",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1054,7 +1055,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1092,6 +1105,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229141624748",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:16:24.748Z",
+	"dcterms:modified": "2026-10-16T13:48:28.675Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1123,7 +1137,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q124305",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers186",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1132,7 +1146,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1170,6 +1196,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229141708740",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:17:08.740Z",
+	"dcterms:modified": "2026-10-16T13:48:34.094Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1201,7 +1228,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q3293836",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers230",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1210,7 +1237,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1248,6 +1287,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229141827589",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:18:27.589Z",
+	"dcterms:modified": "2026-10-16T13:48:39.393Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1279,7 +1319,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q17577",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers182",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1288,7 +1328,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1326,6 +1378,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229141910106",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:19:10.106Z",
+	"dcterms:modified": "2026-10-16T13:48:44.342Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1357,7 +1410,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q368976",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers276",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1366,7 +1419,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1404,6 +1469,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229141950611",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:19:50.611Z",
+	"dcterms:modified": "2026-10-16T13:48:51.656Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1435,7 +1501,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q60141",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers129",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1444,7 +1510,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1482,6 +1560,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142030870",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:20:30.870Z",
+	"dcterms:modified": "2026-10-16T13:48:56.687Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1513,7 +1592,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q182568",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers155",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1522,7 +1601,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3644,17 +3735,17 @@
 								1795-1805, qui périt assassiné sur les rives du Niger ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers037" ana="française" key="Sous-lieutenant Pascal">Pascal</persName>, 1859-60, qui a vu
 									Bakel
 								et Bambouk
-								; — le lieutenant <persName ref="https://www.wikidata.org/wiki/Q1373527" ana="française" key="Eugène Mage" role="explorateur">Mage</persName>, 1859,
+								; — le lieutenant <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers086" ana="française" key="Eugène Mage" role="explorateur">Mage</persName>, 1859,
 									Bakel,
 									Médine, Ségou ;
-								— <persName ref="https://www.wikidata.org/wiki/Q124305" ana="suisse" key="Josua Zweifel" role="explorateur">Zweitfel</persName> et
-									<persName ref="https://www.wikidata.org/wiki/Q3293836" ana="française" key="Marius Moustier" role="explorateur">Moutier</persName>, 1879, sources du Niger ; — <persName ref="https://www.wikidata.org/wiki/Q17577" ana="française" key="Joseph Gallieni" role="homme de guerre">Galliéni</persName>, 1880-81, Médine, Kita,
+								— <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers186" ana="suisse" key="Josua Zweifel" role="explorateur">Zweitfel</persName> et
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers230" ana="française" key="Marius Moustier" role="explorateur">Moutier</persName>, 1879, sources du Niger ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers182" ana="française" key="Joseph Galliéni" role="homme de guerre">Galliéni</persName>, 1880-81, Médine, Kita,
 									Bamakou
 								et le Niger.</p>
 							<p>3° Pour la région centrale située au sud du Sahara :
-									<persName ref="https://www.wikidata.org/wiki/Q368976" ana="française" key="René Caillié" role="explorateur">René
-									Caillié</persName>, 1828, Tombouctou ; — <persName ref="https://www.wikidata.org/wiki/Q60141" ana="allemande" key="Heinrich Barth" role="explorateur">Barth</persName>,
-									<persName ref="https://www.wikidata.org/wiki/Q182568" ana="britannique" key="James Richardson" role="explorateur">Richardson</persName>, <persName ref="https://www.wikidata.org/wiki/Q67622" ana="allemande" key="Adolf Overweg" role="explorateur">Overweg</persName>,
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers276" ana="française" key="René Caillié" role="explorateur">René
+									Caillié</persName>, 1828, Tombouctou ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers129" ana="allemande" key="Heinrich Barth" role="explorateur">Barth</persName>,
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers155" ana="britannique" key="James Richardson" role="explorateur">Richardson</persName>, <persName ref="https://www.wikidata.org/wiki/Q67622" ana="allemande" key="Adolf Overweg" role="explorateur">Overweg</persName>,
 								1850-55, Tripoli,
 									Bornou, lac
 									Tchad, Tombouctou, Bilma ;
