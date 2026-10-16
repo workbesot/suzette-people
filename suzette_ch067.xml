@@ -741,6 +741,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229140421144",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:04:21.144Z",
+	"dcterms:modified": "2026-10-16T13:47:51.560Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -772,7 +773,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q675579",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers253",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -781,7 +782,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -819,6 +832,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229140837811",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:08:37.811Z",
+	"dcterms:modified": "2026-10-16T13:47:58.878Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -850,7 +864,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q219086",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers239",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -859,7 +873,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -897,6 +923,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240303142342741",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-03T19:23:42.741Z",
+	"dcterms:modified": "2026-10-16T13:48:13.047Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -928,7 +955,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q1290",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers037",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -937,7 +964,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3597,12 +3636,12 @@
 								1859-61, qui a exploré Ouargla
 								et Mourzouk ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers254" ana="française" key="Paul Soleillet" role="explorateur">Soleillet</persName>,
 								1873-1874, exploration d'Insalah ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers198" ana="française" key="Léon Victor Largeau" role="explorateur">Largeau</persName> et
-									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers207" ana="française" key="Louis Say" role="explorateur">Say</persName>, 1875, oasis de Ghadamès; — le <persName ref="https://www.wikidata.org/wiki/Q675579" ana="française" key="Paul Flatters" role="explorateur">colonel
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers207" ana="française" key="Louis Say" role="explorateur">Say</persName>, 1875, oasis de Ghadamès; — le <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers253" ana="française" key="Paul Flatters" role="explorateur">colonel
 									Flatters</persName>, 1880-81, qui fut massacré par les
 								Touaregs.</p>
 							<p>2° Pour la Sénégambie et le Niger
-									supérieur : l'Anglais <persName ref="https://www.wikidata.org/wiki/Q219086" ana="britannique" key="Mungo Park" role="explorateur">Mungo-Park</persName>,
-								1795-1805, qui périt assassiné sur les rives du Niger ; — <persName ref="https://www.wikidata.org/wiki/Q1290" ana="française" key="Blaise Pascal">Pascal</persName>, 1859-60, qui a vu
+									supérieur : l'Anglais <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers239" ana="britannique" key="Mungo Park" role="explorateur">Mungo-Park</persName>,
+								1795-1805, qui périt assassiné sur les rives du Niger ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers037" ana="française" key="Sous-lieutenant Pascal">Pascal</persName>, 1859-60, qui a vu
 									Bakel
 								et Bambouk
 								; — le lieutenant <persName ref="https://www.wikidata.org/wiki/Q1373527" ana="française" key="Eugène Mage" role="explorateur">Mage</persName>, 1859,
