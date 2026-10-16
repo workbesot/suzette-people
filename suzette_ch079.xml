@@ -1235,6 +1235,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091513948",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:15:13.948Z",
+	"dcterms:modified": "2026-10-16T14:49:12.165Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1266,7 +1267,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q441714",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1275,7 +1276,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1313,6 +1326,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091643789",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:16:43.789Z",
+	"dcterms:modified": "2026-10-16T14:49:05.205Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1344,7 +1358,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q98674678",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers192",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1353,7 +1367,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1391,6 +1417,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091700901",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:17:00.901Z",
+	"dcterms:modified": "2026-10-16T14:48:58.464Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1422,7 +1449,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q65963804",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1431,7 +1458,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1469,6 +1508,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091709949",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:17:09.949Z",
+	"dcterms:modified": "2026-10-16T14:48:43.168Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1500,7 +1540,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q143046",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers084",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1509,7 +1549,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2534,21 +2586,21 @@
 						<item>— Où se rendait-elle ?</item>
 						<item>— Qu'est-ce qu'une exposition ? </item>
 						<item> — Que savez-vous de l'ancien hotel de ville ?</item>
-						<item>— Que revendiqua <persName key="Étienne Marcel" ref="http://www.wikidata.org/entity/Q143046">Etienne
+						<item>— Que revendiqua <persName key="Étienne Marcel" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers084">Etienne
 								Marcel</persName> ? </item>
 						<item>— Comment finit-il ? </item>
 						<item>— Décrivez l'hôtel de ville actuel. </item>
 						<item>— Quel édifice a-t-il remplacé ? </item>
-						<item>— Quand périt l'hôtel de ville construit sous <persName key="François Ier de La Rochefoucauld" ref="http://www.wikidata.org/entity/Q65963804">François
+						<item>— Quand périt l'hôtel de ville construit sous <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François
 								Ier</persName> ? </item>
 						<item>— Dites quelque chose des dévastations commises en 1871, sous la
 							Commune. </item>
-						<item>— Rappelez les paroles de l'historien <persName key="Michelet" ref="http://www.wikidata.org/entity/Q98674678">Michelet</persName>. </item>
+						<item>— Rappelez les paroles de l'historien <persName key="Jules Michelet" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers192">Michelet</persName>. </item>
 						<item>— Quels monuments embellissent l'île de la
 								Cité ? </item>
 						<item>— Que savez-vous des origines de Paris ; — des
 							Normands ? </item>
-						<item>— Dites quelques mots du grand siège où se distinguèrent <persName key="Jean Eudes" ref="http://www.wikidata.org/entity/Q441714">Eudes</persName> et l'évêque <persName key="Gozlin, Count of Bidgau" ref="http://www.wikidata.org/entity/Q711295">Gozlin</persName>.
+						<item>— Dites quelques mots du grand siège où se distinguèrent <persName key="Eudes" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085">Eudes</persName> et l'évêque <persName key="Gozlin, Count of Bidgau" ref="http://www.wikidata.org/entity/Q711295">Gozlin</persName>.
 						</item>
 					</list>
 				</div>
