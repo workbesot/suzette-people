@@ -1793,7 +1793,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205931290",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:59:31.290Z",
-	"dcterms:modified": "2024-03-01T01:59:31.290Z",
+	"dcterms:modified": "2026-10-16T16:56:01.087Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1825,7 +1825,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q462371",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers147",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1834,7 +1834,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1872,7 +1884,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229210255245",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T02:02:55.245Z",
-	"dcterms:modified": "2024-03-01T02:02:55.245Z",
+	"dcterms:modified": "2026-10-16T16:56:09.300Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1904,7 +1916,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q132545",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers134",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1913,7 +1925,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1951,7 +1975,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229210538215",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T02:05:38.215Z",
-	"dcterms:modified": "2024-03-01T02:05:38.215Z",
+	"dcterms:modified": "2026-10-16T16:56:16.815Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1983,7 +2007,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3340160",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers243",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1992,7 +2016,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -2128,15 +2164,15 @@
                         permettraient de faire le voyage nécessaire. Il obtint enfin quelques
                         bâtiments et découvrit ainsi l'Amérique. Après quatre
                         voyages successifs, il fut abandonné de ses protecteurs <persName key="Ferdinand II d'Aragon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers090">Ferdinand II</persName> et <persName ana="espagnole" key="Isabelle la Catholique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers146" role="reine">Isabelle</persName>, et mourut dans la misère.</p>
-                     <p><persName ana="française" key="Jacques Amyot" ref="http://www.wikidata.org/entity/Q462371" role="savant">Jacques Amyot</persName>
+                     <p><persName ana="française" key="Jacques Amyot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers147" role="savant">Jacques Amyot</persName>
                         (1513-1593), pauvre enfant sans ressources, dévoré de l'amour de la science,
                         travaillait pendant le jour comme domestique dans un collège de
                            Paris, et consacrait la plus grande partie de la
                         nuit à l'étude. Tant de courage fut récompensé ; il devint précepteur des
-                        fils de <persName ana="française" key="Henry II of France" ref="http://www.wikidata.org/entity/Q132545" role="roi">Henri II</persName>, grand aumônier de
+                        fils de <persName ana="française" key="Henri II" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers134" role="roi">Henri II</persName>, grand aumônier de
                            France et évêque
                         d'Auxerre.</p>
-                     <p><persName ref="http://www.wikidata.org/entity/Q3340160" key="Nicolas Brémontier" ana="française" role="ingénieur">Brémontier</persName>, célèbre
+                     <p><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers243" key="Nicolas Brémontier" ana="française" role="ingénieur">Brémontier</persName>, célèbre
                         ingénieur, frappé des désastres que causait la marche en avant des dunes de
                            Gascogne, entreprit de les arrêter par des
                         plantations. Il dut chercher longtemps la plante propre à atteindre ce
