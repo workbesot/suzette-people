@@ -1742,6 +1742,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142241210",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:22:41.210Z",
+	"dcterms:modified": "2026-10-16T13:50:25.637Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -1773,7 +1774,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q63209",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers112",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1782,7 +1783,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2445,6 +2458,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142335191",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:23:35.191Z",
+	"dcterms:modified": "2026-10-16T13:50:49.209Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2476,7 +2490,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q60549",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers126",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2486,6 +2500,18 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
 	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	],
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
@@ -3762,8 +3788,8 @@
 								1850-55, Tripoli,
 									Bornou, lac
 									Tchad, Tombouctou, Bilma ;
-								— <persName ref="https://www.wikidata.org/wiki/Q63209" ana="allemande" key="Gerhard Friedrich Rohlfs" role="explorateur">Gérard Rohlfs</persName> : Ghadamès, Mourzouk, Bornou, Ouadai
-								; — <persName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" ref="http://www.wikidata.org/entity/Q60549" ana="allemande" key="Gustav Nachtigal" role="explorateur">Nachtigal</persName>,
+								— <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers112" ana="allemande" key="Friedrich Gerhard Rohlfs" role="explorateur">Gérard Rohlfs</persName> : Ghadamès, Mourzouk, Bornou, Ouadai
+								; — <persName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers126" ana="allemande" key="Gustav Gustav Nachtigal" role="explorateur">Nachtigal</persName>,
 								1869-74, Tripoli,
 									lac
 									Tchad, <pb type="page" n="236" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_236.jpg"/> retour par l'Égypte ; —
