@@ -519,7 +519,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229204645570",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:46:45.570Z",
-	"dcterms:modified": "2024-03-01T01:46:45.570Z",
+	"dcterms:modified": "2026-10-16T16:54:38.631Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -551,7 +551,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q809416",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers033",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -560,7 +560,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -780,7 +792,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229204442490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:44:42.490Z",
-	"dcterms:modified": "2024-03-01T01:44:42.490Z",
+	"dcterms:modified": "2026-10-16T16:54:29.505Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -821,7 +833,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -859,7 +883,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229204725834",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:47:25.834Z",
-	"dcterms:modified": "2024-03-01T01:47:25.834Z",
+	"dcterms:modified": "2026-10-16T16:54:50.204Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -891,7 +915,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q809416",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers033",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -900,7 +924,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -938,7 +974,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229204815605",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:48:15.605Z",
-	"dcterms:modified": "2024-03-01T01:48:15.605Z",
+	"dcterms:modified": "2026-10-16T16:54:57.285Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -970,7 +1006,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7322",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -979,7 +1015,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1017,7 +1065,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229204931422",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:49:31.422Z",
-	"dcterms:modified": "2024-03-01T01:49:31.422Z",
+	"dcterms:modified": "2026-10-16T16:55:06.151Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1049,7 +1097,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q462371",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers147",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1058,7 +1106,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1904,7 +1964,7 @@
                   Seulement il faut manger en route. Et comment ?... Tiens, parbleu, en montrant sa
                   machine !.. Qui, mais si elle n'intéresse pas plus les aubergistes de la route que
                   les gens d'Amplepuis ? </p>
-               <p>Les inventeurs sont industrieux. <persName key="Thimonier" ref="https://www.wikidata.org/wiki/Q809416" ana="française" role="inventeur">Thimonier</persName>
+               <p>Les inventeurs sont industrieux. <persName key="Barthélemy Thimonier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers033" ana="française" role="inventeur">Thimonier</persName>
                   se fabrique des marionnettes, un polichinelle, un commissaire, un arlequin*<note type="annotation">Arlequin. Personnage de comédie dont le vêtement est formé de
                      pièces de diverses couleurs.</note>, un paillasse, une Colombine*<note type="annotation">Columbine. Personnage de comédie : la femme de
                      Polichinelle.</note>. Puis il loge dans une caisse ces messieurs et cette dame
@@ -1920,7 +1980,7 @@
                <list>
                   <item>— De quelle chose parla-t-on au déjeuner ? </item>
                   <item>— Que voulut connaitre <persName type="fictif" key="suzette">Suzette</persName> ? </item>
-                  <item>— Qu'était <persName ana="française" key="Barthélemy Thimonnier" ref="http://www.wikidata.org/entity/Q809416" role="inventeur">Thimonier</persName> ? </item>
+                  <item>— Qu'était <persName ana="française" key="Barthélemy Thimonier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers033" role="inventeur">Thimonier</persName> ? </item>
                   <item>— De qui était-il fils et où exerçait-il la profession de tailleur ? </item>
                   <item>— Quelle idée lui vint à l'esprit ? </item>
                   <item>— Que se dit-il après avoir réalisé sa découverte ? </item>
@@ -1943,7 +2003,7 @@
                         <item>— Quand dit-on qu'un enfant met de la persévérance dans ses travaux ? </item>
                         <item>— Quels sont les avantages de la persévérance ? </item>
                         <item>— Donnez des exemples choisis dans la vie de l'école ; — dans celle de
-                           grands inventeurs : — dans celle de <persName ana="italienne" key="Christopher Columbus" ref="http://www.wikidata.org/entity/Q7322" role="explorateur">Christophe Colomb</persName>, de <persName ana="française" key="Jacques Amyot" ref="http://www.wikidata.org/entity/Q462371" role="savant">Jacques
+                           grands inventeurs : — dans celle de <persName ana="italienne" key="Christophe Colomb" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062" role="explorateur">Christophe Colomb</persName>, de <persName ana="française" key="Jacques Amyot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers147" role="savant">Jacques
                               Amyot</persName>, de <persName ana="française" key="Nicolas Brémontier" ref="http://www.wikidata.org/entity/Q3340160" role="ingénieur">Brémontier</persName>.</item>
                      </list>
                   </div>
