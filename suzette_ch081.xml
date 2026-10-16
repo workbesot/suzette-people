@@ -376,6 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162247631",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:22:47.631Z",
+	"dcterms:modified": "2026-10-16T15:00:08.732Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -416,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -454,7 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162305757",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:23:05.757Z",
-	"dcterms:modified": "2024-04-03T20:23:05.757Z",
+	"dcterms:modified": "2026-10-16T15:00:14.604Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -486,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q936976",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -495,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -533,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162425580",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:24:25.580Z",
-	"dcterms:modified": "2024-04-03T20:24:25.580Z",
+	"dcterms:modified": "2026-10-16T15:00:20.902Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -565,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q737533",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers211",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -574,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -612,6 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162445039",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:24:45.039Z",
+	"dcterms:modified": "2026-10-16T15:00:27.545Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -643,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7742",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -652,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -690,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch081.xml?person_annotation_20240403162604709",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-03T20:26:04.709Z",
-	"dcterms:modified": "2024-04-03T20:26:04.709Z",
+	"dcterms:modified": "2026-10-16T15:00:38.400Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -722,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3090458",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers200",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -731,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1026,19 +1088,19 @@
                         avaient substitué leurs propres <fw type="footer"/>
                         <pb type="page" n="282" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_282.jpg"/>
                          serviteurs et domestiques. <persName key="Henri III" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers135">Henri III</persName> essaya inutilement de remédier à cet abus.
-                           <persName key="Henry IV of France" ref="http://www.wikidata.org/entity/Q936976">Henri IV</persName>, en 1604, affecta
+                           <persName key="Henri IV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136">Henri IV</persName>, en 1604, affecta
                            l'hôpital de la Charité, à
                            Paris, au logement des pauvres officiers et
                         soldats invalides, et prit des mesures pour étendre ce bienfait à tous ceux
                         à qui il était nécessaire ; mais ses ordres furent peu observés. En 1624,
-                           <persName key="Louis XIII of France" ref="http://www.wikidata.org/entity/Q737533">Louis XIII</persName> prescrivit à toutes les
+                           <persName key="Louis XIII de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers211">Louis XIII</persName> prescrivit à toutes les
                         abbayes du royaume de payer annuellement une somme de cent livres pour la
                         nourriture et l'entretien d'un soldat estropié. Les règlements se
                         succédèrent parce qu'on tenait peu de compte des ordres royaux ; aussi, en
-                        1670, <persName type="historique"><persName key="Louis XIV of France" ref="http://www.wikidata.org/entity/Q7742">Louis XIV</persName></persName> acheta un vaste
+                        1670, <persName type="historique"><persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName></persName> acheta un vaste
                         terrain dans la plaine de Grenelle et, en 1674,
                         l'édifice actuel de l'Hôtel des Invalides fut
-                        commencé d'après les dessins de <persName key="Libéral Bruant" ref="http://www.wikidata.org/entity/Q3090458">Bruant</persName> et de <persName key="Jules Hardouin-Mansart" ref="http://www.wikidata.org/entity/Q8053">Mansart</persName> ;
+                        commencé d'après les dessins de <persName key="Libéral Bruand" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers200">Bruant</persName> et de <persName key="Jules Hardouin-Mansart" ref="http://www.wikidata.org/entity/Q8053">Mansart</persName> ;
                         il fut complètement achevé en 1704, En 1813, le nombre des invalides se
                         montait à 26,000.</p>
                      <p>Aujourd'hui, l'État paye aux soldats blessés et mutilès des pensions
