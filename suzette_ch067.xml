@@ -286,6 +286,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240303123024968",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-03T17:30:24.968Z",
+	"dcterms:modified": "2026-10-16T13:47:15.876Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -317,7 +318,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q15984051",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers292",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -326,7 +327,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -364,6 +377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229140106627",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:01:06.627Z",
+	"dcterms:modified": "2026-10-16T13:47:22.803Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -395,7 +409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q962836",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers132",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -404,7 +418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -442,6 +468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229140146065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:01:46.065Z",
+	"dcterms:modified": "2026-10-16T13:47:27.775Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -473,7 +500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q2062504",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers254",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -482,7 +509,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -520,6 +559,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229140227668",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:02:27.668Z",
+	"dcterms:modified": "2026-10-16T13:47:35.085Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -551,7 +591,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q11954686",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers198",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -560,7 +600,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -598,6 +650,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229140310917",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:03:10.917Z",
+	"dcterms:modified": "2026-10-16T13:47:39.574Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -629,7 +682,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q22573316",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers207",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -638,7 +691,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3528,11 +3593,11 @@
 							<p>L'élève pourra citer : </p>
 							<p>1° Pour l'Algérie
 								et le Grand
-									Désert : <persName ref="https://www.wikidata.org/wiki/Q15984051" ana="française" key="Victor Colonieu">Colomieu</persName>, 1869; — <persName ref="https://www.wikidata.org/wiki/Q962836" ana="française" key="Henri Duveyrier" role="explorateur">Duveyrier</persName>,
+									Désert : <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers292" ana="française" key="Victor Colonieu">Colomieu</persName>, 1869; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers132" ana="française" key="Henri Duveyrier" role="explorateur">Duveyrier</persName>,
 								1859-61, qui a exploré Ouargla
-								et Mourzouk ; — <persName ref="https://www.wikidata.org/wiki/Q2062504" ana="française" key="Paul Soleillet" role="explorateur">Soleillet</persName>,
-								1873-1874, exploration d'Insalah ; — <persName ref="https://www.wikidata.org/wiki/Q11954686" ana="française" key="Victor Largeau" role="explorateur">Largeau</persName> et
-									<persName ref="https://www.wikidata.org/wiki/Q22573316" ana="française" key="Louis Say" role="explorateur">Say</persName>, 1875, oasis de Ghadamès; — le <persName ref="https://www.wikidata.org/wiki/Q675579" ana="française" key="Paul Flatters" role="explorateur">colonel
+								et Mourzouk ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers254" ana="française" key="Paul Soleillet" role="explorateur">Soleillet</persName>,
+								1873-1874, exploration d'Insalah ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers198" ana="française" key="Léon Victor Largeau" role="explorateur">Largeau</persName> et
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers207" ana="française" key="Louis Say" role="explorateur">Say</persName>, 1875, oasis de Ghadamès; — le <persName ref="https://www.wikidata.org/wiki/Q675579" ana="française" key="Paul Flatters" role="explorateur">colonel
 									Flatters</persName>, 1880-81, qui fut massacré par les
 								Touaregs.</p>
 							<p>2° Pour la Sénégambie et le Niger
