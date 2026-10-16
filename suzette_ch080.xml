@@ -559,6 +559,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163126025",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:31:26.025Z",
+	"dcterms:modified": "2026-10-16T14:57:05.085Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -590,7 +591,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7721",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers241",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -599,7 +600,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -637,6 +650,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163153811",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:31:53.811Z",
+	"dcterms:modified": "2026-10-16T14:57:26.302Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -668,7 +682,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q442205",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers072",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -677,7 +691,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1827,9 +1853,9 @@
 									Lescot</persName>, un nouveau palais que continuèrent ses
 								successeurs, de <persName key="Henri II" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers134">Henri II</persName>
 								à <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName>,
-								sous lequel fut élevée la célèbre colonnade due à <persName key="Claude Perrault" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers067">Perrault</persName>. Il fut réuni aux Tuileries par <persName key="Napoleon III" ref="http://www.wikidata.org/entity/Q7721">Napoléon
+								sous lequel fut élevée la célèbre colonnade due à <persName key="Claude Perrault" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers067">Perrault</persName>. Il fut réuni aux Tuileries par <persName key="Napoléon III" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers241">Napoléon
 									III</persName>. Ce palais a été témoin des événements des
-								guerres de religion, de l'assassinat du <persName key="Concino Concini" ref="http://www.wikidata.org/entity/Q442205">maréchal
+								guerres de religion, de l'assassinat du <persName key="Concino Concini" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers072">maréchal
 									d'Ancre</persName>, des troubles de la Fronde.</p>
 							<p>Le palais des
 										<term>Tuileries</term> fut bâti par l'architecte
