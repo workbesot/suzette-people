@@ -1547,6 +1547,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002091743349",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:17:43.349Z",
+	"dcterms:modified": "2026-10-16T14:48:22.089Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1578,7 +1579,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q131552",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers041",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1587,7 +1588,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1625,6 +1638,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002092110147",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:21:10.147Z",
+	"dcterms:modified": "2026-10-16T14:48:00.650Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1656,7 +1670,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q711295",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers087",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1665,7 +1679,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1703,6 +1729,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20231002092204585",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T13:22:04.585Z",
+	"dcterms:modified": "2026-10-16T14:47:52.230Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1734,7 +1761,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q441714",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1743,7 +1770,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2176,7 +2215,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch079.xml?person_annotation_20240402135649214",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-02T17:56:49.214Z",
-	"dcterms:modified": "2024-04-02T17:56:49.214Z",
+	"dcterms:modified": "2026-10-16T14:48:09.769Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2208,7 +2247,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q310791",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers192",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2217,7 +2256,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2433,12 +2484,12 @@
 								Scandinavie,
 							étaient des marins audacieux qui remontaient les fleuves, pillaient les
 							villes et dévastaient les cam pagnes. Les Parisiens, ayant à leur tête
-							le comte <persName key="Jean Eudes" ref="http://www.wikidata.org/entity/Q441714">Eudes</persName> et
-							l'évêque <persName key="Gozlin, Count of Bidgau" ref="http://www.wikidata.org/entity/Q711295">Gozlin</persName>,
+							le comte <persName key="Eudes" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers085">Eudes</persName> et
+							l'évêque <persName key="Évêque Gozlin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers087">Gozlin</persName>,
 							résistèrent glorieusement à ces pillards.</caption>
 					</figure>
 					<p>Et gravement <persName type="fictif" key="louis">Louis</persName>, les yeux
-						sur le monument relevé, répéta ces paroles de l'historien <persName key="Jules Michelet" ref="http://www.wikidata.org/entity/Q310791">Michelet</persName>: </p>
+						sur le monument relevé, répéta ces paroles de l'historien <persName key="Jules Michelet" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers192">Michelet</persName>: </p>
 					<pb type="page" n="274" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_274.jpg"/>
 					<p>« O Paris ! tu as commis des fautes, mais tu as tant fait pour
 						la liberté du monde qu'on voudrait baiser les pierres de tes monuments, les
@@ -2457,7 +2508,7 @@
 								à été commencée au seizième siècle.</caption>
 						</figure> maîtresse de la Gaule,
 						habitèrent sur ces bords. Cette eau, où nous glissons si paisible-<figure>
-							<caption>Les Tuileries. Palais construit sous <persName key="Catherine de' Medici" ref="http://www.wikidata.org/entity/Q131552">Catherine de
+							<caption>Les Tuileries. Palais construit sous <persName key="Catherine de Médicis" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers041">Catherine de
 									Médicis</persName> ; les rois et les empereurs y ont résidé. La
 								Convention y a tenu ses séances.</caption>
 						</figure> ment, a porté ensuite les ravageuses barques des pirates normands,
