@@ -1587,6 +1587,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240405152027679",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-05T19:20:27.679Z",
+	"dcterms:modified": "2026-10-16T15:06:16.676Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -1618,7 +1619,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1627,7 +1628,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1665,6 +1678,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240405152050460",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-05T19:20:50.460Z",
+	"dcterms:modified": "2026-10-16T15:06:11.590Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -1696,7 +1710,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q106208",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers075",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1705,7 +1719,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1743,6 +1769,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240405152057752",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-05T19:20:57.752Z",
+	"dcterms:modified": "2026-10-16T15:06:37.331Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -1774,7 +1801,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1783,7 +1810,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2056,6 +2095,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240405152312719",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-05T19:23:12.719Z",
+	"dcterms:modified": "2026-10-16T15:06:22.154Z",
 	"dcterms:creator": {
 		"@id": "9",
 		"@type": [
@@ -2087,7 +2127,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2096,7 +2136,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2744,13 +2796,13 @@
             <div type="récit">
                <p>Une centaine d'années s'écoulent avant qu'un autre 
                	<pb type="page" n="293" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_293.jpg"/>               	               	
-               	homme reprenne l'idée de <persName key="Denis Papin" ref="http://www.wikidata.org/entity/Q106208">Denis Papin</persName>. Cet homme est l'Américain <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496">Fulton</persName>. <note type="scholarNote">Une centaine d'année s'écoulent avant la résurrection, 
+               	homme reprenne l'idée de <persName key="Denis Papin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers075">Denis Papin</persName>. Cet homme est l'Américain <persName key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281">Fulton</persName>. <note type="scholarNote">Une centaine d'année s'écoulent avant la résurrection, 
                    dans l'esprit d'un autre homme, de l'idée détruite par les
                   brutes du Weser.
-               L'homme, c'est l'Américain <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine" role="inventeur">Fulton</persName>.</note> Le
+               L'homme, c'est l'Américain <persName key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281" ana="américaine" role="inventeur">Fulton</persName>.</note> Le
                   triomphe de la Révolution française le fait accourir à
                      Paris comme au pays de lumière et de générosité.
-                     <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">Bonaparte</persName>, premier consul, auquel il
+                     <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Bonaparte</persName>, premier consul, auquel il
                   offre sa découverte, lui donne quelque espérance, et <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" ana="américaine" role="inventeur">Fulton</persName> fait naviguer sur la  un bateau à vapeur en présence de l'Académie des
                      sciences*<note type="annotation">— Académie des sciences. Compagnie de savants
                      choisis qui se réunissent pour s'occuper des sciences.</note>
