@@ -2015,6 +2015,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142657356",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:26:57.356Z",
+	"dcterms:modified": "2026-10-16T13:51:39.570Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2055,7 +2056,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2093,6 +2106,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142739976",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:27:39.976Z",
+	"dcterms:modified": "2026-10-16T13:51:45.774Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2124,7 +2138,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q48373",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2133,7 +2147,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2171,6 +2197,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142811590",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:28:11.590Z",
+	"dcterms:modified": "2026-10-16T13:51:50.425Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2202,7 +2229,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q171421",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers140",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2211,7 +2238,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2249,6 +2288,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143119284",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:31:19.284Z",
+	"dcterms:modified": "2026-10-16T13:51:55.524Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2280,7 +2320,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q919145",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers291",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2289,7 +2329,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2327,6 +2379,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229142942082",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:29:42.082Z",
+	"dcterms:modified": "2026-10-16T13:52:06.554Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2358,7 +2411,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q921705",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers010",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2367,7 +2420,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3824,16 +3889,16 @@
 							<p>4° Région au sud de l'Equateur : <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers024" ana="portugaise" key="António Francisco Ferreira da Silva-Porto" role="explorateur">Silva-Porto</persName>, 1853-54, du Benguéla à Cazembé et à Tété ;
 								— <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers251" ana="française" key="Paul Belloni Du Chaillu" role="explorateur">Du
 									Chaillu</persName>, 1856, Gabon ; —
-									<persName ref="https://www.wikidata.org/wiki/Q48373" ana="britannique" key="David Livingstone" role="explorateur">Livingstone</persName>, 1849-1873, lac
+									<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers074" ana="britannique" key="David Livingstone" role="explorateur">Livingstone</persName>, 1849-1873, lac
 									Ngami, Zambèze,
 								lacs Chiroua
 								et Nyassa,
 									Zanzibar, lac
 									Tanganyika, Oudjiji, lac
-									Mouéro et Bangouéolo ; — <persName ref="https://www.wikidata.org/wiki/Q171421" ana="britannique" key="Hnery Morton Stanley" role="explorateur">Stanley</persName>, 1871-1888, Zanzibar, lac Tanganyika et Oudjiji, exploration
+									Mouéro et Bangouéolo ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers140" ana="britannique" key="Henry Morton Stanley" role="explorateur">Stanley</persName>, 1871-1888, Zanzibar, lac Tanganyika et Oudjiji, exploration
 								du cours du du Congo, de sa source à la mer ; région de
-								l'Equateur à l'est des grands lacs ; — <persName ref="https://www.wikidata.org/wiki/Q919145" ana="britannique" key="Verney Lovett Cameron">Cameron</persName>, 1873-75,
-									Bogamoya, Tanganyika ; — <persName ref="https://www.wikidata.org/wiki/Q921705" ana="portugaise" key="Alexandre de Serpa Pinto" role="explorateur">Serpa
+								l'Equateur à l'est des grands lacs ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers291" ana="britannique" key="Verney Lovett Cameron">Cameron</persName>, 1873-75,
+									Bogamoya, Tanganyika ; — <persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers010" ana="portugaise" key="Alexandre de Serpa Pinto" role="explorateur">Serpa
 									Pinto</persName>, 1878-1879, du Benguéla à Durban
 									(colonie de
 									Natal) ; — <persName key="Pierre Savorgnan de Brazza" ref="http://www.wikidata.org/entity/Q319834" ana="française" role="explorateur">Savorgnan de Brazza</persName>, 1876-78,
