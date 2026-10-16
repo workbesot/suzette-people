@@ -3447,6 +3447,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143359835",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:33:59.835Z",
+	"dcterms:modified": "2026-10-16T13:55:05.412Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3478,7 +3479,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q322885",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers125",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3487,7 +3488,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3525,6 +3538,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143432863",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:34:32.863Z",
+	"dcterms:modified": "2026-10-16T13:55:13.257Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3556,7 +3570,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q431034",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers299",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3565,7 +3579,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3603,6 +3629,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143512493",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:35:12.493Z",
+	"dcterms:modified": "2026-10-16T13:55:20.366Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3634,7 +3661,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q63126",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers119",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3643,7 +3670,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3681,6 +3720,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143549155",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:35:49.155Z",
+	"dcterms:modified": "2026-10-16T13:55:25.924Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3712,7 +3752,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q4673709",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers003",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3721,7 +3761,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -4014,9 +4066,9 @@
 								; — <persName key="John Hanning Speke" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers181" ana="britannique" role="explorateur">Speke</persName> et <persName key="Richard Francis Burton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers279">Burton</persName>,
 								1857-59, Zanzibar, lacs Victoria et Tanganyika ; — <persName key="John Hanning Speke" ref="http://www.wikidata.org/entity/Q125084">Speke</persName> et
 									<persName key="James Augustus Grant" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers153" ana="britannique" role="explorateur">Grant</persName>, 1860-1863 ; Zanzibar, lac
-									Victoria, Gondokoro ; — <persName key="Guillaume Lejean" ref="http://www.wikidata.org/entity/Q322885" ana="française" role="explorateur">Lejean</persName>, 1859-64, Souakim, Khartoum,
-									Kordofan, Abyssinie ; — <persName key="Florence Baker" ref="http://www.wikidata.org/entity/Q431034" ana="britannique" role="explorateur">Baker</persName> : Sennaar, Gondokoro, Ounyoro
-								; — <persName key="Georg August Schweinfurth" ref="http://www.wikidata.org/entity/Q63126" ana="allemande" role="explorateur">Schweinfurth</persName> : Gondokoro, pays des Nyams-Nyams ; — <persName key="Achille Raffray" ref="http://www.wikidata.org/entity/Q4673709" ana="française" role="explorateur">Raffray</persName>, 1873, Abyssinie, pays des Gallas.</p>
+									Victoria, Gondokoro ; — <persName key="Guillaume Lejean" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers125" ana="française" role="explorateur">Lejean</persName>, 1859-64, Souakim, Khartoum,
+									Kordofan, Abyssinie ; — <persName key="Samuel Baker" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers299" ana="britannique" role="explorateur">Baker</persName> : Sennaar, Gondokoro, Ounyoro
+								; — <persName key="Georg August Schweinfurth" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers119" ana="allemande" role="explorateur">Schweinfurth</persName> : Gondokoro, pays des Nyams-Nyams ; — <persName key="Achille Raffray" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers003" ana="française" role="explorateur">Raffray</persName>, 1873, Abyssinie, pays des Gallas.</p>
 						</div>
 					</div>
 				</div>
