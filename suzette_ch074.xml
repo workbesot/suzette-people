@@ -558,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20240328111030890",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T15:10:30.890Z",
-	"dcterms:modified": "2026-10-16T14:39:20.908Z",
+	"dcterms:modified": "2026-10-16T14:40:09.230Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -590,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers117",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers219",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1475,7 +1475,7 @@
                      <p>Le <persName key="Marc Pierre de Voyer de Paulmy d'Argenson" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers224">comte d'Argenson</persName> écrivait en 1740
                         : « Au moment que j'écris, en pleine paix, avec les apparences d'une récolte
                         abondante, les hommes meurent autour de nous comme des mouches, de pauvreté
-                        et broutant l'herbe... Le <persName key="Gaston d' Orléans" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers117">duc
+                        et broutant l'herbe... Le <persName key="Louis-Philippe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers219">duc
                            d'Orléans</persName> porta dernièrement au conseil du roi un morceau de
                         pain de fougère, il le posa sur la table en disant : Sire, voilà de quoi vos
                         sujets se nourrissent. C'est aujourd'hui, ajouta-t-il, à faire pitié même
