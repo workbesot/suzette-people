@@ -772,7 +772,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125710902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-10-16T16:57:10.902Z",
-	"dcterms:modified": "2026-10-16T16:57:10.902Z",
+	"dcterms:modified": "2026-10-16T16:57:14.030Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
@@ -800,6 +800,401 @@
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125710902#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/list/item[12]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers033",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125721413",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T16:57:21.413Z",
+	"dcterms:modified": "2026-10-16T16:57:24.276Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125721413#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125721413#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div/list/item/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers183",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125727549",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T16:57:27.549Z",
+	"dcterms:modified": "2026-10-16T16:57:30.611Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125727549#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125727549#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div/list/item/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers243",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125734106",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T16:57:34.106Z",
+	"dcterms:modified": "2026-10-16T16:57:36.853Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125734106#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125734106#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers148",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125741694",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T16:57:41.694Z",
+	"dcterms:modified": "2026-10-16T16:57:44.486Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125741694#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125741694#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers183",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125751229",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T16:57:51.229Z",
+	"dcterms:modified": "2026-10-16T16:57:51.229Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125751229#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch099.xml?person_annotation_20261016125751229#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[4]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -882,7 +1277,7 @@
                   <item>— Comment l'inventeur fut-il accueilli à Paris ? </item>
                   <item>— Où retrouve-t-on son nom ? </item>
                   <item>— Tira-t-il quelque profit de sa belle et utile invention ? </item>
-                  <item>— Quand mourut <persName type="historique">Thimonier</persName> ?</item>
+                  <item>— Quand mourut <persName key="Barthélemy Thimonier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers033">Thimonier</persName> ?</item>
                </list>
             </div>
             <div type="exercices">
@@ -940,7 +1335,7 @@
                   <head type="sujets">Composition.</head>
                   <div type="questions">
                      <list>
-                        <item>— Reproduire l'histoire de <persName type="historique">Jacquard</persName> lue par Mme l'institutrice, ou celle de <persName type="historique">Brémontier</persName>, le créateur des plantations
+                        <item>— Reproduire l'histoire de <persName key="Joseph Marie Jacquard" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers183">Jacquard</persName> lue par Mme l'institutrice, ou celle de <persName key="Nicolas Brémontier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers243">Brémontier</persName>, le créateur des plantations
                            de pins dans les landes de Gascogne.</item>
                      </list>
                   </div>
@@ -949,12 +1344,12 @@
                            Lyon, le 7 juillet 1752. Son père, ouvrier en
                         étoffes de soie, le destina de bonne heure au travail, qu'il lui apprit à
                         connaître et à aimer.</p>
-                     <p>La vue d'une machine du célèbre <persName type="historique">Vaucanson</persName> lui révéla sa vocation de mécanicien, et le voilà
+                     <p>La vue d'une machine du célèbre <persName key="Jacques de Vaucanson" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers148">Vaucanson</persName> lui révéla sa vocation de mécanicien, et le voilà
                         qui imagine d'ingénieux appareils pour dévider les fils de soie et les
                         ourdir (1). Malgré l'appui de quelques patrons, il eut à subir mille
                         tracasseries de la part des ouvriers, qui voyaient en lui un ennemi dont les
                         inventions leur enlevaient le travail quotidien.</p>
-                     <p><persName type="historique">Jacquard</persName> fonda alors pour son propre
+                     <p><persName key="Joseph Marie Jacquard" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers183">Jacquard</persName> fonda alors pour son propre
                         compte une fabrique de chapeaux de paille ; mais sa maison fut brûlée
                         pendant le siège que subit la ville de Lyon en 1793,
                         et il n'échappa que par miracle aux soldats de la Convention.</p>
