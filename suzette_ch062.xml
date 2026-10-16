@@ -377,7 +377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch062.xml?person_annotation_20231116145950857",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-11-16T19:59:50.857Z",
-	"dcterms:modified": "2023-11-16T19:59:50.857Z",
+	"dcterms:modified": "2026-10-16T13:40:22.236Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -409,7 +409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://www.wikidata.org/wiki/Q618902",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers025",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -418,7 +418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -995,7 +1007,7 @@
 								formé dans la nature par le mélange du chlore et de la soude.</p>
 							<p> « Il n'existe point de produit minéral plus universellement répandu
 								et plus utile aux animaux ; il leur est presque aussi indispensable
-								que l'air qu'ils respirent. » (<persName type="historique" ref="https://www.wikidata.org/wiki/Q618902">BOUCHARDAT</persName>.) C'est une substance nécessaire à la
+								que l'air qu'ils respirent. » (<persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers025" key="Apollinaire Bouchardat">BOUCHARDAT</persName>.) C'est une substance nécessaire à la
 								digestion pour dissoudre les aliments solides dans l'estomac.</p>
 							<p>Le sel se montre sous deux états ; ou en dissolution
 								dans les eaux, et particulièrement dans celles de la mer, ou en
