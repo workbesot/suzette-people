@@ -1468,7 +1468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229155622653",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:56:22.653Z",
-	"dcterms:modified": "2024-02-29T20:56:22.653Z",
+	"dcterms:modified": "2026-10-16T15:10:24.523Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1500,7 +1500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q23",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers120",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1509,7 +1509,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3181,7 +3193,7 @@
                         des plus florissantes colonies anglaises ; frappés d'impôts iniques les
                         colons se révoltèrent ; en 1776, ils proclamèrent leur indépendance à
                            Philadelphie et confièrent le soin de la défendre
-                        à l'illustre général <persName key="George Washington" ref="http://www.wikidata.org/entity/Q23">Washington</persName>. Ce
+                        à l'illustre général <persName key="George Washington" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers120">Washington</persName>. Ce
                         dernier soutint la guerre contre les Anglais avec une rare énergie et une
                         admirable persévérance ; mais il aurait succombé si une armée et une flotte
                         françaises ne fussent accourues à son aide en 1778. Dès lors, la cause des
