@@ -1156,7 +1156,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205053549",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:50:53.549Z",
-	"dcterms:modified": "2024-03-01T01:50:53.549Z",
+	"dcterms:modified": "2026-10-16T16:55:12.176Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1188,7 +1188,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3340160",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers243",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1197,7 +1197,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1235,7 +1247,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205210814",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:52:10.814Z",
-	"dcterms:modified": "2024-03-01T01:52:10.814Z",
+	"dcterms:modified": "2026-10-16T16:55:24.603Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1267,7 +1279,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q524252",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers036",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1276,7 +1288,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1314,7 +1338,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205256045",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:52:56.045Z",
-	"dcterms:modified": "2024-03-01T01:52:56.045Z",
+	"dcterms:modified": "2026-10-16T16:55:30.402Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1346,7 +1370,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q192496",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1355,7 +1379,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1393,7 +1429,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205345587",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:53:45.587Z",
-	"dcterms:modified": "2024-03-01T01:53:45.587Z",
+	"dcterms:modified": "2026-10-16T16:55:38.630Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1425,7 +1461,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q8479",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers264",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1434,7 +1470,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1472,7 +1520,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205515838",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:55:15.838Z",
-	"dcterms:modified": "2024-03-01T01:55:15.838Z",
+	"dcterms:modified": "2026-10-16T16:55:44.763Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1504,7 +1552,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7322",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1513,7 +1561,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1551,7 +1611,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205608387",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:56:08.387Z",
-	"dcterms:modified": "2024-03-01T01:56:08.387Z",
+	"dcterms:modified": "2026-10-16T16:55:49.335Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1583,7 +1643,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q12860",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers090",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1592,7 +1652,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1630,7 +1702,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch098.xml?person_annotation_20240229205841948",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:58:41.948Z",
-	"dcterms:modified": "2024-03-01T01:58:41.948Z",
+	"dcterms:modified": "2026-10-16T16:55:54.555Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1662,7 +1734,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q45859",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers146",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1671,7 +1743,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2004,7 +2088,7 @@
                         <item>— Quels sont les avantages de la persévérance ? </item>
                         <item>— Donnez des exemples choisis dans la vie de l'école ; — dans celle de
                            grands inventeurs : — dans celle de <persName ana="italienne" key="Christophe Colomb" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062" role="explorateur">Christophe Colomb</persName>, de <persName ana="française" key="Jacques Amyot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers147" role="savant">Jacques
-                              Amyot</persName>, de <persName ana="française" key="Nicolas Brémontier" ref="http://www.wikidata.org/entity/Q3340160" role="ingénieur">Brémontier</persName>.</item>
+                              Amyot</persName>, de <persName ana="française" key="Nicolas Brémontier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers243" role="ingénieur">Brémontier</persName>.</item>
                      </list>
                   </div>
                   <div type="réponses">
@@ -2029,21 +2113,21 @@
                         l'esprit le plus vif, la mémoire la plus fidèle ? — Non, mais bien les
                         jeunes filles qui poursuivent, courageusement et sans interruption ni
                         défaillance, les études commencées.</p>
-                     <p>Souvenons-nous de <persName key="Bernard Palissy" ref="http://www.wikidata.org/entity/Q524252" role="savant">Bernard
+                     <p>Souvenons-nous de <persName key="Bernard Palissy" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers036" role="savant">Bernard
                            Palissy</persName>, l'inventeur des poteries émaillées, qui dut
                         travailler plus de trente ans avant de découvrir le secret des artistes
-                        italiens ; — de <persName ana="américaine" key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496" role="inventeur">Fulton</persName>,
-                        dont nous avons récemment raconté l'histoire émouvante ; — du czar <persName ana="russe" key="Peter the Great" ref="http://www.wikidata.org/entity/Q8479" role="roi">Pierre le Grand</persName> qui, pour
+                        italiens ; — de <persName ana="américaine" key="Robert Fulton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers281" role="inventeur">Fulton</persName>,
+                        dont nous avons récemment raconté l'histoire émouvante ; — du czar <persName ana="russe" key="Pierre Ier de Russie" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers264" role="roi">Pierre le Grand</persName> qui, pour
                         s'initier aux industries des nations civilisées, s'astreignit aux travaux
                         les plus fatigants et qui resta trois ans à Saardam,
                         en Hollande, comme ouvrier charpentier, afin
                         d'apprendre l'art de construire les navires.</p>
-                     <p><persName ana="italienne" key="Christopher Columbus" ref="http://www.wikidata.org/entity/Q7322" role="explorateur">Christophe Colomb</persName>
+                     <p><persName ana="italienne" key="Christophe Colomb" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers062" role="explorateur">Christophe Colomb</persName>
                         (1440-1505), persuadé qu'il existait un nouveau monde au delà de l', sollicita,
                         pendant plus de vingt ans, les moyens d'équiper les navires qui lui
                         permettraient de faire le voyage nécessaire. Il obtint enfin quelques
                         bâtiments et découvrit ainsi l'Amérique. Après quatre
-                        voyages successifs, il fut abandonné de ses protecteurs <persName key="Ferdinand II of Aragon" ref="http://www.wikidata.org/entity/Q12860">Ferdinand II</persName> et <persName ana="espagnole" key="Isabella I of Castile" ref="http://www.wikidata.org/entity/Q45859" role="reine">Isabelle</persName>, et mourut dans la misère.</p>
+                        voyages successifs, il fut abandonné de ses protecteurs <persName key="Ferdinand II d'Aragon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers090">Ferdinand II</persName> et <persName ana="espagnole" key="Isabelle la Catholique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers146" role="reine">Isabelle</persName>, et mourut dans la misère.</p>
                      <p><persName ana="française" key="Jacques Amyot" ref="http://www.wikidata.org/entity/Q462371" role="savant">Jacques Amyot</persName>
                         (1513-1593), pauvre enfant sans ressources, dévoré de l'amour de la science,
                         travaillait pendant le jour comme domestique dans un collège de
