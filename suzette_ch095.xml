@@ -1923,7 +1923,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201625234",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:16:25.234Z",
-	"dcterms:modified": "2024-03-01T01:16:25.234Z",
+	"dcterms:modified": "2026-10-16T16:43:13.266Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1955,7 +1955,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/444159474048327660914/",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1964,7 +1964,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2002,7 +2014,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201721582",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:17:21.582Z",
-	"dcterms:modified": "2024-03-01T01:17:21.582Z",
+	"dcterms:modified": "2026-10-16T16:43:17.990Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2034,7 +2046,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2043,7 +2055,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2081,7 +2105,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202756056",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:27:56.056Z",
-	"dcterms:modified": "2024-03-01T01:27:56.056Z",
+	"dcterms:modified": "2026-10-16T16:43:29.492Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2113,7 +2137,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q229192",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers042",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2122,7 +2146,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2442,10 +2478,10 @@
                         mépris public. </p>
                      <pb type="page" n="332" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_332.jpg"/>
                      <fw>332 SUZETTE.</fw>
-                     <p>Lorsque <persName ana="française" key="Charles VI, re di Francia, 1368-1422" ref="http://viaf.org/viaf/444159474048327660914/" role="roi">Charles VI</persName> fut devenu fou, <persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau</persName> s'allia avec les pires ennemis de
+                     <p>Lorsque <persName ana="française" key="Charles VI de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054" role="roi">Charles VI</persName> fut devenu fou, <persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau</persName> s'allia avec les pires ennemis de
                         son fils et de la France ; elle abandonnait le
                         malheureux roi dans la détresse et le besoin, et pendant ce temps vivait au
-                        milieu des plaisirs. En 1421, on la vit signer le honteux <eventName>traité de Troyes</eventName>, par lequel elle donnait sa fille <persName ana="française" key="Catherine of Valois" ref="http://www.wikidata.org/entity/Q229192" role="reine">Cathérine</persName> comme épouse au roi <persName ana="britannique" key="Henry V of England" ref="http://www.wikidata.org/entity/Q131581" role="roi">Henri V d'Angleterre</persName>, avec la succession de
+                        milieu des plaisirs. En 1421, on la vit signer le honteux <eventName>traité de Troyes</eventName>, par lequel elle donnait sa fille <persName ana="française" key="Catherine de Valois" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers042" role="reine">Cathérine</persName> comme épouse au roi <persName ana="britannique" key="Henry V of England" ref="http://www.wikidata.org/entity/Q131581" role="roi">Henri V d'Angleterre</persName>, avec la succession de
                         la couronne de France, aù préjudice du dauphin <persName ana="française" key="Charles VII of France" ref="http://www.wikidata.org/entity/Q133372" role="roi">Charles</persName>.</p>
                   </div>
                </div>
