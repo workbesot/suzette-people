@@ -2196,7 +2196,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202827335",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:28:27.335Z",
-	"dcterms:modified": "2024-03-01T01:28:27.335Z",
+	"dcterms:modified": "2026-10-16T16:44:19.474Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2228,7 +2228,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q131581",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers138",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2237,7 +2237,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2481,7 +2493,7 @@
                      <p>Lorsque <persName ana="française" key="Charles VI de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054" role="roi">Charles VI</persName> fut devenu fou, <persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau</persName> s'allia avec les pires ennemis de
                         son fils et de la France ; elle abandonnait le
                         malheureux roi dans la détresse et le besoin, et pendant ce temps vivait au
-                        milieu des plaisirs. En 1421, on la vit signer le honteux <eventName>traité de Troyes</eventName>, par lequel elle donnait sa fille <persName ana="française" key="Catherine de Valois" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers042" role="reine">Cathérine</persName> comme épouse au roi <persName ana="britannique" key="Henry V of England" ref="http://www.wikidata.org/entity/Q131581" role="roi">Henri V d'Angleterre</persName>, avec la succession de
+                        milieu des plaisirs. En 1421, on la vit signer le honteux <eventName>traité de Troyes</eventName>, par lequel elle donnait sa fille <persName ana="française" key="Catherine de Valois" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers042" role="reine">Cathérine</persName> comme épouse au roi <persName ana="britannique" key="Henri V" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers138" role="roi">Henri V d'Angleterre</persName>, avec la succession de
                         la couronne de France, aù préjudice du dauphin <persName ana="française" key="Charles VII of France" ref="http://www.wikidata.org/entity/Q133372" role="roi">Charles</persName>.</p>
                   </div>
                </div>
