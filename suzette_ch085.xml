@@ -1559,6 +1559,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229193243462",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:32:43.462Z",
+	"dcterms:modified": "2026-10-16T15:10:59.142Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1590,7 +1591,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q193751",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers110",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1599,7 +1600,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3215,7 +3228,7 @@
                   <div type="réponses">
                      <p>L'inventeur est celui qui, par la force de son esprit, trouve quelque chose
                         de nouveau, d'ingénieux dans les arts manuels et dans les sciences. Tels
-                        sont : <persName key="Montgolfier brothers" ref="http://www.wikidata.org/entity/Q193751">Montgolfier</persName>, l'inventeur des
+                        sont : <persName key="Frères Montgolfier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers110">Montgolfier</persName>, l'inventeur des
                         ballons ; les frères Chappe,<note type="researchNote">La fratrie Chappe fut constituée de 5 frères: <persName key="Ignace Chappe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzper301">Ignace</persName>, <persName key="Claude Chappe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers064">Claude</persName>, <persName key="Pierre François Chappe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzper302">Pierre-Francois</persName>, <persName key="René Chappe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzper303">René</persName>, et <persName key="Abraham Chappe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers002">Abraham</persName></note> du
                         premier télégraphe ; <persName key="Robert Fulton" ref="http://www.wikidata.org/entity/Q192496">Fulton</persName>, du
                         bateau à vapeur.</p>
