@@ -741,6 +741,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163226517",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:32:26.517Z",
+	"dcterms:modified": "2026-10-16T14:57:58.562Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -772,7 +773,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q440053",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers257",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -781,7 +782,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -819,6 +832,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163245431",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:32:45.431Z",
+	"dcterms:modified": "2026-10-16T14:58:02.907Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -850,7 +864,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q131552",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers041",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -859,7 +873,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -897,6 +923,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163308094",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:33:08.094Z",
+	"dcterms:modified": "2026-10-16T14:58:07.653Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -928,7 +955,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q936976",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -937,7 +964,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -975,6 +1014,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163330983",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:33:30.983Z",
+	"dcterms:modified": "2026-10-16T14:58:16.035Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1006,7 +1046,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q737533",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers211",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1015,7 +1055,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1053,6 +1105,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163341461",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:33:41.461Z",
+	"dcterms:modified": "2026-10-16T14:58:22.933Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1084,7 +1137,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7742",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1093,7 +1146,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1131,6 +1196,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch080.xml?person_annotation_20240305163353010",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T21:33:53.010Z",
+	"dcterms:modified": "2026-10-16T14:58:28.523Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1162,7 +1228,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1171,7 +1237,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1859,14 +1937,14 @@
 									d'Ancre</persName>, des troubles de la Fronde.</p>
 							<p>Le palais des
 										<term>Tuileries</term> fut bâti par l'architecte
-									<persName key="Philibert de l'Orme" ref="http://www.wikidata.org/entity/Q440053">Philibert
-									Delorme</persName> d'après les ordres de <persName key="Catherine de' Medici" ref="http://www.wikidata.org/entity/Q131552">Catherine de
+									<persName key="Philibert Delorme" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers257">Philibert
+									Delorme</persName> d'après les ordres de <persName key="Catherine de Médicis" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers041">Catherine de
 									Médicis</persName>, en 1564 ; les constructions primitives
-								furent modifiées, complétées et augmentées sous <persName key="Henry IV of France" ref="http://www.wikidata.org/entity/Q936976">Henri
-								IV</persName>, <persName key="Louis XIII of France" ref="http://www.wikidata.org/entity/Q737533">Louis
-									XIII</persName> et <persName key="Louis XIV of France" ref="http://www.wikidata.org/entity/Q7742">Louis XIV</persName>.
+								furent modifiées, complétées et augmentées sous <persName key="Henri IV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136">Henri
+								IV</persName>, <persName key="Louis XIII de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers211">Louis
+									XIII</persName> et <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName>.
 								Il fut témoin des journées révolutionnaires du 20 juin et du 10 août
-								1792 ; la Convention y siégea ; il fut ensuite habité par <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517">Napoléon</persName> et les souverains qui se sont succédé
+								1792 ; la Convention y siégea ; il fut ensuite habité par <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240">Napoléon</persName> et les souverains qui se sont succédé
 								jusqu'en 1870.</p>
 							<p>Le pont de
 										l'<term>Alma</term> rappelle une bataille gagnée
