@@ -558,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20230926164601180",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-26T20:46:01.180Z",
-	"dcterms:modified": "2023-09-26T20:46:01.180Z",
+	"dcterms:modified": "2026-10-16T14:43:13.321Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -590,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7732",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -599,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -637,6 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20230926170107642",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-26T21:01:07.642Z",
+	"dcterms:modified": "2026-10-16T14:43:25.695Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -667,7 +680,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -675,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -713,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20240328111324240",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T15:13:24.240Z",
-	"dcterms:modified": "2024-03-28T15:13:24.240Z",
+	"dcterms:modified": "2026-10-16T14:43:03.586Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -745,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q221303",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -754,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1156,7 +1195,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch074.xml?person_annotation_20240328111339511",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-28T15:13:39.511Z",
-	"dcterms:modified": "2024-03-28T15:13:39.511Z",
+	"dcterms:modified": "2026-10-16T14:43:32.039Z",
 	"dcterms:creator": {
 		"@id": "30",
 		"@type": [
@@ -1188,7 +1227,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q221303",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1197,7 +1236,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1486,20 +1537,20 @@
                          terres, arrachaient leurs arbres et leurs vignes et
                         n'élevaient presque plus de bétail : tous les historiens contemporains en
                         témoignent.</p>
-                     <p><persName key="Anne Robert Jacques Turgot" ref="http://www.wikidata.org/entity/Q221303">Turgot</persName> (1727-1781), après des études
+                     <p><persName key="Anne Robert Jacques Turgot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020">Turgot</persName> (1727-1781), après des études
                         sur les réformes à accomplir dans l'intérèt de la nation tout entière, fut
                         nommé intendant du Limousin ; il y établit la libre
                         circulation des grains, adoucit le système des impôts, répara les routes,
                         organisa des bureaux et ateliers de charité et acquit ainsi une véritable
                         popularité.</p>
-                     <p>Appelé au ministère en 1774 par le roi <persName key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732">Louis
+                     <p>Appelé au ministère en 1774 par le roi <persName key="Louis XVI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214">Louis
                            XVI</persName>, il entreprit dans l'Etat les réformes qu'il avait
                         essayées à Limoges ; il voulait, entre autres, le
                         remplacement de tous les impôts par l'impôt foncier et la destruction des
                         droits féodaux. Ses réformes, ses projets lui suscitèrent des ennemis ; tous
-                        les privilégiés se liguèrent contre lui et <persName type="historique">Louis
+                        les privilégiés se liguèrent contre lui et <persName key="Louis XVI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214">Louis
                            XVI</persName> s'en sépara avec douleur en 1776. « Il n'y a que M.
-                           <persName key="Anne Robert Jacques Turgot" ref="http://www.wikidata.org/entity/Q221303">Turgot</persName> et moi, disait-il, qui
+                           <persName key="Anne Robert Jacques Turgot" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers020">Turgot</persName> et moi, disait-il, qui
                         aimons le peuple. »</p>
                   </div>
                </div>
