@@ -1940,7 +1940,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006154157321",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:41:57.321Z",
-	"dcterms:modified": "2023-10-06T19:41:57.321Z",
+	"dcterms:modified": "2026-10-16T15:16:42.397Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1972,7 +1972,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q560343",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers065",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1981,7 +1981,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2019,7 +2031,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006154213884",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:42:13.884Z",
-	"dcterms:modified": "2023-10-06T19:42:13.884Z",
+	"dcterms:modified": "2026-10-16T15:16:47.811Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2051,7 +2063,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q229264",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers122",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2060,7 +2072,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2098,7 +2122,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006154242239",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:42:42.239Z",
-	"dcterms:modified": "2023-10-06T19:42:42.239Z",
+	"dcterms:modified": "2026-10-16T15:16:52.365Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2130,7 +2154,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q168419",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers177",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2139,7 +2163,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2177,7 +2213,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006154343998",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:43:43.998Z",
-	"dcterms:modified": "2023-10-06T19:43:43.998Z",
+	"dcterms:modified": "2026-10-16T15:16:57.165Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2209,7 +2245,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q206832",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers116",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2218,7 +2254,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2256,7 +2304,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006154429395",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:44:29.395Z",
-	"dcterms:modified": "2023-10-06T19:44:29.395Z",
+	"dcterms:modified": "2026-10-16T15:17:04.690Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2288,7 +2336,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q188697",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers014",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2297,7 +2345,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2335,7 +2395,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch086.xml?person_annotation_20231006154516063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-06T19:45:16.063Z",
-	"dcterms:modified": "2023-10-06T19:45:16.063Z",
+	"dcterms:modified": "2026-10-16T15:17:09.648Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2367,7 +2427,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q605534",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers169",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2376,7 +2436,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -4177,8 +4249,8 @@
                      <pb type="page" n="302" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_302.jpg"/>
                      
                      <p>Peu de provinces ont donné le jour à autant de grands hommes : <persName key="Bernard de Clairvaux" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers035">saint Bernard</persName>, <persName key="Jacques-Bénigne Bossuet" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers150">Bossuet</persName>, <persName key="Prosper Jolyot de Crébillon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers273">Crébillon</persName>,
-                           <persName key="Jean-Philippe Rameau" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers173">Rameau</persName>, <persName key="Claude Favre de Vaugelas" ref="http://www.wikidata.org/entity/Q560343">Vaugelas</persName>, <persName key="Georges-Louis Leclerc, Comte de Buffon" ref="http://www.wikidata.org/entity/Q229264">Buffon</persName>, <persName key="Jérôme Lalande" ref="http://www.wikidata.org/entity/Q168419">Lalande</persName>,
-                           <persName key="Gaspard Monge" ref="http://www.wikidata.org/entity/Q206832">Monge</persName>, <persName key="Alphonse de Lamartine" ref="http://www.wikidata.org/entity/Q188697">Lamartine</persName>, <persName key="Jean-Baptiste Henri Lacordaire" ref="http://www.wikidata.org/entity/Q605534">Lacordaire</persName>,
+                           <persName key="Jean-Philippe Rameau" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers173">Rameau</persName>, <persName key="Claude Favre de Vaugelas" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers065">Vaugelas</persName>, <persName key="Georges-Louis Leclerc de Buffon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers122">Buffon</persName>, <persName key="Jérôme Lalande" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers177">Lalande</persName>,
+                           <persName key="Gaspard Monge" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers116">Monge</persName>, <persName key="Alphonse de Lamartine" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers014">Lamartine</persName>, <persName key="Jean-Baptiste Henri Lacordaire" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers169">Lacordaire</persName>,
                            <persName key="Edgar Quinet" ref="http://www.wikidata.org/entity/Q551735">Edgar Quinet</persName>, parmi les orateurs,
                         les littérateurs et les savants ; — <persName key="Sébastien Le Prestre de Vauban" ref="http://www.wikidata.org/entity/Q192839">Vauban</persName>, <persName key="Lazare Carnot" ref="http://www.wikidata.org/entity/Q310767">Carnot</persName>,
                            <persName key="Louis-Nicolas Davout" ref="http://www.wikidata.org/entity/Q158778">Davout</persName>, <persName key="Pierre-Joseph Habert" ref="http://www.wikidata.org/entity/Q3385621">Habert</persName>, <persName key="Jean-Andoche Junot" ref="http://www.wikidata.org/entity/Q353907">Junot</persName>, <persName key="Auguste de Marmont" ref="http://www.wikidata.org/entity/Q312676">Marmont</persName>,
