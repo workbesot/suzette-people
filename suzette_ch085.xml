@@ -922,6 +922,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229152119700",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:21:19.700Z",
+	"dcterms:modified": "2026-10-16T15:09:12.849Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -953,7 +954,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q151869",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers046",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -962,7 +963,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1000,6 +1013,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229152201587",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:22:01.587Z",
+	"dcterms:modified": "2026-10-16T15:09:26.645Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1031,7 +1045,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q151995",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers199",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1040,7 +1054,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1078,6 +1104,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch085.xml?person_annotation_20240229152237185",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T20:22:37.185Z",
+	"dcterms:modified": "2026-10-16T15:09:36.884Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1109,7 +1136,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q44197",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers236",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1118,7 +1145,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3012,7 +3051,7 @@
                   </div>
                   <div type="réponses">
                      <p><persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Bonaparte Napoléon</persName> naquit le 15 août
-                        1769, à Ajaccio, de <persName key="Carlo Bonaparte" ref="http://www.wikidata.org/entity/Q151869" ana="française" role="juge">Charles Bonaparte</persName> et de <persName key="Maria-Letizia Bonaparte" ref="http://www.wikidata.org/entity/Q151995" ana="française" role="aristocrate">Letizia
+                        1769, à Ajaccio, de <persName key="Charles Bonaparte" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers046" ana="française" role="juge">Charles Bonaparte</persName> et de <persName key="Letizia Bonaparte" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers199" ana="française" role="aristocrate">Letizia
                            Ramolino</persName>, à l'époque de la réunion de la
                            Corse à la France. Après
                         avoir été quelques mois au collège d'Autun, il entra,
@@ -3026,7 +3065,7 @@
                         émigré. Il s'y distingua tellement que, le jour de la prise de la ville (20
                         déc. 1793), il reçut le titre de général de brigade.</p>
                      <p>Suspendu de ses fonctions, puis réformé à cause de ses relations avec le
-                        frère de <persName key="Maximilien Robespierre" ref="http://www.wikidata.org/entity/Q44197" ana="française" role="homme d'état">Robespierre</persName>, il fut
+                        frère de <persName key="Maximilien de Robespierre" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers236" ana="française" role="homme d'état">Robespierre</persName>, il fut
                         cependant choisi par le Directoire pour combattre l'insurrection royaliste
                         du 13 vendémiaire (5 oct. 1795). </p>
                      <p>Le 2 mars 1796, après avoir épousé <persName key="Joséphine de Beauharnais" ref="http://www.wikidata.org/entity/Q171480" ana="française" role="impératrice">Joséphine de
