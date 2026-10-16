@@ -2823,7 +2823,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143109009",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:31:09.009Z",
-	"dcterms:modified": "2026-10-16T13:52:34.675Z",
+	"dcterms:modified": "2026-10-16T13:54:33.376Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2914,6 +2914,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143145300",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:31:45.300Z",
+	"dcterms:modified": "2026-10-16T13:54:39.970Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -2945,7 +2946,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q967538",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers107",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2954,7 +2955,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2992,6 +3005,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143208846",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:32:08.846Z",
+	"dcterms:modified": "2026-10-16T13:54:44.711Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3023,7 +3037,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3387189",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers270",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3032,7 +3046,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3070,6 +3096,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143249236",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:32:49.236Z",
+	"dcterms:modified": "2026-10-16T13:54:50.092Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3101,7 +3128,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q125084",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers181",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3110,7 +3137,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3148,6 +3187,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20231016200605694",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-17T00:06:05.694Z",
+	"dcterms:modified": "2026-10-16T13:54:54.910Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3179,7 +3219,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q125057",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers279",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3188,7 +3228,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3304,6 +3356,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch067.xml?person_annotation_20240229143326086",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:33:26.086Z",
+	"dcterms:modified": "2026-10-16T13:55:01.040Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -3335,7 +3388,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q1351052",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers153",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3344,7 +3397,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3945,10 +4010,10 @@
 									Congo.</p>
 							<p>5° Abyssinie, sources du Nil,
 									Nubie :
-									<persName key="James Bruce" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers154" ana="britannique" role="explorateur">Bruce</persName>, 1769-71, Abyssinie ; — <persName key="Volney" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers295" ana="française" role="explorateur">Volney</persName>, 1783-85, Égypte ; — <persName key="Frédéric Cailliaud" ref="http://www.wikidata.org/entity/Q967538" ana="française" role="explorateur">Caillaud</persName>, 1815-1820, Nubie ; — <persName key="Pierre Trémaux" ref="http://www.wikidata.org/entity/Q3387189" ana="française" role="explorateur">Trémeaux</persName>, 1849-50, Nubie, Sennaar
-								; — <persName key="John Hanning Speke" ref="http://www.wikidata.org/entity/Q125084" ana="britannique" role="explorateur">Speke</persName> et <persName key="Richard Francis Burton" ref="http://www.wikidata.org/entity/Q125057">Burton</persName>,
+									<persName key="James Bruce" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers154" ana="britannique" role="explorateur">Bruce</persName>, 1769-71, Abyssinie ; — <persName key="Volney" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers295" ana="française" role="explorateur">Volney</persName>, 1783-85, Égypte ; — <persName key="Frédéric Cailliaud" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers107" ana="française" role="explorateur">Caillaud</persName>, 1815-1820, Nubie ; — <persName key="Pierre Trémaux" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers270" ana="française" role="explorateur">Trémeaux</persName>, 1849-50, Nubie, Sennaar
+								; — <persName key="John Hanning Speke" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers181" ana="britannique" role="explorateur">Speke</persName> et <persName key="Richard Francis Burton" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers279">Burton</persName>,
 								1857-59, Zanzibar, lacs Victoria et Tanganyika ; — <persName key="John Hanning Speke" ref="http://www.wikidata.org/entity/Q125084">Speke</persName> et
-									<persName key="James Augustus Grant" ref="http://www.wikidata.org/entity/Q1351052" ana="britannique" role="explorateur">Grant</persName>, 1860-1863 ; Zanzibar, lac
+									<persName key="James Augustus Grant" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers153" ana="britannique" role="explorateur">Grant</persName>, 1860-1863 ; Zanzibar, lac
 									Victoria, Gondokoro ; — <persName key="Guillaume Lejean" ref="http://www.wikidata.org/entity/Q322885" ana="française" role="explorateur">Lejean</persName>, 1859-64, Souakim, Khartoum,
 									Kordofan, Abyssinie ; — <persName key="Florence Baker" ref="http://www.wikidata.org/entity/Q431034" ana="britannique" role="explorateur">Baker</persName> : Sennaar, Gondokoro, Ounyoro
 								; — <persName key="Georg August Schweinfurth" ref="http://www.wikidata.org/entity/Q63126" ana="allemande" role="explorateur">Schweinfurth</persName> : Gondokoro, pays des Nyams-Nyams ; — <persName key="Achille Raffray" ref="http://www.wikidata.org/entity/Q4673709" ana="française" role="explorateur">Raffray</persName>, 1873, Abyssinie, pays des Gallas.</p>
