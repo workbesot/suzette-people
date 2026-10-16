@@ -1468,7 +1468,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201022379",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:10:22.379Z",
-	"dcterms:modified": "2026-10-16T16:40:49.157Z",
+	"dcterms:modified": "2026-10-16T16:42:35.389Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1500,7 +1500,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers165",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers162",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1559,7 +1559,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201128514",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:11:28.514Z",
-	"dcterms:modified": "2024-03-01T01:11:28.514Z",
+	"dcterms:modified": "2026-10-16T16:42:43.129Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1591,7 +1591,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q160349",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1600,7 +1600,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1638,7 +1650,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201204891",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:12:04.891Z",
-	"dcterms:modified": "2024-03-01T01:12:04.891Z",
+	"dcterms:modified": "2026-10-16T16:42:53.017Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1670,7 +1682,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1679,7 +1691,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1717,7 +1741,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201339710",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:13:39.710Z",
-	"dcterms:modified": "2024-03-01T01:13:39.710Z",
+	"dcterms:modified": "2026-10-16T16:42:58.898Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1749,7 +1773,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q229901",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers145",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1758,7 +1782,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1796,7 +1832,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201523002",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T01:15:23.002Z",
-	"dcterms:modified": "2024-03-01T01:15:23.002Z",
+	"dcterms:modified": "2026-10-16T16:43:05.216Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1828,7 +1864,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q81000",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers280",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1837,7 +1873,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2377,16 +2425,16 @@
                   <div type="réponses">
                      <p><persName ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers261" key="Pierre de Craon le Grand" ana="française" role="aristocrate">Pierre de Craon</persName>, chassé de la cour de
                            France par le <persName ana="française" key="Olivier V de Clisson" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers247" role="homme de guerre">connétable de Clisson</persName>, tenta de l'assassiner avec une troupe
-                        de brigands (14 juin 1392) Il vint se réfugier ensuite auprès du <persName ana="française" key="Jean V de Bretagne" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers165" role="aristocrate">duc de Bretagne</persName>, qui refusa de le livrer au
-                        roi. Bien que malade, <persName ana="française" key="Charles VI of France" ref="http://www.wikidata.org/entity/Q160349" role="roi">Charles VI </persName>se
+                        de brigands (14 juin 1392) Il vint se réfugier ensuite auprès du <persName ana="française" key="Jean IV de Bretagne" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers162" role="aristocrate">duc de Bretagne</persName>, qui refusa de le livrer au
+                        roi. Bien que malade, <persName ana="française" key="Charles VI de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054" role="roi">Charles VI </persName>se
                         mit en marche avec une armée au plus fort de l'été de cette même année. Le 5
                         août 1392, comme il traversait la , un homme sortit des broussailles et,
                         saisissant la bride du cheval du roi, s'écria : « Arrête, noble roi ; tu es
                         trahi !» — Cette apparition troubla le faible monarque, qui, devenu
                         subitement fou, se jeta sur les gens de sa suite. Il resta dans cet état
                         jusqu'à son dernier jour.</p>
-                     <p><persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau de Bavière</persName>, comme sa fille
-                           <persName key="Isabella of Valois" ref="http://www.wikidata.org/entity/Q229901" ana="française" role="reine">Isabelle</persName>, épouse de <persName ana="britannique" key="Richard II of England" ref="http://www.wikidata.org/entity/Q81000" role="roi">Richard II</persName>, roi
+                     <p><persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau de Bavière</persName>, comme sa fille
+                           <persName key="Isabelle de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers145" ana="française" role="reine">Isabelle</persName>, épouse de <persName ana="britannique" key="Richard II" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers280" role="roi">Richard II</persName>, roi
                            d'Angleterre, étaient deux coquettes, c'est-à-dire
                         deux femmes sans cœur. Ni les malheurs ni les périls des royaumes où elles
                         régnaient ne purent les amener à des pensées sérieuses ; après avoir été
