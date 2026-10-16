@@ -767,6 +767,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch068.xml?person_annotation_20231001230942574",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-02T03:09:42.574Z",
+	"dcterms:modified": "2026-10-16T13:58:06.443Z",
 	"dcterms:creator": {
 		"@id": "11",
 		"@type": [
@@ -798,7 +799,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q1401",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers256",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -807,7 +808,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -956,7 +969,7 @@
                      </list>
                   </div>
                   <div type="réponses">
-                     <p>Une lettre d'un ancien auteur, <persName key="Petrarch" ref="http://www.wikidata.org/entity/Q1401">Pétrarque</persName>, nous montre tous les avantages de la lecture : </p>
+                     <p>Une lettre d'un ancien auteur, <persName key="Pétrarque" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers256">Pétrarque</persName>, nous montre tous les avantages de la lecture : </p>
                      <p><l>« J'ai des amis, dit-il en parlant des livres de sa bibliothèque, j'ai </l>
                         <l>« des amis dont la société m'est fort agréable, des amis de tous les
                            pays</l>
