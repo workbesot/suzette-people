@@ -831,7 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195552627",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:55:52.627Z",
-	"dcterms:modified": "2024-03-01T00:55:52.627Z",
+	"dcterms:modified": "2026-10-16T16:38:36.616Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -863,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -872,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -910,7 +922,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195745787",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:57:45.787Z",
-	"dcterms:modified": "2024-03-01T00:57:45.787Z",
+	"dcterms:modified": "2026-10-16T16:38:46.447Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -942,7 +954,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q160349",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -951,7 +963,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -989,7 +1013,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195728733",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:57:28.733Z",
-	"dcterms:modified": "2024-03-01T00:57:28.733Z",
+	"dcterms:modified": "2026-10-16T16:39:00.522Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1021,7 +1045,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1030,7 +1054,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1068,7 +1104,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195819248",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:58:19.248Z",
-	"dcterms:modified": "2024-03-01T00:58:19.248Z",
+	"dcterms:modified": "2026-10-16T16:39:06.783Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1100,7 +1136,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q154064",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1109,7 +1145,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1147,7 +1195,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195858775",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:58:58.775Z",
-	"dcterms:modified": "2024-03-01T00:58:58.775Z",
+	"dcterms:modified": "2026-10-16T16:39:14.925Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1179,7 +1227,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q160349",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1188,7 +1236,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2221,7 +2281,7 @@
                   <item>— A qui attribue-t-on l'invention des corsets ? </item>
                   <item>— En quoi l'usage des corsets est-il nuisible à la santé ? </item>
                   <item>— Quel autre usagé également dangereux est attribué encore à la reine
-                        <persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau</persName> ? </item>
+                        <persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau</persName> ? </item>
                   <item>— Quel inconvénient grave présente l'emmaillotement des enfants ? </item>
                </list>
             </div>
@@ -2269,12 +2329,12 @@
                   <head>Histoire.</head>
                   <div type="questions">
                      <list>
-                        <item>— Dans quelle circonstance <persName key="Charles VI of France" ref="http://www.wikidata.org/entity/Q160349" ana="française" role="roi">Charles
+                        <item>— Dans quelle circonstance <persName key="Charles VI de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054" ana="française" role="roi">Charles
                               VI</persName> perdit-il la raison ? </item>
-                        <item>— Que pensez-vous d'<persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau de
+                        <item>— Que pensez-vous d'<persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau de
                               Bavière</persName> ? Justifiez votre opinion.</item>
                         <item>— Que pensez-vous de sa fille ? </item>
-                        <item>— Quelle fut la conduite d'<persName ana="française" key="Isabeau of Bavaria" ref="http://www.wikidata.org/entity/Q154064" role="reine">Isabeau</persName> envers <persName ana="française" key="Charles VI of France" ref="http://www.wikidata.org/entity/Q160349" role="roi">Charles
+                        <item>— Quelle fut la conduite d'<persName ana="française" key="Isabeau de Bavière" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers144" role="reine">Isabeau</persName> envers <persName ana="française" key="Charles VI de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers054" role="roi">Charles
                               VI</persName>, devenu fou ? </item>
                      </list>
                   </div>
