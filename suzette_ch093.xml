@@ -376,6 +376,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch093.xml?person_annotation_20240229194207875",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:42:07.875Z",
+	"dcterms:modified": "2026-10-16T16:36:12.003Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -407,7 +408,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q294153",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers278",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -416,7 +417,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -454,6 +467,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch093.xml?person_annotation_20240229194229798",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:42:29.798Z",
+	"dcterms:modified": "2026-10-16T16:36:20.981Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -485,7 +499,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q294153",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers278",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -494,7 +508,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -532,6 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch093.xml?person_annotation_20240229194258471",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T00:42:58.471Z",
+	"dcterms:modified": "2026-10-16T16:36:31.705Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -563,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3044",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers045",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -572,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -632,7 +671,7 @@
                      Bonhomme</persName>*<note type="annotation"><persName type="fictif">Jacques
                         Bonhomme</persName>. Terme injurieux sous lequel les nobles désignaient les
                      paysans.</note>? Ah ! celle-là, elle attendait patiemment que le mécanicien
-                     <persName key="Richard Arkwright" ref="http://www.wikidata.org/entity/Q294153" ana="britannique" role="inventeur">Arkwright</persName> inventât la machine à filer le
+                     <persName key="Richard Arkwright" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers278" ana="britannique" role="inventeur">Arkwright</persName> inventât la machine à filer le
                   coton, cette machine qui mit le linge à la portée du pauvre <pb type="page" n="324" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_324.jpg"/>
                   <fw>324 SUZETTE.</fw> monde. Et, de mère en fille, elle l'attendit ainsi quelques
                   siècles, jusqu'à la fin du dix-huitième.</p>
@@ -648,7 +687,7 @@
                   <item>— Quel était le motif de ces ordonnances ? </item>
                   <item>— Donnez uné idée du prix élevé des étoffes de luxe au moyen âge.</item>
                   <item>— Parlez de la rareté du linge de toile.</item>
-                  <item>— Qu'est-ce qu'<persName key="Richard Arkwright" ref="http://www.wikidata.org/entity/Q294153" ana="britannique" role="inventeur">Arkwright</persName> et quel
+                  <item>— Qu'est-ce qu'<persName key="Richard Arkwright" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers278" ana="britannique" role="inventeur">Arkwright</persName> et quel
                      service rendit-il à l'humanité ? </item>
                </list>
             </div>
@@ -711,7 +750,7 @@
                         partagée entre le chef de guerre et ses compagnons d'armes ; les anciens
                         propriétaires devinrent leurs fermiers. Les donations de propriétés étaient
                         d'abord viagères, c'està-dire qu'elles retournaient au domaine royal au
-                        décès du possesseur, mais peu à peu, et notamment après <persName key="Charlemagne" ref="http://www.wikidata.org/entity/Q3044" ana="française" role="roi">Charlemagne</persName>, ces domaines ou fiefs devinrent
+                        décès du possesseur, mais peu à peu, et notamment après <persName key="Charlemagne" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers045" ana="française" role="roi">Charlemagne</persName>, ces domaines ou fiefs devinrent
                         héréditaires.</p>
                      <p>Chaque seigneur bâtit un château fort pour lui servir d'habitation et pour
                         être le refuge de ses vassaux en cas d'invasion ou de guerre. Bientôt ce
