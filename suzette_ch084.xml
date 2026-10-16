@@ -857,7 +857,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch084.xml?person_annotation_20240229144603657",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:46:03.657Z",
-	"dcterms:modified": "2024-02-29T19:46:03.657Z",
+	"dcterms:modified": "2026-10-16T15:04:04.126Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -889,7 +889,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q106208",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers075",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -898,7 +898,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -936,7 +948,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch084.xml?person_annotation_20240229144736675",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:47:36.675Z",
-	"dcterms:modified": "2024-02-29T19:47:36.675Z",
+	"dcterms:modified": "2026-10-16T15:04:15.039Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -968,7 +980,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q936976",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -977,7 +989,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1015,7 +1039,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch084.xml?person_annotation_20240229144822344",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:48:22.344Z",
-	"dcterms:modified": "2024-02-29T19:48:22.344Z",
+	"dcterms:modified": "2026-10-16T15:04:20.915Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1047,7 +1071,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q9554",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers231",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1056,7 +1080,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1094,7 +1130,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch084.xml?person_annotation_20240229144850559",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:48:50.559Z",
-	"dcterms:modified": "2024-02-29T19:48:50.559Z",
+	"dcterms:modified": "2026-10-16T15:04:26.108Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1126,7 +1162,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q37577",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers157",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1135,7 +1171,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1173,7 +1221,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch084.xml?person_annotation_20240229145017481",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:50:17.481Z",
-	"dcterms:modified": "2024-02-29T19:50:17.481Z",
+	"dcterms:modified": "2026-10-16T15:04:31.805Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1205,7 +1253,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q9554",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers231",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1214,7 +1262,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1252,7 +1312,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch084.xml?person_annotation_20240229145037461",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-29T19:50:37.461Z",
-	"dcterms:modified": "2024-02-29T19:50:37.461Z",
+	"dcterms:modified": "2026-10-16T15:04:40.031Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1284,7 +1344,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q936976",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1293,7 +1353,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1435,7 +1507,7 @@
                   <item>— Quelle remarque fit-il sur le sert des hommes auxquels nous devons de
                      grandes découvertes ? </item>
                   <item>— Dans quels termes les compare-t-il aux conquérants ? </item>
-                  <item>— Que découvrit <persName key="Denis Papin" ref="http://www.wikidata.org/entity/Q106208" ana="française" role="inventeur">Papin</persName> ? </item>
+                  <item>— Que découvrit <persName key="Denis Papin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers075" ana="française" role="inventeur">Papin</persName> ? </item>
                   <item>— Pour quelle cause se réfugia-t-il en Allemagne ? </item>
                   <item>— Qu'y construisit-il ? </item>
                   <item>— Qu'arriva-t-il à son bateau ? </item>
@@ -1484,14 +1556,14 @@
                         <item>— Que fit-on, au seizième siècle, contre les protestants ? </item>
                         <item>— Qu'en résulta-t-il ? </item>
                         <item>— Citez quelques épisodes des guerres de religion. </item>
-                        <item>— Que fit <persName key="Henry IV of France" ref="http://www.wikidata.org/entity/Q936976" ana="française" role="roi">Henri IV</persName> ? </item>
+                        <item>— Que fit <persName key="Henri IV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136" ana="française" role="roi">Henri IV</persName> ? </item>
                         <item>— Objet de l'édit de Nantes. </item>
                      </list>
                   </div>
                   <div type="réponses">
                      <p>On entend par <term>protestants</term> les partisans des doctrines de
-                           <persName key="Martin Luther" ref="http://www.wikidata.org/entity/Q9554" ana="allemande" role="réligieux">Luther</persName> et de <persName key="John Calvin" ref="http://www.wikidata.org/entity/Q37577" ana="suisse" role="réligieux">Calvin</persName>. Ce nom vient de la protestation
-                        qu'en 1526 les partisans de <persName key="Martin Luther" ref="http://www.wikidata.org/entity/Q9554" ana="allemande" role="réligieux">Luther</persName>
+                           <persName key="Martin Luther" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers231" ana="allemande" role="réligieux">Luther</persName> et de <persName key="Jean Calvin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers157" ana="suisse" role="réligieux">Calvin</persName>. Ce nom vient de la protestation
+                        qu'en 1526 les partisans de <persName key="Martin Luther" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers231" ana="allemande" role="réligieux">Luther</persName>
                         opposèrent aux résolutions d'une grande assemblée des députés de l'empire
                            d'Allemagne, réunis à
                         Spire.</p>
@@ -1504,7 +1576,7 @@
                            Provence, par les Vaudois durant laquelle 3,000
                         personnes périrent, et le massacre de la Saint-Barthélemy, qui causa la mort
                         de 30,00 protestants.</p>
-                     <p><persName key="Henry IV of France" ref="http://www.wikidata.org/entity/Q936976" ana="française" role="roi">Henri IV</persName>, qui était né dans la
+                     <p><persName key="Henri IV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136" ana="française" role="roi">Henri IV</persName>, qui était né dans la
                         religion protestante et qui se convertit plus tard au catholicisme, fit tous
                         ses efforts pour rétablir la paix religieuse ; par l'<title key="Edict of Nantes" ref="http://www.wikidata.org/entity/Q179788">édit de
                            Nantes</title> (1598), il accorda le libre exercice du
