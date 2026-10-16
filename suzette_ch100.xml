@@ -558,7 +558,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20240229213428869",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T02:34:28.869Z",
-	"dcterms:modified": "2024-03-01T02:34:28.869Z",
+	"dcterms:modified": "2026-10-16T17:01:19.500Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -590,7 +590,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q360359",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers078",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -599,7 +599,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -637,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20240229213538415",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T02:35:38.415Z",
-	"dcterms:modified": "2024-03-01T02:35:38.415Z",
+	"dcterms:modified": "2026-10-16T17:01:25.863Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -669,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q34969",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers034",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -678,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -716,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20240229213604109",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T02:36:04.109Z",
-	"dcterms:modified": "2024-03-01T02:36:04.109Z",
+	"dcterms:modified": "2026-10-16T17:01:30.430Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -748,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q34969",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers034",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -757,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -839,6 +875,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130136683",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T17:01:36.683Z",
+	"dcterms:modified": "2026-10-16T17:01:45.317Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130136683#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130136683#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p/title/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130151063",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-16T17:01:51.063Z",
+	"dcterms:modified": "2026-10-16T17:01:51.063Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130151063#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch100.xml?person_annotation_20261016130151063#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[2]/title/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
          <langUsage>
             <language ident="fr">French</language>
@@ -905,7 +1099,7 @@ des arts et métiers. Et devinez ce que j'ai vu dans le musée du
                   <item>— Faites-en la description.</item>
                   <item>— Quel parti l'Américain <persName ana="américaine" key="Elias Howe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers078" role="inventeur">Howe</persName>
                      tira-t-il de cette machine dédaignée ? </item>
-                  <item>— Dites quelques mots du mécanisme de la machine <persName ana="américaine" key="Elias Howe" ref="http://www.wikidata.org/entity/Q360359" role="inventeur">Howe</persName>.</item>
+                  <item>— Dites quelques mots du mécanisme de la machine <persName ana="américaine" key="Elias Howe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers078" role="inventeur">Howe</persName>.</item>
                   <item>— Que vit <persName key="suzette" type="fictif">Suz<persName key="suzette" type="fictif"/>ette</persName> ? </item>
                   <item>— Quelle résolution prit-elle ? </item>
                   <item>— A qui adressa-t-elle une lettre, le soir même ? </item>
@@ -923,7 +1117,7 @@ des arts et métiers. Et devinez ce que j'ai vu dans le musée du
                         <item>— Comment s'appelle le cahier où l'on prend ces 
                            <pb type="page" n="350" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_350.jpg"/>
                             notes ? — Que nous rappelle à cet égard le nom de
-                              <persName key="Benjamin Franklin" ref="http://www.wikidata.org/entity/Q34969" ana="américaine" role="écrivain">Franklin</persName> ? </item>
+                              <persName key="Benjamin Franklin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers034" ana="américaine" role="écrivain">Franklin</persName> ? </item>
                      </list>
                   </div>
                   <div type="réponses">
@@ -935,7 +1129,7 @@ des arts et métiers. Et devinez ce que j'ai vu dans le musée du
                         sentiments s'épurent, l'esprit se pénètre des connaissances dont il s'est
                         enrichi.</p>
                      <p>Le cahier où l'on prend ces notes s'appelle notre journal.</p>
-                     <p><persName ana="américaine" key="Benjamin Franklin" ref="http://www.wikidata.org/entity/Q34969" role="écrivain">Franklin</persName>, dans sa jeunesse, s'en
+                     <p><persName ana="américaine" key="Benjamin Franklin" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers034" role="écrivain">Franklin</persName>, dans sa jeunesse, s'en
                         servit pour acquérir l'habitude des vertus qu'il regardait comme les plus
                         désirables. Chaque soir, il notait les fautes qu'il avait commises, et au
                         début, effrayé de leur multiplicité, il en vint à s'observer si bien qu'il
@@ -969,7 +1163,7 @@ des arts et métiers. Et devinez ce que j'ai vu dans le musée du
                   </div>
                   <div type="réponses">
                      <p>(Voir, pour modèles, le <title>COURS DE COMPOSITION FRANÇAISE (Degré
-                           supérieur), Partie du maître, par <persName type="historique">E.
+                           supérieur), Partie du maître, par <persName key="E. LaPorte" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076">E.
                               LAPORTE</persName></title>, page 32 et suivantes.)</p>
                      <p>Prévenir les élèves, pour qu'elles rédigent leur journal en toute sécurité
                         d'esprit, que vous seule lirez leur travail.</p>
@@ -999,7 +1193,7 @@ des arts et métiers. Et devinez ce que j'ai vu dans le musée du
                         volent et les écrits restent, » dit le proverbe ; d'où il résulte qu'on doit
                         apporter un soin tout particulier à sa correspondance.</p>
                      <p>(CVoir, pour les autres points, le <title>COURS DE COMPOSITION FRANÇAISE
-                           (Degré élémentaire et moyen), par <persName type="historique">E.
+                           (Degré élémentaire et moyen), par <persName type="historique" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers076" key="E. LaPorte">E.
                               LAPORTE</persName>, Partie de l'élève</title>, pp. 64, 70 et 145.
                         )</p>
                   </div>
