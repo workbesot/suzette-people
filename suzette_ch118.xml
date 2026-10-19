@@ -636,7 +636,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20240104180921521",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:09:21.521Z",
-	"dcterms:modified": "2024-01-04T23:09:21.521Z",
+	"dcterms:modified": "2026-10-19T16:43:16.143Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -668,7 +668,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q179825",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers001",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -677,7 +677,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -715,7 +727,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20240104181018847",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:10:18.847Z",
-	"dcterms:modified": "2024-01-04T23:10:18.847Z",
+	"dcterms:modified": "2026-10-19T16:43:22.029Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -747,7 +759,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q349167",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers289",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -756,7 +768,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1069,7 +1093,7 @@
                         expédition fut résolue, et la bravoure de nos soldats leur donna la
                         victoire, malgré les formidables obstacles dont la nature a entouré cette
                         ville.</p>
-                     <p>Un chef arabe, <persName key="Abdelkader El Djezairi" ref="http://www.wikidata.org/entity/Q179825">Abd-el-Kader</persName>, dès
+                     <p>Un chef arabe, <persName key="Abd el-Kader" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers001">Abd-el-Kader</persName>, dès
                         1834, souleva l'Ouest et le Sud de l'Algérie contre
                         notre domination : rusé, entreprenant, possédant une merveilleuse
                         connaissance du pays, il soutint vaillamment la lutte. Toutefois, il lui
@@ -1078,7 +1102,7 @@
                            l'Algérie.</p>
                      <p>Le fils du sultan arriva en juillet 1846 sur les bords de la rivière, qui forme la frontière ; il
                         était à la tête d'une armée de 45,000 hommes. Le 
-                     <persName key="Thomas Robert Bugeaud" ref="http://www.wikidata.org/entity/Q349167">maréchal Bugeaud</persName> 
+                     <persName key="Thomas-Robert Bugeaud" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers289">maréchal Bugeaud</persName> 
                      se trouvait de l'autre côté avec 10,000
                         hommes. La bataille s'engagea le 14 juillet : la lutte fut terrible ; des
                         masses énormes de cavalerie entouraient nos bataillons ; mais pas un soldat
