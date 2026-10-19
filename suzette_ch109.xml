@@ -1832,7 +1832,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104184205246",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:42:05.246Z",
-	"dcterms:modified": "2024-01-04T23:42:05.246Z",
+	"dcterms:modified": "2026-10-19T16:34:31.618Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1864,7 +1864,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7738",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1873,7 +1873,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1911,7 +1923,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104184223594",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:42:23.594Z",
-	"dcterms:modified": "2024-01-04T23:42:23.594Z",
+	"dcterms:modified": "2026-10-19T16:34:35.957Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1943,7 +1955,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q47365",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1952,7 +1964,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2295,8 +2319,8 @@
                            France (1837).</p>
                      <p>Le palais du <term>Grand Trianon</term>, bâti sous
                            <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName> vers 1676, et celui du
-                              <term>Petit Trianon</term>, créé par <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV,</persName> sont de beaux édifices contigus au
-                        jardin du palais de Versailles. <persName key="Marie Antoinette" ref="http://www.wikidata.org/entity/Q47365">Marie-Antoinette</persName> aimait beaucoup à résider
+                              <term>Petit Trianon</term>, créé par <persName key="Louis XV" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213">Louis XV,</persName> sont de beaux édifices contigus au
+                        jardin du palais de Versailles. <persName key="Marie-Antoinette" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228">Marie-Antoinette</persName> aimait beaucoup à résider
                         au Petit Trianon.</p>
                   </div>
                </div>
