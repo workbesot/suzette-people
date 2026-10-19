@@ -1104,7 +1104,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183755947",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:37:55.947Z",
-	"dcterms:modified": "2024-01-04T23:37:55.947Z",
+	"dcterms:modified": "2026-10-19T16:33:25.868Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1136,7 +1136,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q310530",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers206",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1145,7 +1145,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1183,7 +1195,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183946127",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:39:46.127Z",
-	"dcterms:modified": "2024-01-04T23:39:46.127Z",
+	"dcterms:modified": "2026-10-19T16:33:36.118Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1215,7 +1227,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3159083",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers149",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1224,7 +1236,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1262,7 +1286,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104184018462",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:40:18.462Z",
-	"dcterms:modified": "2024-01-04T23:40:18.462Z",
+	"dcterms:modified": "2026-10-19T16:33:44.386Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1294,7 +1318,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3164360",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers170",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1303,7 +1327,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1341,7 +1377,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104184040112",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:40:40.112Z",
-	"dcterms:modified": "2024-01-04T23:40:40.112Z",
+	"dcterms:modified": "2026-10-19T16:33:52.520Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1373,7 +1409,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q273849",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers017",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1382,7 +1418,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2188,7 +2236,7 @@
                      <p>Le <term>palais de Versailles</term> est un immense
                         édifice, de 450 mètres de façade sur les jardins, qui fut construit sous le
                         règne de <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName>. Les architectes
-                           <persName key="Louis Le Vau" ref="http://www.wikidata.org/entity/Q310530">Levau</persName> et <persName key="Jacques Hardouin-Mansart de Sagonne" ref="http://www.wikidata.org/entity/Q3159083">Hardouin Mansart</persName>, le peintre <persName key="Jean-Baptiste Le Brun" ref="http://www.wikidata.org/entity/Q3164360">Lebrun</persName>, le jardinier <persName key="André Le Nôtre" ref="http://www.wikidata.org/entity/Q273849">Le Nôtre</persName> le construisirent ou l'ornèrent ;
+                           <persName key="Louis Le Vau" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers206">Levau</persName> et <persName key="Jacques Hardouin-Mansart de Sagonne" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers149">Hardouin Mansart</persName>, le peintre <persName key="Jean-Baptiste Le Brun" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers170">Lebrun</persName>, le jardinier <persName key="André Le Nôtre" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers017">Le Nôtre</persName> le construisirent ou l'ornèrent ;
                         la dépense a été estimée à un milliard de la monnaie de l'époque.</p>
                      <p>Le grand roi y habita de 1672 jusqu'à sa mort ; <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV</persName> et <persName key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732">Louis XVI</persName> y fixèrent leur
                         résidence, et ce dernier jusqu'à ce que le peuple de
