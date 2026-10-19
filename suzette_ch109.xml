@@ -649,7 +649,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183533305",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:35:33.305Z",
-	"dcterms:modified": "2024-01-04T23:35:33.305Z",
+	"dcterms:modified": "2026-10-19T16:32:47.408Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -681,7 +681,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q47365",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -690,7 +690,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -728,7 +740,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183615100",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:36:15.100Z",
-	"dcterms:modified": "2024-01-04T23:36:15.100Z",
+	"dcterms:modified": "2026-10-19T16:33:00.588Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -760,7 +772,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q47365",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -769,7 +781,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -807,7 +831,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183630301",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:36:30.301Z",
-	"dcterms:modified": "2024-01-04T23:36:30.301Z",
+	"dcterms:modified": "2026-10-19T16:33:05.562Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -839,7 +863,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7732",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -848,7 +872,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -886,7 +922,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183645726",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:36:45.726Z",
-	"dcterms:modified": "2024-01-04T23:36:45.726Z",
+	"dcterms:modified": "2026-10-19T16:33:10.925Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -918,7 +954,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q47365",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -927,7 +963,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -965,7 +1013,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch109.xml?person_annotation_20240104183713759",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:37:13.759Z",
-	"dcterms:modified": "2024-01-04T23:37:13.759Z",
+	"dcterms:modified": "2026-10-19T16:33:16.846Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -997,7 +1045,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7742",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1006,7 +1054,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2102,17 +2162,17 @@
                   <head type="sujets"> Histoire. </head>
                   <div type="questions">
                      <list>
-                        <item>— Racontez ce que vous savez de la reine <persName key="Marie Antoinette" ref="http://www.wikidata.org/entity/Q47365">Marie-Antoinette</persName>, du palais de
+                        <item>— Racontez ce que vous savez de la reine <persName key="Marie-Antoinette" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228">Marie-Antoinette</persName>, du palais de
                               Versailles et de Trianon.</item>
                      </list>
                   </div>
                   <div type="réponses">
-                     <p><persName key="Marie Antoinette" ref="http://www.wikidata.org/entity/Q47365"><term>Marie-Antoinette </term></persName>
+                     <p><persName key="Marie-Antoinette" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228"><term>Marie-Antoinette </term></persName>
                         d'Autriche, reine de France, naquit à
                            Vienne en 1755 et fut guillotinée le 16 octobre
                         1793. Elle épousa en 1770 le Dauphin de France, qui fut depuis le roi
-                           <persName key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732">Louis XVI</persName> ; à peine ce dernier
-                        était-il sur le trône, que la légèreté et la hauteur de <persName key="Marie Antoinette" ref="http://www.wikidata.org/entity/Q47365">Marie Antoinette</persName> augmentèrent les embarras de
+                           <persName key="Louis XVI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214">Louis XVI</persName> ; à peine ce dernier
+                        était-il sur le trône, que la légèreté et la hauteur de <persName key="Marie-Antoinette" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers228">Marie Antoinette</persName> augmentèrent les embarras de
                         la royauté et du gouvernement ; elle fut en butte à l'inimitié d'une partie
                         de la cour, et, comme elle s'opposait à toutes les reformes, l'opinion
                         publique se tourna contre elle. Sa conduite fut plus qu'imprudente au début
@@ -2127,7 +2187,7 @@
                         pardonnant à ses ennemis.</p>
                      <p>Le <term>palais de Versailles</term> est un immense
                         édifice, de 450 mètres de façade sur les jardins, qui fut construit sous le
-                        règne de <persName key="Louis XIV of France" ref="http://www.wikidata.org/entity/Q7742">Louis XIV</persName>. Les architectes
+                        règne de <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis XIV</persName>. Les architectes
                            <persName key="Louis Le Vau" ref="http://www.wikidata.org/entity/Q310530">Levau</persName> et <persName key="Jacques Hardouin-Mansart de Sagonne" ref="http://www.wikidata.org/entity/Q3159083">Hardouin Mansart</persName>, le peintre <persName key="Jean-Baptiste Le Brun" ref="http://www.wikidata.org/entity/Q3164360">Lebrun</persName>, le jardinier <persName key="André Le Nôtre" ref="http://www.wikidata.org/entity/Q273849">Le Nôtre</persName> le construisirent ou l'ornèrent ;
                         la dépense a été estimée à un milliard de la monnaie de l'époque.</p>
                      <p>Le grand roi y habita de 1672 jusqu'à sa mort ; <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV</persName> et <persName key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732">Louis XVI</persName> y fixèrent leur
