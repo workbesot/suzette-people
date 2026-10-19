@@ -506,7 +506,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229220734656",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:07:34.656Z",
-	"dcterms:modified": "2024-03-01T03:07:34.656Z",
+	"dcterms:modified": "2026-10-19T16:45:44.327Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -538,7 +538,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -547,7 +547,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1879,7 +1891,7 @@
                         — l'entrée en campagne de troupes ennemies revendiquant des territoires
                         cédés par les traités, comme la chose eut lieu en 1896, lorsque les
                         Prussiens sommèrent les Français d'evacuer les provinces conquises par
-                           <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517" ana="française" role="empereur">Napoléon</persName> ; — une insulte à nos
+                           <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240" ana="française" role="empereur">Napoléon</persName> ; — une insulte à nos
                         representants : consuls, ambassadeurs ; tel fut le principal motif de la
                         guerre déclarée en 1830 au <persName key="Omar Agha" ref="http://www.wikidata.org/entity/Q3351818" ana="algérien" role="roi">dey
                               d'Alger</persName> ; — le refus par un
