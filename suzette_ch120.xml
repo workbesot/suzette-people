@@ -688,6 +688,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20231001130230481",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-01T17:02:30.481Z",
+	"dcterms:modified": "2026-10-19T16:51:24.088Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -718,7 +719,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers219",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -726,7 +729,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -764,6 +779,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20231001130308678",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-01T17:03:08.678Z",
+	"dcterms:modified": "2026-10-19T16:51:29.333Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -794,7 +810,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers241",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -802,7 +820,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -931,7 +961,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229222029910",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:20:29.910Z",
-	"dcterms:modified": "2024-03-01T03:20:29.910Z",
+	"dcterms:modified": "2026-10-19T16:51:07.703Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -972,7 +1002,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1166,7 +1208,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229222209063",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:22:09.063Z",
-	"dcterms:modified": "2024-03-01T03:22:09.063Z",
+	"dcterms:modified": "2026-10-19T16:51:16.444Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1198,7 +1240,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2773",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers109",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1207,7 +1249,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2057,7 +2111,7 @@
                         supportèrent le feu avec un sang-froid sur lequel l'ennemi ne comptait pas ;
                         la bataille ne fut guère qu'une canonnade de plusieurs heures, pendant
                         laquelle l'infanterie française repoussa vaillamment les charges de la
-                        cavalerie de <persName key="Brunswick" ref="http://www.wikidata.org/entity/Q2773" ana="allemande" role="homme de guerre">Brunswick</persName>. Le lendemain,
+                        cavalerie de <persName key="Frédéric-Guillaume de Brunswick-Wolfenbüttel" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers109" ana="allemande" role="homme de guerre">Brunswick</persName>. Le lendemain,
                         l'ennemi battait en retraite.</p>
                   </div>
                   <div type="questions">
@@ -2071,9 +2125,9 @@
                   <div type="réponses">
                      <p>Pendant la <rs key="French First Republic" ref="http://www.wikidata.org/entity/Q58296">première République</rs>, elle a donné aide et assistance aux
                            Pays-Bas, à la Suisse, à
-                           l'Italie ; sous le règne de <persName type="historique">Louis-Philippe</persName>, à la
+                           l'Italie ; sous le règne de <persName key="Louis-Philippe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers219">Louis-Philippe</persName>, à la
                            Belgique et à l'Espagne ;
-                        sous <persName type="historique">Napoléon III</persName>, à
+                        sous <persName key="Napoléon III" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers241">Napoléon III</persName>, à
                            l'Italie, qui, grâce à nos soldats et à notre or,
                         s'est constituée en une monarchie indépendante.</p>
                   </div>
