@@ -1130,7 +1130,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch103.xml?person_annotation_20240104185809472",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:58:09.472Z",
-	"dcterms:modified": "2024-01-04T23:58:09.472Z",
+	"dcterms:modified": "2026-10-19T16:25:35.272Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1162,7 +1162,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q562604",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers259",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1171,7 +1171,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -1386,8 +1398,8 @@
                      <p>Ce gaz brûle avec facilité en donnant une belle lumière dont le pouvoir
                         éclairant est de beaucoup supérieur à celui des chandelles es bougies.
                         L'idée d'éclairer les rues et les appartements au moyen de ce produit est
-                        due à un ingénieur français, <persName key="Philippe le Bon" ref="http://www.wikidata.org/entity/Q562604"><term>Philippe
-                              Lebon</term></persName>, et date de 1801. L'indifférence de ses
+                        due à un ingénieur français, <persName key="Philippe David Lebon" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers259">Philippe
+                              Lebon</persName>, et date de 1801. L'indifférence de ses
                         concitoyens pour cette belle découverte et la ruine à laquelle ses essais
                         avaient abouti, le firent mourir prématurément. Les Anglais surent
                         habilement mettre ses idées en pratique, et, en 1805, plusieurs fabriques de
