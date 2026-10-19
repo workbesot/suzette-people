@@ -840,7 +840,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229222012196",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:20:12.196Z",
-	"dcterms:modified": "2024-03-01T03:20:12.196Z",
+	"dcterms:modified": "2026-10-19T16:50:42.009Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -872,7 +872,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q378572",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers058",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -881,7 +881,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -951,7 +963,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q138105",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers297",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1506,7 +1518,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229221818114",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:18:18.114Z",
-	"dcterms:modified": "2024-03-01T03:18:18.114Z",
+	"dcterms:modified": "2026-10-19T16:50:26.973Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1538,7 +1550,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q694498",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers244",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1547,7 +1559,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1585,7 +1609,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229221949749",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:19:49.749Z",
-	"dcterms:modified": "2024-03-01T03:19:49.749Z",
+	"dcterms:modified": "2026-10-19T16:50:36.541Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -1617,7 +1641,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q58773",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers109",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1626,7 +1650,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1755,7 +1791,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch120.xml?person_annotation_20240229221736597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-01T03:17:36.597Z",
-	"dcterms:modified": "2024-03-01T03:17:36.597Z",
+	"dcterms:modified": "2026-10-19T16:50:22.658Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1787,7 +1823,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7732",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1796,7 +1832,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -1986,7 +2034,7 @@
                         atteindrait seulement les revenus.</p>
                      <p>Les <term>puissances étrangères</term>, sur les sollicitations des émigrés,
                         dévoilèrent hautement, en 1791, leur intention de rétablir 
-                     <persName ana="française" key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732" role="roi">Louis XVI</persName> 
+                     <persName ana="française" key="Louis XVI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214" role="roi">Louis XVI</persName> 
                      	dans ses anciens droits, et la
                         noblesse comme le clergé dans les privilèges auxquels ils avaient renoncé
                         dans la nuit du 4 août 1789. Ils firent de nombreux rassemblements de
@@ -1996,15 +2044,15 @@
                         faite par l'autre. Le roi déclara, le 20 avril, la guerre à
                            l'Autriche et à ses alliés.</p>
                      <p>Les Prussiens entrèrent en campagne les premiers, et pénétrèrent dans la
-                           Lorraine, mal défendue par <persName key="Nicolas Luckner" ref="http://www.wikidata.org/entity/Q694498" ana="française" role="homme de guerre">Luckner</persName>. L'émotion fut immense ; l'Assemblée
+                           Lorraine, mal défendue par <persName key="Nicolas Luckner" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers244" ana="française" role="homme de guerre">Luckner</persName>. L'émotion fut immense ; l'Assemblée
                         législative déclara la patrie en danger ; on fit de nombreux enrôlements
-                        auxquels le généralissime prussien, le <persName key="Charles William Ferdinand, Duke of Brunswick-Wolfenbüttel" ref="http://www.wikidata.org/entity/Q58773" ana="allemande" role="homme de guerre">duc de
+                        auxquels le généralissime prussien, le <persName key="Frédéric-Guillaume de Brunswick-Wolfenbüttel" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers109" ana="allemande" role="homme de guerre">duc de
                            Brunswick,</persName> répondit par une proclamation menaçante.
                            Longwy fut pris le 20 août ;
                            Verdun capitula le 1er septembre.</p>
                      <p>Ces tristes événements furent à Paris l'occasion
                         d'affreux massacres dans les prisons.</p>
-                     <p>Les généraux <persName key="Charles François Dumouriez" ref="http://www.wikidata.org/entity/Q378572" ana="française" role="homme de guerre">Dumouriez</persName> et <persName key="François Étienne de Kellermann" ref="http://www.wikidata.org/entity/Q138105" ana="française" role="homme de guerre">Kellermann</persName> marchèrent à la rencontre des
+                     <p>Les généraux <persName key="Charles-François Dumouriez" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers058" ana="française" role="homme de guerre">Dumouriez</persName> et <persName key="François-Christophe Kellermann" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers297" ana="française" role="homme de guerre">Kellermann</persName> marchèrent à la rencontre des
                         <orgName key="Prussia" ref="http://www.wikidata.org/entity/Q38872">Prussiens</orgName> ; l'effort principal de la bataille, qui s'engagea le <eventName>20 septembre 1792</eventName>, porta sur la butte de Valmy. Nos conscrits
                         supportèrent le feu avec un sang-froid sur lequel l'ennemi ne comptait pas ;
                         la bataille ne fut guère qu'une canonnade de plusieurs heures, pendant
