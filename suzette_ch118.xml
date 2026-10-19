@@ -545,7 +545,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20240104180426408",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-04T23:04:26.408Z",
-	"dcterms:modified": "2026-10-19T16:42:29.699Z",
+	"dcterms:modified": "2026-10-19T16:43:05.324Z",
 	"dcterms:creator": {
 		"@id": "1",
 		"@type": [
@@ -572,7 +572,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20240104180426408#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[3]/persName[3]"
+			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[3]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -748,6 +748,85 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q349167",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20261019124244778",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-19T16:42:44.778Z",
+	"dcterms:modified": "2026-10-19T16:42:49.259Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20261019124244778#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch118.xml?person_annotation_20261019124244778#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers142",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -969,8 +1048,8 @@
                         de <persName key="Louis XIV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers212">Louis <persName type="historique"/>XIV</persName>, avait déjà pensé que, pour en finir, il faudrait
                         s'emparer de ce nid de corsaires.</p>
                      <p>Depuis longtemps des démêlés existaient entre la
-                           France et le <persName type="historique">dey
-                              d'Alger</persName>, <persName type="historique">Hussein-Pacha</persName>. On négocia, on bloqua avec une puissante
+                           France et le dey
+                              d'Alger, <persName key="Hussein Pacha" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers142">Hussein-Pacha</persName>. On négocia, on bloqua avec une puissante
                         flotte de guerre les côtes de l'Algérie ; cela
                         n'aboutit qu'à faire insulter deux fois la France
                         dans la personne de son représentant (1827-1830) Le gouvernement du roi
