@@ -2274,7 +2274,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133804797",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:38:04.797Z",
-	"dcterms:modified": "2023-10-18T17:38:04.797Z",
+	"dcterms:modified": "2026-10-20T18:48:23.678Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2306,7 +2306,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7738",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2315,7 +2315,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2353,7 +2365,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133906083",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:39:06.083Z",
-	"dcterms:modified": "2023-10-18T17:39:06.083Z",
+	"dcterms:modified": "2026-10-20T18:48:28.373Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2385,7 +2397,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q54022",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers286",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2394,7 +2406,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2432,7 +2456,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133922693",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:39:22.693Z",
-	"dcterms:modified": "2023-10-18T17:39:22.693Z",
+	"dcterms:modified": "2026-10-20T18:48:33.029Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2464,7 +2488,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q76723",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers235",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2473,7 +2497,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2511,7 +2547,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133939826",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:39:39.826Z",
-	"dcterms:modified": "2023-10-18T17:39:39.826Z",
+	"dcterms:modified": "2026-10-20T18:48:39.302Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2543,7 +2579,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7732",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2552,7 +2588,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2590,7 +2638,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018134144936",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:41:44.936Z",
-	"dcterms:modified": "2023-10-18T17:41:44.936Z",
+	"dcterms:modified": "2026-10-20T18:48:46.509Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2622,7 +2670,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q113695172",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers027",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2631,7 +2679,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2669,7 +2729,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018134201291",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:42:01.291Z",
-	"dcterms:modified": "2023-10-18T17:42:01.291Z",
+	"dcterms:modified": "2026-10-20T18:48:52.094Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2701,7 +2761,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q517",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2710,7 +2770,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3149,8 +3221,8 @@
                      <p>Le château de Chambord, le plus beau de
                            France, fut construit sous le règne de <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François Ier</persName> par <persName key="Pierre Nepveu" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers266">Pierre Nepveu</persName>, sur l'emplacement d'une maison de plaisance
                         des <persName key="count of Blois, Châteaudun and Chartres" ref="http://www.wikidata.org/entity/Q61883629">comtes de Blois</persName>. Il fut donné par
-                           <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV</persName> à son beau-père <persName key="Stanisław Leszczyński" ref="http://www.wikidata.org/entity/Q54022">Stanislas</persName>, puis au <persName key="Maurice de Saxe" ref="http://www.wikidata.org/entity/Q76723">maréchal de Saxe</persName>. <persName key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732">Louis XVI</persName> en accorda la jouissance aux
-                           <persName key="François Camille de Polignac, Marquis de Polignac" ref="http://www.wikidata.org/entity/Q113695172">Polignac</persName>. <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517">Napoléon</persName> en fit don à <persName key="Louis-Alexandre Berthier" ref="http://www.wikidata.org/entity/Q155734">Berthier</persName>, <pb type="page" n="467" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_467.jpg"/>
+                           <persName key="Louis XV" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213">Louis XV</persName> à son beau-père <persName key="Stanislas Leszczynski" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers286">Stanislas</persName>, puis au <persName key="Maurice de Saxe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers235">maréchal de Saxe</persName>. <persName key="Louis XVI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214">Louis XVI</persName> en accorda la jouissance aux
+                           <persName key="Armand Jules François de Polignac" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers027">Polignac</persName>. <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240">Napoléon</persName> en fit don à <persName key="Louis-Alexandre Berthier" ref="http://www.wikidata.org/entity/Q155734">Berthier</persName>, <pb type="page" n="467" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_467.jpg"/>
                          prince de Wagram, et, en 1821, il fut acquis au
                         moyen d'une souscription et offert au petit-neveu du roi <persName key="Louis XVIII of France" ref="http://www.wikidata.org/entity/Q7750">Louis XVIII</persName>, futur héritier du trône, connu
                         plus tard sous le nom de <persName key="Prince Henri, Count of Chambord" ref="http://www.wikidata.org/entity/Q88851">comte de
