@@ -100,10 +100,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194500325",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123729113",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:45:00.325Z",
-	"dcterms:modified": "2026-10-16T16:37:29.113Z",
+	"dcterms:created": "2026-10-16T16:37:29.113Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -114,7 +113,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194500325#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123729113#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -128,7 +127,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194500325#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123729113#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/figure/caption/persName"
 		}
@@ -144,19 +143,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -191,10 +178,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194756829",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123735129",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:47:56.829Z",
-	"dcterms:modified": "2026-10-16T16:37:35.129Z",
+	"dcterms:created": "2026-10-16T16:37:35.129Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -205,7 +191,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194756829#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123735129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -219,7 +205,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194756829#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123735129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[3]/persName"
 		}
@@ -235,19 +221,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -282,10 +256,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194855699",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123740346",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:48:55.699Z",
-	"dcterms:modified": "2026-10-16T16:37:40.346Z",
+	"dcterms:created": "2026-10-16T16:37:40.346Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -296,7 +269,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194855699#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123740346#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -310,7 +283,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229194855699#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123740346#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[4]/persName"
 		}
@@ -326,19 +299,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -373,10 +334,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195146053",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123751781",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:51:46.053Z",
-	"dcterms:modified": "2026-10-16T16:37:51.781Z",
+	"dcterms:created": "2026-10-16T16:37:51.781Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -387,7 +347,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195146053#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123751781#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -401,7 +361,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195146053#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123751781#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[5]/persName"
 		}
@@ -417,19 +377,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -464,10 +412,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195230802",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123804315",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:52:30.802Z",
-	"dcterms:modified": "2026-10-16T16:38:04.315Z",
+	"dcterms:created": "2026-10-16T16:38:04.315Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -478,7 +425,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195230802#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123804315#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -492,7 +439,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195230802#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123804315#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[5]/persName[2]"
 		}
@@ -508,19 +455,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -555,10 +490,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195315296",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123813484",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:53:15.296Z",
-	"dcterms:modified": "2026-10-16T16:38:13.484Z",
+	"dcterms:created": "2026-10-16T16:38:13.484Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -569,7 +503,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195315296#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123813484#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -583,7 +517,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195315296#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123813484#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[5]/persName[3]"
 		}
@@ -599,19 +533,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -646,10 +568,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195407097",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123818130",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:54:07.097Z",
-	"dcterms:modified": "2026-10-16T16:38:18.130Z",
+	"dcterms:created": "2026-10-16T16:38:18.130Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -660,7 +581,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195407097#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123818130#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -674,7 +595,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195407097#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123818130#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div/p[6]/persName"
 		}
@@ -690,19 +611,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -737,10 +646,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195507544",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123830166",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:55:07.544Z",
-	"dcterms:modified": "2026-10-16T16:38:30.166Z",
+	"dcterms:created": "2026-10-16T16:38:30.166Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -751,7 +659,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195507544#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123830166#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -765,7 +673,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195507544#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123830166#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/list/item[3]/persName"
 		}
@@ -781,19 +689,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -828,10 +724,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195552627",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123836616",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:55:52.627Z",
-	"dcterms:modified": "2026-10-16T16:38:36.616Z",
+	"dcterms:created": "2026-10-16T16:38:36.616Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -842,7 +737,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195552627#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123836616#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -856,7 +751,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195552627#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123836616#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/list/item[7]/persName"
 		}
@@ -872,19 +767,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -919,10 +802,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195745787",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123846447",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:57:45.787Z",
-	"dcterms:modified": "2026-10-16T16:38:46.447Z",
+	"dcterms:created": "2026-10-16T16:38:46.447Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -933,7 +815,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195745787#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123846447#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -947,7 +829,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195745787#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123846447#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div/list/item/persName"
 		}
@@ -963,19 +845,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1010,10 +880,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195728733",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123900522",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:57:28.733Z",
-	"dcterms:modified": "2026-10-16T16:39:00.522Z",
+	"dcterms:created": "2026-10-16T16:39:00.522Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1024,7 +893,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195728733#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123900522#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1038,7 +907,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195728733#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123900522#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div/list/item[2]/persName"
 		}
@@ -1054,19 +923,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1101,10 +958,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195819248",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123906783",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:58:19.248Z",
-	"dcterms:modified": "2026-10-16T16:39:06.783Z",
+	"dcterms:created": "2026-10-16T16:39:06.783Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1115,7 +971,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195819248#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123906783#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1129,7 +985,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195819248#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123906783#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div/list/item[4]/persName"
 		}
@@ -1145,19 +1001,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1192,10 +1036,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195858775",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123914925",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T00:58:58.775Z",
-	"dcterms:modified": "2026-10-16T16:39:14.925Z",
+	"dcterms:created": "2026-10-16T16:39:14.925Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1206,7 +1049,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195858775#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123914925#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1220,7 +1063,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229195858775#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123914925#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div/list/item[4]/persName[2]"
 		}
@@ -1236,19 +1079,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1283,10 +1114,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200359742",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123931458",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:03:59.742Z",
-	"dcterms:modified": "2026-10-16T16:39:31.458Z",
+	"dcterms:created": "2026-10-16T16:39:31.458Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1297,7 +1127,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200359742#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123931458#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1311,7 +1141,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200359742#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016123931458#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p/persName"
 		}
@@ -1327,19 +1157,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1374,10 +1192,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200619413",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124036093",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:06:19.413Z",
-	"dcterms:modified": "2026-10-16T16:40:36.093Z",
+	"dcterms:created": "2026-10-16T16:40:36.093Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1388,7 +1205,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200619413#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124036093#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1402,7 +1219,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229200619413#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124036093#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p/persName[2]"
 		}
@@ -1418,19 +1235,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1465,10 +1270,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201022379",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124235389",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:10:22.379Z",
-	"dcterms:modified": "2026-10-16T16:42:35.389Z",
+	"dcterms:created": "2026-10-16T16:42:35.389Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1479,7 +1283,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201022379#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124235389#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1493,7 +1297,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201022379#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124235389#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p/persName[3]"
 		}
@@ -1509,19 +1313,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1556,10 +1348,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201128514",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124243129",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:11:28.514Z",
-	"dcterms:modified": "2026-10-16T16:42:43.129Z",
+	"dcterms:created": "2026-10-16T16:42:43.129Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1570,7 +1361,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201128514#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124243129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1584,7 +1375,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201128514#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124243129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p/persName[4]"
 		}
@@ -1600,19 +1391,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1647,10 +1426,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201204891",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124253017",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:12:04.891Z",
-	"dcterms:modified": "2026-10-16T16:42:53.017Z",
+	"dcterms:created": "2026-10-16T16:42:53.017Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1661,7 +1439,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201204891#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124253017#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1675,7 +1453,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201204891#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124253017#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[2]/persName"
 		}
@@ -1691,19 +1469,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1738,10 +1504,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201339710",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124258898",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:13:39.710Z",
-	"dcterms:modified": "2026-10-16T16:42:58.898Z",
+	"dcterms:created": "2026-10-16T16:42:58.898Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1752,7 +1517,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201339710#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124258898#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1766,7 +1531,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201339710#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124258898#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[2]/persName[2]"
 		}
@@ -1782,19 +1547,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1829,10 +1582,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201523002",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124305216",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:15:23.002Z",
-	"dcterms:modified": "2026-10-16T16:43:05.216Z",
+	"dcterms:created": "2026-10-16T16:43:05.216Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1843,7 +1595,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201523002#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124305216#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1857,7 +1609,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201523002#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124305216#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[2]/persName[3]"
 		}
@@ -1873,19 +1625,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -1920,10 +1660,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201625234",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124313266",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:16:25.234Z",
-	"dcterms:modified": "2026-10-16T16:43:13.266Z",
+	"dcterms:created": "2026-10-16T16:43:13.266Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1934,7 +1673,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201625234#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124313266#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -1948,7 +1687,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201625234#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124313266#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName"
 		}
@@ -1964,19 +1703,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -2011,10 +1738,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201721582",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124317990",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:17:21.582Z",
-	"dcterms:modified": "2026-10-16T16:43:17.990Z",
+	"dcterms:created": "2026-10-16T16:43:17.990Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2025,7 +1751,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201721582#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124317990#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -2039,7 +1765,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229201721582#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124317990#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName[2]"
 		}
@@ -2055,19 +1781,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -2102,10 +1816,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202756056",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124745234",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:27:56.056Z",
-	"dcterms:modified": "2026-10-16T16:47:45.234Z",
+	"dcterms:created": "2026-10-16T16:47:45.234Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2116,7 +1829,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202756056#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124745234#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -2130,7 +1843,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202756056#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124745234#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName[3]"
 		}
@@ -2146,19 +1859,7 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
-		}
-	]
+	}
 }]]>
         </rdf:Description>
       
@@ -2193,10 +1894,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202827335",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124801599",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-01T01:28:27.335Z",
-	"dcterms:modified": "2026-10-16T16:48:01.599Z",
+	"dcterms:created": "2026-10-16T16:48:01.599Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2207,7 +1907,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202827335#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124801599#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
@@ -2221,7 +1921,7 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20240229202827335#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261016124801599#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName[4]"
 		}
@@ -2237,19 +1937,86 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
 	},
-	"dcterms:contributor": [
-		{
-			"dcterms:contributor": {
-				"@id": "https://github.com/workbesot",
-				"@type": [
-					"cwrc:NaturalPerson",
-					"schema:Person"
-				],
-				"cwrc:hasName": "John Westbrook"
-			}
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261020151308939",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-10-20T19:13:08.939Z",
+	"dcterms:modified": "2026-10-20T19:13:08.939Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/workbesot",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "John Westbrook"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261020151308939#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.3.2"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261020151308939#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/div[2]/div[2]/p[3]/persName[5]"
 		}
-	]
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzper304",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.3.2"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><profileDesc>
@@ -2416,7 +2183,7 @@
                         son fils et de la France ; elle abandonnait le
                         malheureux roi dans la détresse et le besoin, et pendant ce temps vivait au
                         milieu des plaisirs. En 1421, on la vit signer le honteux <eventName>traité de Troyes</eventName>, par lequel elle donnait sa fille <persName ana="française" key="Catherine de Valois" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers042" role="reine">Cathérine</persName> comme épouse au roi <persName ana="britannique" key="Henri V" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers138" role="roi">Henri V d'Angleterre</persName>, avec la succession de
-                        la couronne de France, aù préjudice du dauphin <persName ana="française" key="Charles VII of France" ref="http://www.wikidata.org/entity/Q133372" role="roi">Charles</persName>.</p>
+                        la couronne de France, aù préjudice du dauphin <persName ana="française" key="Chares de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzper304" role="roi">Charles</persName>.</p>
                   </div>
                </div>
                <div type="hygiène">
