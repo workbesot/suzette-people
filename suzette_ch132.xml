@@ -2820,7 +2820,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018134256633",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:42:56.633Z",
-	"dcterms:modified": "2023-10-18T17:42:56.633Z",
+	"dcterms:modified": "2026-10-20T18:49:01.273Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2852,7 +2852,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q155734",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers216",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2861,7 +2861,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2899,7 +2911,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018134345170",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:43:45.170Z",
-	"dcterms:modified": "2023-10-18T17:43:45.170Z",
+	"dcterms:modified": "2026-10-20T18:49:11.655Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2931,7 +2943,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7750",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers215",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2940,7 +2952,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3222,9 +3246,9 @@
                            France, fut construit sous le règne de <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François Ier</persName> par <persName key="Pierre Nepveu" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers266">Pierre Nepveu</persName>, sur l'emplacement d'une maison de plaisance
                         des <persName key="count of Blois, Châteaudun and Chartres" ref="http://www.wikidata.org/entity/Q61883629">comtes de Blois</persName>. Il fut donné par
                            <persName key="Louis XV" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers213">Louis XV</persName> à son beau-père <persName key="Stanislas Leszczynski" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers286">Stanislas</persName>, puis au <persName key="Maurice de Saxe" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers235">maréchal de Saxe</persName>. <persName key="Louis XVI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers214">Louis XVI</persName> en accorda la jouissance aux
-                           <persName key="Armand Jules François de Polignac" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers027">Polignac</persName>. <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240">Napoléon</persName> en fit don à <persName key="Louis-Alexandre Berthier" ref="http://www.wikidata.org/entity/Q155734">Berthier</persName>, <pb type="page" n="467" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_467.jpg"/>
+                           <persName key="Armand Jules François de Polignac" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers027">Polignac</persName>. <persName key="Napoléon Ier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers240">Napoléon</persName> en fit don à <persName key="Louis-Alexandre Berthier" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers216">Berthier</persName>, <pb type="page" n="467" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_467.jpg"/>
                          prince de Wagram, et, en 1821, il fut acquis au
-                        moyen d'une souscription et offert au petit-neveu du roi <persName key="Louis XVIII of France" ref="http://www.wikidata.org/entity/Q7750">Louis XVIII</persName>, futur héritier du trône, connu
+                        moyen d'une souscription et offert au petit-neveu du roi <persName key="Louis XVIIl" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers215">Louis XVIII</persName>, futur héritier du trône, connu
                         plus tard sous le nom de <persName key="Prince Henri, Count of Chambord" ref="http://www.wikidata.org/entity/Q88851">comte de
                            Chambord</persName>.</p>
                   </div>
