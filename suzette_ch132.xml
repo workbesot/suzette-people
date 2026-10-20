@@ -454,7 +454,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018132145304",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:21:45.304Z",
-	"dcterms:modified": "2023-10-18T17:21:45.304Z",
+	"dcterms:modified": "2026-10-20T18:38:42.111Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -486,7 +486,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q53448",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers135",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -495,7 +495,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -533,7 +545,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018132607272",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:26:07.272Z",
-	"dcterms:modified": "2023-10-18T17:26:07.272Z",
+	"dcterms:modified": "2026-10-20T18:39:00.174Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -565,7 +577,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q936976",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -574,7 +586,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -612,7 +636,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018132715611",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:27:15.611Z",
-	"dcterms:modified": "2023-10-18T17:27:15.611Z",
+	"dcterms:modified": "2026-10-20T18:39:06.507Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -644,7 +668,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q134452",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers056",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -653,7 +677,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -691,7 +727,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018132733073",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:27:33.073Z",
-	"dcterms:modified": "2023-10-18T17:27:33.073Z",
+	"dcterms:modified": "2026-10-20T18:39:11.620Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -723,7 +759,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q58514",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -732,7 +768,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3042,13 +3090,13 @@
                         kilomètres de Blois, au sud de la Loire.)</p>
                      <p>Le château de Plessis-les-Tours fut bâti par
                            <persName key="Louis XI" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers209">Louis XI</persName>, qui y séjourna longtemps
-                        et y mourut en 1463 ; le 30 avril 1589, <persName key="Henry III of France" ref="http://www.wikidata.org/entity/Q53448">Henri
-                           IlI</persName> et son beau-frère <persName key="Henry IV of France" ref="http://www.wikidata.org/entity/Q936976">Henri de
+                        et y mourut en 1463 ; le 30 avril 1589, <persName key="Henri III" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers135">Henri
+                           IlI</persName> et son beau-frère <persName key="Henri IV de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers136">Henri de
                            Navarre</persName> y conclurent une alliance contre la Ligue.</p>
                      <p>Le château d'Amboise, bâti sur les ruines d'un
                         château romain, fut reconstruit au huitieme siècle, puis, une seconde fois,
-                        sous les règnes de <persName key="Charles VIII of France" ref="http://www.wikidata.org/entity/Q134452">Charles VIII</persName>,
-                           <persName key="Louis XII of France" ref="http://www.wikidata.org/entity/Q58514">Louis XII</persName> et <persName key="Francis I of France" ref="http://www.wikidata.org/entity/Q129857">François Ier</persName>. Les rois y résidèrent souvent.
+                        sous les règnes de <persName key="Charles VIII de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers056">Charles VIII</persName>,
+                           <persName key="Louis XII" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210">Louis XII</persName> et <persName key="Francis I of France" ref="http://www.wikidata.org/entity/Q129857">François Ier</persName>. Les rois y résidèrent souvent.
                            <persName key="Louis XI of France" ref="http://www.wikidata.org/entity/Q8058">Louis XI</persName> y institua l'ordre de
                         Saint-Michel (1469) ; <persName key="Charles VIII of France" ref="http://www.wikidata.org/entity/Q134452">Charles VIII</persName> y
                         naquit (1470) et y mourut (1498). <persName key="Francis II of France" ref="http://www.wikidata.org/entity/Q132548">François
