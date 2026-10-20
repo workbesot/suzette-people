@@ -1452,10 +1452,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133202141",
+	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133216154",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-10-18T17:32:02.141Z",
-	"dcterms:modified": "2026-10-20T18:40:55.979Z",
+	"dcterms:created": "2023-10-18T17:32:16.154Z",
+	"dcterms:modified": "2026-10-20T18:42:21.924Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1466,7 +1466,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133202141#Target",
+		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133216154#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml",
@@ -1480,14 +1480,14 @@
 			"schema:softwareVersion": "4.3.2"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133202141#Selector",
+			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133216154#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[4]/persName[3]"
+			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[4]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q644635",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers211",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1543,89 +1543,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133216154",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-10-18T17:32:16.154Z",
-	"dcterms:modified": "2023-10-18T17:32:16.154Z",
-	"dcterms:creator": {
-		"@id": "5",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "John Westbrook"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133216154#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "4.3.2"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133216154#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[3]/div[3]/div[2]/p[4]/persName[4]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q737533",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "4.3.2"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133229709",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:32:29.709Z",
-	"dcterms:modified": "2023-10-18T17:32:29.709Z",
+	"dcterms:modified": "2026-10-20T18:42:30.278Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1657,7 +1578,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q58514",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1666,7 +1587,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3199,7 +3132,7 @@
                            II</persName> s'y réfugia lors de la première prise d'armes des
                         calvinistes (1560), connue sous le nom de conjuration
                            d'Amboise. <persName key="Abd el-Kader" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers001">Abd-el-kader</persName> y fut interné de 1848 à 1852.</p>
-                     <p>Le château actuel de Blois fut commencé par <persName key="Louis XII" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210">Louis XII</persName>, continué sous <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François Ier</persName> et achevé par <persName key="Gaston, Duke of Orléans" ref="http://www.wikidata.org/entity/Q644635">Gaston d'Orléans</persName>, frère de <persName key="Louis XIII of France" ref="http://www.wikidata.org/entity/Q737533">Louis XIII</persName>. <persName key="Louis XII of France" ref="http://www.wikidata.org/entity/Q58514">Louis XII</persName> aimait à y séjourner : c'était d'ailleurs le lieu
+                     <p>Le château actuel de Blois fut commencé par <persName key="Louis XII" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210">Louis XII</persName>, continué sous <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François Ier</persName> et achevé par <persName key="Gaston, Duke of Orléans" ref="http://www.wikidata.org/entity/Q644635">Gaston d'Orléans</persName>, frère de <persName key="Louis XIII de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers211">Louis XIII</persName>. <persName key="Louis XII" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210">Louis XII</persName> aimait à y séjourner : c'était d'ailleurs le lieu
                         de sa naissance ; il y signa divers traités. Il s'y tint des Etats généraux
                         en 1577 et 1588 ; c'est pendant la réunion de ceux de 1588 que <persName key="Henry III of France" ref="http://www.wikidata.org/entity/Q53448">Henri III</persName> y fit assassiner le duc et le
                         <persName key="Charles, Cardinal of Lorraine" ref="http://www.wikidata.org/entity/Q712264">cardinal de Guise</persName> qui voulaient le
