@@ -1910,7 +1910,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133359412",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:33:59.412Z",
-	"dcterms:modified": "2023-10-18T17:33:59.412Z",
+	"dcterms:modified": "2026-10-20T18:43:07.192Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1951,7 +1951,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1989,7 +2001,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133550120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:35:50.120Z",
-	"dcterms:modified": "2023-10-18T17:35:50.120Z",
+	"dcterms:modified": "2026-10-20T18:45:47.679Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2021,7 +2033,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q157491",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers229",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2030,7 +2042,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2068,7 +2092,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133659592",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:36:59.592Z",
-	"dcterms:modified": "2023-10-18T17:36:59.592Z",
+	"dcterms:modified": "2026-10-20T18:46:00.496Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2100,7 +2124,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q129857",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2109,7 +2133,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -2147,7 +2183,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133717297",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:37:17.297Z",
-	"dcterms:modified": "2023-10-18T17:37:17.297Z",
+	"dcterms:modified": "2026-10-20T18:46:05.979Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2179,7 +2215,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3386424",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers266",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2188,7 +2224,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3175,10 +3223,10 @@
                         <persName key="Louis II de Guise" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers204">cardinal de Guise</persName> qui voulaient le
                         détrôner. <persName key="Marie de Médicis" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers227">Marie de Médicis</persName> y fut
                         reléguée après l'assassinat de <persName key="Concino Concini" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers072">Concini</persName> (1679). C'est à Blois que
-                           <persName key="Marie Louise I, Duchess of Parma" ref="http://www.wikidata.org/entity/Q157491">Marie-Louise</persName> se retira, le 2 avril
+                           <persName key="Marie-Louise d'Autriche" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers229">Marie-Louise</persName> se retira, le 2 avril
                         1814, pour en repartir avec son fils le 9 mai suivant.</p>
                      <p>Le château de Chambord, le plus beau de
-                           France, fut construit sous le règne de <persName key="Francis I of France" ref="http://www.wikidata.org/entity/Q129857">François Ier</persName> par <persName key="Pierre Nepveu" ref="http://www.wikidata.org/entity/Q3386424">Pierre Nepveu</persName>, sur l'emplacement d'une maison de plaisance
+                           France, fut construit sous le règne de <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François Ier</persName> par <persName key="Pierre Nepveu" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers266">Pierre Nepveu</persName>, sur l'emplacement d'une maison de plaisance
                         des <persName key="count of Blois, Châteaudun and Chartres" ref="http://www.wikidata.org/entity/Q61883629">comtes de Blois</persName>. Il fut donné par
                            <persName key="Louis XV of France" ref="http://www.wikidata.org/entity/Q7738">Louis XV</persName> à son beau-père <persName key="Stanisław Leszczyński" ref="http://www.wikidata.org/entity/Q54022">Stanislas</persName>, puis au <persName key="Maurice de Saxe" ref="http://www.wikidata.org/entity/Q76723">maréchal de Saxe</persName>. <persName key="Louis XVI of France" ref="http://www.wikidata.org/entity/Q7732">Louis XVI</persName> en accorda la jouissance aux
                            <persName key="François Camille de Polignac, Marquis de Polignac" ref="http://www.wikidata.org/entity/Q113695172">Polignac</persName>. <persName key="Napoleon" ref="http://www.wikidata.org/entity/Q517">Napoléon</persName> en fit don à <persName key="Louis-Alexandre Berthier" ref="http://www.wikidata.org/entity/Q155734">Berthier</persName>, <pb type="page" n="467" facs="https://raw.githubusercontent.com/BucknellDSC/suzette/master/images/page_images/Suzette_467.jpg"/>
