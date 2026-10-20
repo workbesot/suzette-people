@@ -2274,7 +2274,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133752268",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:37:52.268Z",
-	"dcterms:modified": "2023-10-18T17:37:52.268Z",
+	"dcterms:modified": "2026-10-20T18:46:40.035Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -2315,7 +2315,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
