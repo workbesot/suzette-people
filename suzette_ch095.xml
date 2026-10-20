@@ -1975,7 +1975,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch095.xml?person_annotation_20261020151308939",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-10-20T19:13:08.939Z",
-	"dcterms:modified": "2026-10-20T19:13:08.939Z",
+	"dcterms:modified": "2026-10-20T19:13:41.661Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/workbesot",
 		"@type": [
