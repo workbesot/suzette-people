@@ -1182,7 +1182,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133016307",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:30:16.307Z",
-	"dcterms:modified": "2023-10-18T17:30:16.307Z",
+	"dcterms:modified": "2026-10-20T18:39:49.328Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1214,7 +1214,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q179825",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers001",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1223,7 +1223,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1261,7 +1273,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133050139",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:30:50.139Z",
-	"dcterms:modified": "2023-10-18T17:30:50.139Z",
+	"dcterms:modified": "2026-10-20T18:39:57.419Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1293,7 +1305,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q58514",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1302,7 +1314,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -1340,7 +1364,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch132.xml?person_annotation_20231018133105179",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T17:31:05.179Z",
-	"dcterms:modified": "2023-10-18T17:31:05.179Z",
+	"dcterms:modified": "2026-10-20T18:40:01.996Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -1372,7 +1396,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q129857",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1381,7 +1405,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -3150,8 +3186,8 @@
                         naquit (1470) et y mourut (1498). <persName key="François II" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers099">François
                            II</persName> s'y réfugia lors de la première prise d'armes des
                         calvinistes (1560), connue sous le nom de conjuration
-                           d'Amboise. <persName key="Abdelkader El Djezairi" ref="http://www.wikidata.org/entity/Q179825">Abd-el-kader</persName> y fut interné de 1848 à 1852.</p>
-                     <p>Le château actuel de Blois fut commencé par <persName key="Louis XII of France" ref="http://www.wikidata.org/entity/Q58514">Louis XII</persName>, continué sous <persName key="Francis I of France" ref="http://www.wikidata.org/entity/Q129857">François Ier</persName> et achevé par <persName key="Gaston, Duke of Orléans" ref="http://www.wikidata.org/entity/Q644635">Gaston d'Orléans</persName>, frère de <persName key="Louis XIII of France" ref="http://www.wikidata.org/entity/Q737533">Louis XIII</persName>. <persName key="Louis XII of France" ref="http://www.wikidata.org/entity/Q58514">Louis XII</persName> aimait à y séjourner : c'était d'ailleurs le lieu
+                           d'Amboise. <persName key="Abd el-Kader" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers001">Abd-el-kader</persName> y fut interné de 1848 à 1852.</p>
+                     <p>Le château actuel de Blois fut commencé par <persName key="Louis XII" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers210">Louis XII</persName>, continué sous <persName key="François Ier de France" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers097">François Ier</persName> et achevé par <persName key="Gaston, Duke of Orléans" ref="http://www.wikidata.org/entity/Q644635">Gaston d'Orléans</persName>, frère de <persName key="Louis XIII of France" ref="http://www.wikidata.org/entity/Q737533">Louis XIII</persName>. <persName key="Louis XII of France" ref="http://www.wikidata.org/entity/Q58514">Louis XII</persName> aimait à y séjourner : c'était d'ailleurs le lieu
                         de sa naissance ; il y signa divers traités. Il s'y tint des Etats généraux
                         en 1577 et 1588 ; c'est pendant la réunion de ceux de 1588 que <persName key="Henry III of France" ref="http://www.wikidata.org/entity/Q53448">Henri III</persName> y fit assassiner le duc et le
                         <persName key="Charles, Cardinal of Lorraine" ref="http://www.wikidata.org/entity/Q712264">cardinal de Guise</persName> qui voulaient le
