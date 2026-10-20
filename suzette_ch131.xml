@@ -363,7 +363,7 @@
 	"id": "https://raw.githubusercontent.com/workbesot/suzette-people/main/suzette_ch131.xml?person_annotation_20231018104053919",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-10-18T14:40:53.919Z",
-	"dcterms:modified": "2023-10-18T14:40:53.919Z",
+	"dcterms:modified": "2026-10-20T18:37:02.975Z",
 	"dcterms:creator": {
 		"@id": "5",
 		"@type": [
@@ -395,7 +395,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q313700",
+		"@id": "https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers133",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -404,7 +404,19 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "4.3.2"
-	}
+	},
+	"dcterms:contributor": [
+		{
+			"dcterms:contributor": {
+				"@id": "https://github.com/workbesot",
+				"@type": [
+					"cwrc:NaturalPerson",
+					"schema:Person"
+				],
+				"cwrc:hasName": "John Westbrook"
+			}
+		}
+	]
 }]]>
         </rdf:Description>
       
@@ -742,7 +754,7 @@
                </div>
                <figure>
                   <caption>Château de Blois ; château historique où se
-                     tinrent les Etats généraux de 1570 et de 1588 et où le <persName key="Henry I of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q313700">duc de Guise</persName> fut assassiné par ordre de
+                     tinrent les Etats généraux de 1570 et de 1588 et où le <persName key="Henri Ier de Guise" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers133">duc de Guise</persName> fut assassiné par ordre de
                         <persName key="Henri III" ref="https://raw.githubusercontent.com/BucknellDSC/suzette/refs/heads/master/suzette_personography.xml#suzpers135">Henri Ill</persName>.</caption>
                </figure>
                <div type="hygiène">
